@@ -211,39 +211,46 @@ $(function() {
 
     /*
     |--------------------------------------------------------------------------
-    | Swiper Slider
+    | Features Slider
     |--------------------------------------------------------------------------
     */
 
-	let swiperSlider = new Swiper('.jsSwiperSlider', {
+	let featuresSlider = new Swiper('.jsFeaturesSlider', {
 		speed: 600,
 		mousewheel: false,
-		loop: true,
-		autoplay: {
-			delay: 1000,
-			disableOnInteraction: false,
-		},
-		spaceBetween: 30,
+		loop: false,
+		spaceBetween: 0,
 		navigation: {
-			nextEl: '.jsSwiperNext',
-			prevEl: '.jsSwiperPrev',
+			nextEl: '.jsFeaturesSliderNext',
+			prevEl: '.jsFeaturesSliderPrev',
 		},
-		slidesPerView: 4,
-		breakpoints: {
-			1024: {
-				slidesPerView: 4,
-			},
-			768: {
-				slidesPerView: 3,
-			},
-			640: {
-				slidesPerView: 2,
-			},
-			320: {
-				slidesPerView: 1,
-			}
-		}
+		slidesPerView: 1,
+        pagination: {
+            el: '.jsFeaturesPagination',
+        },
 	});
+
+    /*
+    |--------------------------------------------------------------------------
+    | Why Slider
+    |--------------------------------------------------------------------------
+    */
+
+    let whySlider = new Swiper('.jsWhySlider', {
+        speed: 600,
+        mousewheel: false,
+        loop: false,
+        spaceBetween: 0,
+        navigation: {
+            nextEl: '.jsWhySliderNext',
+            prevEl: '.jsWhySliderPrev',
+        },
+        slidesPerView: 1,
+        pagination: {
+            el: '.jsWhyPagination',
+        },
+    });
+
 
     /*
     |--------------------------------------------------------------------------
