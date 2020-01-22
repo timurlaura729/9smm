@@ -18171,7 +18171,7 @@ iframe#youtube {
   color: #fff;
 }
 
-@media (max-width: 767.98px) {
+@media (max-width: 991.98px) {
   .why__desktop {
     display: none;
   }
@@ -18181,7 +18181,7 @@ iframe#youtube {
   display: none;
 }
 
-@media (max-width: 767.98px) {
+@media (max-width: 991.98px) {
   .why__mobile {
     display: block;
     text-align: center;
@@ -18355,7 +18355,7 @@ iframe#youtube {
   line-height: 1.1;
 }
 
-@media (max-width: 767.98px) {
+@media (max-width: 991.98px) {
   .why__text {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -18410,6 +18410,9 @@ iframe#youtube {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
 }
 
 .why__progress {
@@ -18424,17 +18427,20 @@ iframe#youtube {
   background: #C4C4C4;
 }
 
+.why__iphone {
+  height: 450px;
+}
+
 @media (max-width: 991.98px) {
   .why__iphone {
-    margin-top: 50px;
+    margin-right: -10px;
+    margin-top: 0;
   }
 }
 
 @media (max-width: 767.98px) {
   .why__iphone {
     height: 230px;
-    margin-right: -10px;
-    margin-top: 0;
   }
 }
 

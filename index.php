@@ -13,7 +13,7 @@
     <meta name="HandheldFriendly" content="true">
 
     <!-- Stylesheet -->
-    <link href="static/css/main.css" rel="stylesheet" type="text/css">
+    <link href="static/css/main.min.css" rel="stylesheet" type="text/css">
     <link href="static/css/separate-css/custom.css" rel="stylesheet" type="text/css">
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
@@ -631,35 +631,34 @@
                         <div class="tab-pane" id="tabs-10" role="tabpanel">
                             <div class="why__center">
                                 <div class="why__text">
-                                    <h2>Продвижение туристической компании “Smart tour”</h2>
+                                    <h2>Продвижение магазина товаров для питомцев “Petshop”</h2>
                                     <h3>Цель:</h3>
                                     <div class="why__text-content">
-                                        <p>С помощью Instagram донести до конечного потребителя мысль о том, что компания не только реализует горящие туры,  но и предоставляет максимальный уровень сервиса для клиентов.</p>
+                                        <p>Увеличить продажи и привлечь живую аудиторию, рассказать про ассортимент</p>
                                         <h3>Решение:</h3>
                                         <ul>
-                                            <li>наполнение контентом по тематическим рубрикам</li>
-                                            <li>проведение конкурсных механик</li>
-                                            <li>отрабка клиентских возражении (CERM)</li>
-                                            <li>сезонные акции для прогрева клиента</li>
-                                            <li>разработка стратегии продвижения и настройка рекламных кампаний</li>
+                                           <li>фотопродакшн</li>
+                                           <li>создание единого стиля публикаций/li>
+                                           <li>подготовка баннеров и промо-материалов/li>
+                                           <li>настройка таргетированной рекламы/li>
                                         </ul>
                                         <h3>Результат:</h3>
                                         <p>
-                                            <strong style="color: #D46575">6 000</strong>
-                                            <br> органической аудитории в месяц
+                                            <strong style="color: #D46575">459 327</strong>
+                                            <br>охват
                                         </p>
                                         <p>
-                                            <strong style="color: #D46575">2076</strong>
-                                            <br>заявок
+                                            <strong style="color: #D46575">583 035</strong>
+                                            <br>Показы
                                         </p>
                                         <p>
-                                            <strong style="color: #D46575">до 10%</strong>
-                                            <br> рост конверсии
+                                            <strong style="color: #D46575">20 903</strong>
+                                            <br>Кликов
                                         </p>
                                     </div>
                                     <a href="#" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
                                 </div>
-                                <img src="static/img/content/client5-insta.png" class="why__iphone">
+                                <img src="static/img/content/client3-insta.png" class="why__iphone">
                             </div>
                         </div>
                     </div>
@@ -672,7 +671,7 @@
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
                                     <a href="#" class="why__logo">
-                                        <img src="static/img/content/BVb3Wzn9orDR8mwVnhrSyd.jpg" alt="">
+                                        <img src="static/img/content/client4.png" alt="">
                                     </a>
                                     <div class="why__content">
                                         <h2>Продвижение магазина спортивной обуви</h2>
@@ -702,14 +701,14 @@
                                                     <br>кликов
                                                 </p>
                                             </div>
-                                            <img src="static/img/content/insta.png" class="why__iphone">
+                                            <img src="static/img/content/client4-insta.png" class="why__iphone">
                                         </div>
                                         <a href="#" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <a href="#" class="why__logo">
-                                        <img src="static/img/content/BVb3Wzn9orDR8mwVnhrSyd.jpg" alt="">
+                                        <img src="static/img/content/client5.png" alt="">
                                     </a>
                                     <div class="why__content">
                                         <h2>Продвижение туристической компании “Smart tour”</h2>
@@ -739,14 +738,14 @@
                                                     <br> рост конверсии
                                                 </p>
                                             </div>
-                                            <img src="static/img/content/insta.png" class="why__iphone">
+                                            <img src="static/img/content/client5-insta.png" class="why__iphone">
                                         </div>
                                         <a href="#" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <a href="#" class="why__logo">
-                                        <img src="static/img/content/BVb3Wzn9orDR8mwVnhrSyd.jpg" alt="">
+                                        <img src="static/img/content/client8.png" alt="">
                                     </a>
                                     <div class="why__content">
                                         <h2>Продвижение строительной компании “Novec”</h2>
@@ -780,14 +779,14 @@
                                                     <br>тг/ клик
                                                 </p>
                                             </div>
-                                            <img src="static/img/content/insta.png" class="why__iphone">
+                                            <img src="static/img/content/client8-insta.png" class="why__iphone">
                                         </div>
                                         <a href="#" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <a href="#" class="why__logo">
-                                        <img src="static/img/content/BVb3Wzn9orDR8mwVnhrSyd.jpg" alt="">
+                                        <img src="static/img/content/client1.jpg" alt="">
                                     </a>
                                     <div class="why__content">
                                         <h2>Обновление визуального ряда онлайн-магазина оригинального парфюма “Parfume.kz”</h2>
@@ -808,14 +807,14 @@
                                                     Приятный глазу визуальный стиль корпоративного профиля Instagram, наполненный ассортиментом товара и тематического контента, подчеркивающий его престижность и оригинальность.
                                                 </p>
                                             </div>
-                                            <img src="static/img/content/insta.png" class="why__iphone">
+                                            <img src="static/img/content/client1-insta.png" class="why__iphone">
                                         </div>
                                         <a href="#" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <a href="#" class="why__logo">
-                                        <img src="static/img/content/BVb3Wzn9orDR8mwVnhrSyd.jpg" alt="">
+                                        <img src="static/img/content/client6.png" alt="">
                                     </a>
                                     <div class="why__content">
                                         <h2>Продвижение логистической компании КРОМА ТРАНС</h2>
@@ -835,14 +834,14 @@
                                                     Яркий и информативный профиль Instagram c тематическим содержанием и активной аудиторией.
                                                 </p>
                                             </div>
-                                            <img src="static/img/content/insta.png" class="why__iphone">
+                                            <img src="static/img/content/client6-insta.png" class="why__iphone">
                                         </div>
                                         <a href="#" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <a href="#" class="why__logo">
-                                        <img src="static/img/content/BVb3Wzn9orDR8mwVnhrSyd.jpg" alt="">
+                                        <img src="static/img/content/client2.png" alt="">
                                     </a>
                                     <div class="why__content">
                                         <h2>Продвижение танцевальной студии “Next step”</h2>
@@ -871,14 +870,14 @@
                                                     <br>охват
                                                 </p>
                                             </div>
-                                            <img src="static/img/content/insta.png" class="why__iphone">
+                                            <img src="static/img/content/client2-insta.png" class="why__iphone">
                                         </div>
                                         <a href="#" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <a href="#" class="why__logo">
-                                        <img src="static/img/content/BVb3Wzn9orDR8mwVnhrSyd.jpg" alt="">
+                                        <img src="static/img/content/client7.png" alt="">
                                     </a>
                                     <div class="why__content">
                                         <h2>Продвижение магазина авторской детской одежды “baby.dress.ala” в Instagram</h2>
@@ -908,14 +907,14 @@
                                                     <br>увеличили объем продаж
                                                 </p>
                                             </div>
-                                            <img src="static/img/content/insta.png" class="why__iphone">
+                                            <img src="static/img/content/client7-insta.png" class="why__iphone">
                                         </div>
                                         <a href="#" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <a href="#" class="why__logo">
-                                        <img src="static/img/content/BVb3Wzn9orDR8mwVnhrSyd.jpg" alt="">
+                                        <img src="static/img/content/client10.png" alt="">
                                     </a>
                                     <div class="why__content">
                                         <h2>Продвижение фестиваля электронной музыки “Hype DJ fest”</h2>
@@ -945,14 +944,14 @@
                                                     <br>Показы рекламы
                                                 </p>
                                             </div>
-                                            <img src="static/img/content/insta.png" class="why__iphone">
+                                            <img src="static/img/content/client10-insta.png" class="why__iphone">
                                         </div>
                                         <a href="#" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <a href="#" class="why__logo">
-                                        <img src="static/img/content/BVb3Wzn9orDR8mwVnhrSyd.jpg" alt="">
+                                        <img src="static/img/content/client9.png" alt="">
                                     </a>
                                     <div class="why__content">
                                         <h2>Продвижение магазина брендовых джинсовых курток “youniq” </h2>
@@ -972,7 +971,43 @@
                                                     25 курток продано со средним чеком в размере 70 000 тенге
                                                 </p>
                                             </div>
-                                            <img src="static/img/content/insta.png" class="why__iphone">
+                                            <img src="static/img/content/client9-insta.png" class="why__iphone">
+                                        </div>
+                                        <a href="#" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <a href="#" class="why__logo">
+                                        <img src="static/img/content/client3.png" alt="">
+                                    </a>
+                                    <div class="why__content">
+                                        <h2>Продвижение магазина товаров для питомцев “Petshop” </h2>
+                                        <h3>Цель:</h3>
+                                        <div class="why__text">
+                                            <div class="why__text-content">
+                                                <p>Увеличить продажи и привлечь живую аудиторию, рассказать про ассортимент</p>
+                                                <h3>Решение:</h3>
+                                                <ul>
+                                                   <li>фотопродакшн</li>
+                                                   <li>создание единого стиля публикаций/li>
+                                                   <li>подготовка баннеров и промо-материалов/li>
+                                                   <li>настройка таргетированной рекламы/li>
+                                                </ul>
+                                                <h3>Результат:</h3>
+                                                <p>
+                                                    <strong style="color: #D46575">459 327</strong>
+                                                    <br>охват
+                                                </p>
+                                                <p>
+                                                    <strong style="color: #D46575">583 035</strong>
+                                                    <br>Показы
+                                                </p>
+                                                <p>
+                                                    <strong style="color: #D46575">20 903</strong>
+                                                    <br>Кликов
+                                                </p>
+                                            </div>
+                                            <img src="static/img/content/client3-insta.png" class="why__iphone">
                                         </div>
                                         <a href="#" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
                                     </div>
@@ -1333,7 +1368,7 @@
     <!--/. Modals End -->
 
     <!-- Main scripts. You can replace it, but I recommend you to leave it here -->
-    <script src="static/js/main.js"></script>
+    <script src="static/js/main.min.js"></script>
     <script src="static/js/separate-js/scripts.js"></script>
 
 </body>
