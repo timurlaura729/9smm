@@ -449,7 +449,7 @@
                         </div>
 
 
-                        <div class="tab-pane active" id="tabs-4" role="tabpanel">
+                        <div class="tab-pane" id="tabs-4" role="tabpanel">
                             <div class="why__center">
                                 <div class="why__text">
                                     <h2>Продвижение магазина спортивной обуви</h2>
@@ -484,7 +484,7 @@
                             </div>
                         </div>
 
-                        <div class="tab-pane active" id="tabs-5" role="tabpanel">
+                        <div class="tab-pane" id="tabs-5" role="tabpanel">
                             <div class="why__center">
                                 <div class="why__text">
                                     <h2>Продвижение магазина спортивной обуви</h2>
@@ -519,7 +519,7 @@
                             </div>
                         </div>
 
-                        <div class="tab-pane active" id="tabs-6" role="tabpanel">
+                        <div class="tab-pane" id="tabs-6" role="tabpanel">
                             <div class="why__center">
                                 <div class="why__text">
                                     <h2>Продвижение магазина спортивной обуви</h2>
@@ -554,7 +554,7 @@
                             </div>
                         </div>
 
-                        <div class="tab-pane active" id="tabs-7" role="tabpanel">
+                        <div class="tab-pane" id="tabs-7" role="tabpanel">
                             <div class="why__center">
                                 <div class="why__text">
                                     <h2>Продвижение магазина спортивной обуви</h2>
@@ -589,7 +589,7 @@
                             </div>
                         </div>
 
-                        <div class="tab-pane active" id="tabs-8" role="tabpanel">
+                        <div class="tab-pane" id="tabs-8" role="tabpanel">
                             <div class="why__center">
                                 <div class="why__text">
                                     <h2>Продвижение магазина спортивной обуви</h2>
@@ -624,7 +624,7 @@
                             </div>
                         </div>
 
-                        <div class="tab-pane active" id="tabs-9" role="tabpanel">
+                        <div class="tab-pane" id="tabs-9" role="tabpanel">
                             <div class="why__center">
                                 <div class="why__text">
                                     <h2>Продвижение магазина спортивной обуви</h2>
