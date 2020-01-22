@@ -447,6 +447,219 @@
                                 <img src="static/img/content/insta.png" class="why__iphone">
                             </div>
                         </div>
+
+
+                        <div class="tab-pane active" id="tabs-4" role="tabpanel">
+                            <div class="why__center">
+                                <div class="why__text">
+                                    <h2>Продвижение магазина спортивной обуви</h2>
+                                    <h3>Цель:</h3>
+                                    <div class="why__text-content">
+                                        <p>С помощью SMM сделать <b>sneakerzzz</b> лидером среди магазинов спортивной обуви, несмотря на большую конкуренцию. При этом нам нужно было выполнить поставленный KPI по охвату и вовлеченности.</p>
+                                        <h3>Решение:</h3>
+                                        <ul>
+                                            <li>фотосессия ассортимента</li>
+                                            <li>запуск конкурсов</li>
+                                            <li>прямые трансляции</li>
+                                            <li>настройка рекламных кампаний</li>
+                                            <li>подготовка баннеров и промо-материалов</li>
+                                        </ul>
+                                        <h3>Результат:</h3>
+                                        <p>
+                                            <strong style="color: #D46575">69 327</strong>
+                                            <br>охват
+                                        </p>
+                                        <p>
+                                            <strong style="color: #D46575">683 035</strong>
+                                            <br>показ
+                                        </p>
+                                        <p>
+                                            <strong style="color: #D46575">20 903</strong>
+                                            <br>кликов
+                                        </p>
+                                    </div>
+                                    <a href="#" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
+                                </div>
+                                <img src="static/img/content/insta.png" class="why__iphone">
+                            </div>
+                        </div>
+
+                        <div class="tab-pane active" id="tabs-5" role="tabpanel">
+                            <div class="why__center">
+                                <div class="why__text">
+                                    <h2>Продвижение магазина спортивной обуви</h2>
+                                    <h3>Цель:</h3>
+                                    <div class="why__text-content">
+                                        <p>С помощью SMM сделать <b>sneakerzzz</b> лидером среди магазинов спортивной обуви, несмотря на большую конкуренцию. При этом нам нужно было выполнить поставленный KPI по охвату и вовлеченности.</p>
+                                        <h3>Решение:</h3>
+                                        <ul>
+                                            <li>фотосессия ассортимента</li>
+                                            <li>запуск конкурсов</li>
+                                            <li>прямые трансляции</li>
+                                            <li>настройка рекламных кампаний</li>
+                                            <li>подготовка баннеров и промо-материалов</li>
+                                        </ul>
+                                        <h3>Результат:</h3>
+                                        <p>
+                                            <strong style="color: #D46575">69 327</strong>
+                                            <br>охват
+                                        </p>
+                                        <p>
+                                            <strong style="color: #D46575">683 035</strong>
+                                            <br>показ
+                                        </p>
+                                        <p>
+                                            <strong style="color: #D46575">20 903</strong>
+                                            <br>кликов
+                                        </p>
+                                    </div>
+                                    <a href="#" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
+                                </div>
+                                <img src="static/img/content/insta.png" class="why__iphone">
+                            </div>
+                        </div>
+
+                        <div class="tab-pane active" id="tabs-6" role="tabpanel">
+                            <div class="why__center">
+                                <div class="why__text">
+                                    <h2>Продвижение магазина спортивной обуви</h2>
+                                    <h3>Цель:</h3>
+                                    <div class="why__text-content">
+                                        <p>С помощью SMM сделать <b>sneakerzzz</b> лидером среди магазинов спортивной обуви, несмотря на большую конкуренцию. При этом нам нужно было выполнить поставленный KPI по охвату и вовлеченности.</p>
+                                        <h3>Решение:</h3>
+                                        <ul>
+                                            <li>фотосессия ассортимента</li>
+                                            <li>запуск конкурсов</li>
+                                            <li>прямые трансляции</li>
+                                            <li>настройка рекламных кампаний</li>
+                                            <li>подготовка баннеров и промо-материалов</li>
+                                        </ul>
+                                        <h3>Результат:</h3>
+                                        <p>
+                                            <strong style="color: #D46575">69 327</strong>
+                                            <br>охват
+                                        </p>
+                                        <p>
+                                            <strong style="color: #D46575">683 035</strong>
+                                            <br>показ
+                                        </p>
+                                        <p>
+                                            <strong style="color: #D46575">20 903</strong>
+                                            <br>кликов
+                                        </p>
+                                    </div>
+                                    <a href="#" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
+                                </div>
+                                <img src="static/img/content/insta.png" class="why__iphone">
+                            </div>
+                        </div>
+
+                        <div class="tab-pane active" id="tabs-7" role="tabpanel">
+                            <div class="why__center">
+                                <div class="why__text">
+                                    <h2>Продвижение магазина спортивной обуви</h2>
+                                    <h3>Цель:</h3>
+                                    <div class="why__text-content">
+                                        <p>С помощью SMM сделать <b>sneakerzzz</b> лидером среди магазинов спортивной обуви, несмотря на большую конкуренцию. При этом нам нужно было выполнить поставленный KPI по охвату и вовлеченности.</p>
+                                        <h3>Решение:</h3>
+                                        <ul>
+                                            <li>фотосессия ассортимента</li>
+                                            <li>запуск конкурсов</li>
+                                            <li>прямые трансляции</li>
+                                            <li>настройка рекламных кампаний</li>
+                                            <li>подготовка баннеров и промо-материалов</li>
+                                        </ul>
+                                        <h3>Результат:</h3>
+                                        <p>
+                                            <strong style="color: #D46575">69 327</strong>
+                                            <br>охват
+                                        </p>
+                                        <p>
+                                            <strong style="color: #D46575">683 035</strong>
+                                            <br>показ
+                                        </p>
+                                        <p>
+                                            <strong style="color: #D46575">20 903</strong>
+                                            <br>кликов
+                                        </p>
+                                    </div>
+                                    <a href="#" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
+                                </div>
+                                <img src="static/img/content/insta.png" class="why__iphone">
+                            </div>
+                        </div>
+
+                        <div class="tab-pane active" id="tabs-8" role="tabpanel">
+                            <div class="why__center">
+                                <div class="why__text">
+                                    <h2>Продвижение магазина спортивной обуви</h2>
+                                    <h3>Цель:</h3>
+                                    <div class="why__text-content">
+                                        <p>С помощью SMM сделать <b>sneakerzzz</b> лидером среди магазинов спортивной обуви, несмотря на большую конкуренцию. При этом нам нужно было выполнить поставленный KPI по охвату и вовлеченности.</p>
+                                        <h3>Решение:</h3>
+                                        <ul>
+                                            <li>фотосессия ассортимента</li>
+                                            <li>запуск конкурсов</li>
+                                            <li>прямые трансляции</li>
+                                            <li>настройка рекламных кампаний</li>
+                                            <li>подготовка баннеров и промо-материалов</li>
+                                        </ul>
+                                        <h3>Результат:</h3>
+                                        <p>
+                                            <strong style="color: #D46575">69 327</strong>
+                                            <br>охват
+                                        </p>
+                                        <p>
+                                            <strong style="color: #D46575">683 035</strong>
+                                            <br>показ
+                                        </p>
+                                        <p>
+                                            <strong style="color: #D46575">20 903</strong>
+                                            <br>кликов
+                                        </p>
+                                    </div>
+                                    <a href="#" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
+                                </div>
+                                <img src="static/img/content/insta.png" class="why__iphone">
+                            </div>
+                        </div>
+
+                        <div class="tab-pane active" id="tabs-9" role="tabpanel">
+                            <div class="why__center">
+                                <div class="why__text">
+                                    <h2>Продвижение магазина спортивной обуви</h2>
+                                    <h3>Цель:</h3>
+                                    <div class="why__text-content">
+                                        <p>С помощью SMM сделать <b>sneakerzzz</b> лидером среди магазинов спортивной обуви, несмотря на большую конкуренцию. При этом нам нужно было выполнить поставленный KPI по охвату и вовлеченности.</p>
+                                        <h3>Решение:</h3>
+                                        <ul>
+                                            <li>фотосессия ассортимента</li>
+                                            <li>запуск конкурсов</li>
+                                            <li>прямые трансляции</li>
+                                            <li>настройка рекламных кампаний</li>
+                                            <li>подготовка баннеров и промо-материалов</li>
+                                        </ul>
+                                        <h3>Результат:</h3>
+                                        <p>
+                                            <strong style="color: #D46575">69 327</strong>
+                                            <br>охват
+                                        </p>
+                                        <p>
+                                            <strong style="color: #D46575">683 035</strong>
+                                            <br>показ
+                                        </p>
+                                        <p>
+                                            <strong style="color: #D46575">20 903</strong>
+                                            <br>кликов
+                                        </p>
+                                    </div>
+                                    <a href="#" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
+                                </div>
+                                <img src="static/img/content/insta.png" class="why__iphone">
+                            </div>
+                        </div>
+
+
                     </div>
                 </div>
             </div>
