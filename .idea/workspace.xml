@@ -60,7 +60,7 @@
       <updated>1579610245813</updated>
       <workItem from="1579610246936" duration="1054000" />
       <workItem from="1579617609030" duration="310000" />
-      <workItem from="1579667812394" duration="6512000" />
+      <workItem from="1579667812394" duration="7146000" />
     </task>
     <task id="LOCAL-00001" summary="да ну нахуй">
       <created>1579671147892</created>
@@ -111,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579674932417</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="тестим">
+      <created>1579675228097</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1579675228097</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,9 +154,9 @@
     <MESSAGE value="8 кейс" />
     <MESSAGE value="тест" />
     <MESSAGE value="гори огнем, ебись конем" />
-    <MESSAGE value="тестим" />
     <MESSAGE value="тестим мобилку" />
-    <option name="LAST_COMMIT_MESSAGE" value="тестим мобилку" />
+    <MESSAGE value="тестим" />
+    <option name="LAST_COMMIT_MESSAGE" value="тестим" />
   </component>
   <component name="WindowStateProjectService">
     <state x="533" y="200" key="SettingsEditor" timestamp="1579617531352">
