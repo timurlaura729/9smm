@@ -296,32 +296,32 @@
                     <ul class="nav why__tabs">
                         <li class="why__tabs-item">
                             <a class="why__tabs-link active" data-toggle="tab" href="#tabs-1" role="tab">
-                                <img src="static/img/content/client1.jpg" alt="">
-                            </a>
-                        </li>
-                        <li class="why__tabs-item">
-                            <a class="why__tabs-link" data-toggle="tab" href="#tabs-2" role="tab">
-                                <img src="static/img/content/client2.png" alt="">
-                            </a>
-                        </li>
-                        <li class="why__tabs-item">
-                            <a class="why__tabs-link" data-toggle="tab" href="#tabs-3" role="tab">
-                                <img src="static/img/content/client3.png" alt="">
-                            </a>
-                        </li>
-                        <li class="why__tabs-item">
-                            <a class="why__tabs-link" data-toggle="tab" href="#tabs-4" role="tab">
                                 <img src="static/img/content/client4.png" alt="">
                             </a>
                         </li>
                         <li class="why__tabs-item">
-                            <a class="why__tabs-link" data-toggle="tab" href="#tabs-5" role="tab">
+                            <a class="why__tabs-link" data-toggle="tab" href="#tabs-2" role="tab">
                                 <img src="static/img/content/client5.png" alt="">
+                            </a>
+                        </li>
+                        <li class="why__tabs-item">
+                            <a class="why__tabs-link" data-toggle="tab" href="#tabs-3" role="tab">
+                                <img src="static/img/content/client8.png" alt="">
+                            </a>
+                        </li>
+                        <li class="why__tabs-item">
+                            <a class="why__tabs-link" data-toggle="tab" href="#tabs-4" role="tab">
+                                <img src="static/img/content/client1.jpg" alt="">
+                            </a>
+                        </li>
+                        <li class="why__tabs-item">
+                            <a class="why__tabs-link" data-toggle="tab" href="#tabs-5" role="tab">
+                                <img src="static/img/content/client6.png" alt="">
                             </a>
                         </li>
                          <li class="why__tabs-item">
                              <a class="why__tabs-link" data-toggle="tab" href="#tabs-6" role="tab">
-                                 <img src="static/img/content/client6.png" alt="">
+                                 <img src="static/img/content/client2.png" alt="">
                              </a>
                          </li>
                         <li class="why__tabs-item">
@@ -331,7 +331,7 @@
                         </li>
                         <li class="why__tabs-item">
                             <a class="why__tabs-link" data-toggle="tab" href="#tabs-8" role="tab">
-                                <img src="static/img/content/client8.png" alt="">
+                                <img src="static/img/content/client10.png" alt="">
                             </a>
                         </li>
                         <li class="why__tabs-item">
@@ -342,36 +342,6 @@
                         <li class="why__tabs-item">
                             <a class="why__tabs-link" data-toggle="tab" href="#tabs-10" role="tab">
                                 <img src="static/img/content/client10.png" alt="">
-                            </a>
-                        </li>
-                        <li class="why__tabs-item">
-                            <a class="why__tabs-link" data-toggle="tab" href="#tabs-4" role="tab">
-                                <img src="static/img/content/BVb3Wzn9orDR8mwVnhrSyd.jpg" alt="">
-                            </a>
-                        </li>
-                        <li class="why__tabs-item">
-                            <a class="why__tabs-link" data-toggle="tab" href="#tabs-5" role="tab">
-                                <img src="static/img/content/BVb3Wzn9orDR8mwVnhrSyd.jpg" alt="">
-                            </a>
-                        </li>
-                        <li class="why__tabs-item">
-                            <a class="why__tabs-link" data-toggle="tab" href="#tabs-6" role="tab">
-                                <img src="static/img/content/BVb3Wzn9orDR8mwVnhrSyd.jpg" alt="">
-                            </a>
-                        </li>
-                        <li class="why__tabs-item">
-                            <a class="why__tabs-link" data-toggle="tab" href="#tabs-7" role="tab">
-                                <img src="static/img/content/BVb3Wzn9orDR8mwVnhrSyd.jpg" alt="">
-                            </a>
-                        </li>
-                        <li class="why__tabs-item">
-                            <a class="why__tabs-link" data-toggle="tab" href="#tabs-8" role="tab">
-                                <img src="static/img/content/BVb3Wzn9orDR8mwVnhrSyd.jpg" alt="">
-                            </a>
-                        </li>
-                        <li class="why__tabs-item">
-                            <a class="why__tabs-link" data-toggle="tab" href="#tabs-9" role="tab">
-                                <img src="static/img/content/BVb3Wzn9orDR8mwVnhrSyd.jpg" alt="">
                             </a>
                         </li>
                     </ul>
@@ -482,8 +452,6 @@
                                 <img src="static/img/content/insta.png" class="why__iphone">
                             </div>
                         </div>
-
-
                         <div class="tab-pane" id="tabs-4" role="tabpanel">
                             <div class="why__center">
                                 <div class="why__text">
@@ -568,7 +536,6 @@
                                 <img src="static/img/content/insta.png" class="why__iphone">
                             </div>
                         </div>
-
                         <div class="tab-pane" id="tabs-7" role="tabpanel">
                             <div class="why__center">
                                 <div class="why__text">
