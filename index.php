@@ -700,7 +700,7 @@
                                             </div>
                                             <img src="static/img/content/insta.png" class="why__iphone">
                                         </div>
-                                        <a href="#" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
+                                        <a href="#" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
@@ -733,7 +733,205 @@
                                             </div>
                                             <img src="static/img/content/insta.png" class="why__iphone">
                                         </div>
-                                        <a href="#" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
+                                        <a href="#" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <a href="#" class="why__logo">
+                                        <img src="static/img/content/BVb3Wzn9orDR8mwVnhrSyd.jpg" alt="">
+                                    </a>
+                                    <div class="why__content">
+                                        <h2>Проект по SMM #1</h2>
+                                        <h3>Полное SMM продвижение “под ключ” в социальной сети Instagram</h3>
+                                        <div class="why__text">
+                                            <div class="why__text-content">
+                                                <ul>
+                                                    <li>Создание уникального контента и интерактивных публикаций;</li>
+                                                    <li>Разработка графических вижуалов/обработка фото;</li>
+                                                    <li>Съемка видео роликов и написание сценариев к ним;</li>
+                                                    <li>Постоянно взаимодействие с подписчиками.</li>
+                                                </ul>
+                                                <p>
+                                                    <strong style="color: #D46575">+6000</strong>
+                                                    <br>Органической аудитории в месяц
+                                                </p>
+                                                <p>
+                                                    <strong style="color: #D46575">+6000</strong>
+                                                    <br>Заявок
+                                                </p>
+                                                <p>
+                                                    <strong style="color: #D46575">до 10%</strong>
+                                                    <br>Рост конверсии
+                                                </p>
+                                            </div>
+                                            <img src="static/img/content/insta.png" class="why__iphone">
+                                        </div>
+                                        <a href="#" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <a href="#" class="why__logo">
+                                        <img src="static/img/content/BVb3Wzn9orDR8mwVnhrSyd.jpg" alt="">
+                                    </a>
+                                    <div class="why__content">
+                                        <h2>Проект по SMM #1</h2>
+                                        <h3>Полное SMM продвижение “под ключ” в социальной сети Instagram</h3>
+                                        <div class="why__text">
+                                            <div class="why__text-content">
+                                                <ul>
+                                                    <li>Создание уникального контента и интерактивных публикаций;</li>
+                                                    <li>Разработка графических вижуалов/обработка фото;</li>
+                                                    <li>Съемка видео роликов и написание сценариев к ним;</li>
+                                                    <li>Постоянно взаимодействие с подписчиками.</li>
+                                                </ul>
+                                                <p>
+                                                    <strong style="color: #D46575">+6000</strong>
+                                                    <br>Органической аудитории в месяц
+                                                </p>
+                                                <p>
+                                                    <strong style="color: #D46575">+6000</strong>
+                                                    <br>Заявок
+                                                </p>
+                                                <p>
+                                                    <strong style="color: #D46575">до 10%</strong>
+                                                    <br>Рост конверсии
+                                                </p>
+                                            </div>
+                                            <img src="static/img/content/insta.png" class="why__iphone">
+                                        </div>
+                                        <a href="#" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <a href="#" class="why__logo">
+                                        <img src="static/img/content/BVb3Wzn9orDR8mwVnhrSyd.jpg" alt="">
+                                    </a>
+                                    <div class="why__content">
+                                        <h2>Проект по SMM #1</h2>
+                                        <h3>Полное SMM продвижение “под ключ” в социальной сети Instagram</h3>
+                                        <div class="why__text">
+                                            <div class="why__text-content">
+                                                <ul>
+                                                    <li>Создание уникального контента и интерактивных публикаций;</li>
+                                                    <li>Разработка графических вижуалов/обработка фото;</li>
+                                                    <li>Съемка видео роликов и написание сценариев к ним;</li>
+                                                    <li>Постоянно взаимодействие с подписчиками.</li>
+                                                </ul>
+                                                <p>
+                                                    <strong style="color: #D46575">+6000</strong>
+                                                    <br>Органической аудитории в месяц
+                                                </p>
+                                                <p>
+                                                    <strong style="color: #D46575">+6000</strong>
+                                                    <br>Заявок
+                                                </p>
+                                                <p>
+                                                    <strong style="color: #D46575">до 10%</strong>
+                                                    <br>Рост конверсии
+                                                </p>
+                                            </div>
+                                            <img src="static/img/content/insta.png" class="why__iphone">
+                                        </div>
+                                        <a href="#" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <a href="#" class="why__logo">
+                                        <img src="static/img/content/BVb3Wzn9orDR8mwVnhrSyd.jpg" alt="">
+                                    </a>
+                                    <div class="why__content">
+                                        <h2>Проект по SMM #1</h2>
+                                        <h3>Полное SMM продвижение “под ключ” в социальной сети Instagram</h3>
+                                        <div class="why__text">
+                                            <div class="why__text-content">
+                                                <ul>
+                                                    <li>Создание уникального контента и интерактивных публикаций;</li>
+                                                    <li>Разработка графических вижуалов/обработка фото;</li>
+                                                    <li>Съемка видео роликов и написание сценариев к ним;</li>
+                                                    <li>Постоянно взаимодействие с подписчиками.</li>
+                                                </ul>
+                                                <p>
+                                                    <strong style="color: #D46575">+6000</strong>
+                                                    <br>Органической аудитории в месяц
+                                                </p>
+                                                <p>
+                                                    <strong style="color: #D46575">+6000</strong>
+                                                    <br>Заявок
+                                                </p>
+                                                <p>
+                                                    <strong style="color: #D46575">до 10%</strong>
+                                                    <br>Рост конверсии
+                                                </p>
+                                            </div>
+                                            <img src="static/img/content/insta.png" class="why__iphone">
+                                        </div>
+                                        <a href="#" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <a href="#" class="why__logo">
+                                        <img src="static/img/content/BVb3Wzn9orDR8mwVnhrSyd.jpg" alt="">
+                                    </a>
+                                    <div class="why__content">
+                                        <h2>Проект по SMM #1</h2>
+                                        <h3>Полное SMM продвижение “под ключ” в социальной сети Instagram</h3>
+                                        <div class="why__text">
+                                            <div class="why__text-content">
+                                                <ul>
+                                                    <li>Создание уникального контента и интерактивных публикаций;</li>
+                                                    <li>Разработка графических вижуалов/обработка фото;</li>
+                                                    <li>Съемка видео роликов и написание сценариев к ним;</li>
+                                                    <li>Постоянно взаимодействие с подписчиками.</li>
+                                                </ul>
+                                                <p>
+                                                    <strong style="color: #D46575">+6000</strong>
+                                                    <br>Органической аудитории в месяц
+                                                </p>
+                                                <p>
+                                                    <strong style="color: #D46575">+6000</strong>
+                                                    <br>Заявок
+                                                </p>
+                                                <p>
+                                                    <strong style="color: #D46575">до 10%</strong>
+                                                    <br>Рост конверсии
+                                                </p>
+                                            </div>
+                                            <img src="static/img/content/insta.png" class="why__iphone">
+                                        </div>
+                                        <a href="#" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <a href="#" class="why__logo">
+                                        <img src="static/img/content/BVb3Wzn9orDR8mwVnhrSyd.jpg" alt="">
+                                    </a>
+                                    <div class="why__content">
+                                        <h2>Проект по SMM #1</h2>
+                                        <h3>Полное SMM продвижение “под ключ” в социальной сети Instagram</h3>
+                                        <div class="why__text">
+                                            <div class="why__text-content">
+                                                <ul>
+                                                    <li>Создание уникального контента и интерактивных публикаций;</li>
+                                                    <li>Разработка графических вижуалов/обработка фото;</li>
+                                                    <li>Съемка видео роликов и написание сценариев к ним;</li>
+                                                    <li>Постоянно взаимодействие с подписчиками.</li>
+                                                </ul>
+                                                <p>
+                                                    <strong style="color: #D46575">+6000</strong>
+                                                    <br>Органической аудитории в месяц
+                                                </p>
+                                                <p>
+                                                    <strong style="color: #D46575">+6000</strong>
+                                                    <br>Заявок
+                                                </p>
+                                                <p>
+                                                    <strong style="color: #D46575">до 10%</strong>
+                                                    <br>Рост конверсии
+                                                </p>
+                                            </div>
+                                            <img src="static/img/content/insta.png" class="why__iphone">
+                                        </div>
+                                        <a href="#" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
                                     </div>
                                 </div>
                             </div>
