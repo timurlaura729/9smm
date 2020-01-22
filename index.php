@@ -340,16 +340,82 @@
                                             <br>кликов
                                         </p>
                                     </div>
-                                    <a href="#" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
+                                    <a href="#" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
                                 </div>
                                 <img src="static/img/content/insta.png" class="why__iphone">
                             </div>
                         </div>
                         <div class="tab-pane" id="tabs-2" role="tabpanel">
-                            22
+                            <div class="why__center">
+                                <div class="why__text">
+                                    <h2>Продвижение туристической компании “Smart tour”</h2>
+                                    <h3>Цель:</h3>
+                                    <div class="why__text-content">
+                                        <p>С помощью Instagram донести до конечного потребителя мысль о том, что компания не только реализует горящие туры,  но и предоставляет максимальный уровень сервиса для клиентов.</p>
+                                        <h3>Решение:</h3>
+                                        <ul>
+                                            <li>наполнение контентом по тематическим рубрикам</li>
+                                            <li>проведение конкурсных механик</li>
+                                            <li>отрабка клиентских возражении (CERM)</li>
+                                            <li>сезонные акции для прогрева клиента</li>
+                                            <li>разработка стратегии продвижения и настройка рекламных кампаний</li>
+                                        </ul>
+                                        <h3>Результат:</h3>
+                                        <p>
+                                            <strong style="color: #D46575">6 000</strong>
+                                            <br> органической аудитории в месяц
+                                        </p>
+                                        <p>
+                                            <strong style="color: #D46575">2076</strong>
+                                            <br>заявок
+                                        </p>
+                                        <p>
+                                            <strong style="color: #D46575">до 10%</strong>
+                                            <br> рост конверсии
+                                        </p>
+                                    </div>
+                                    <a href="#" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
+                                </div>
+                                <img src="static/img/content/insta.png" class="why__iphone">
+                            </div>
                         </div>
                         <div class="tab-pane" id="tabs-3" role="tabpanel">
-                            33
+                            <div class="why__center">
+                                <div class="why__text">
+                                    <h2>Продвижение строительной компании “Novec”</h2>
+                                    <h3>Цель:</h3>
+                                    <div class="why__text-content">
+                                        <p>Обновить визуальный ряд в корпоративном Instagram-аккаунте, наполнить интересным и информативным содержанием, и обеспечить приток вовлеченной аудитории.  </p>
+                                        <h3>Решение:</h3>
+                                        <ul>
+                                            <li>работа с контентом</li>
+                                            <li>обновление визуального ряда</li>
+                                            <li>создание единого стиля публикаций</li>
+                                            <li>внедрение чат-бота</li>
+                                            <li>настройка и запуск таргетированной рекламы</li>
+                                        </ul>
+                                        <h3>Результат:</h3>
+                                        <p>
+                                            <strong style="color: #D46575"> 559 332</strong>
+                                            <br>охват
+                                        </p>
+                                        <p>
+                                            <strong style="color: #D46575"> 783 056</strong>
+                                            <br>показ
+                                        </p>
+                                        <p>
+                                            <strong style="color: #D46575">23 903</strong>
+                                            <br>кликов
+                                        </p>
+                                        <p>
+                                            <strong style="color: #D46575"> 2,4 руб= 11 тг </strong>
+                                            <br>тг/ клик
+                                        </p>
+                                    </div>
+                                    <a href="#" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
+                                </div>
+                                <img src="static/img/content/insta.png" class="why__iphone">
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -389,7 +455,7 @@
                                             </div>
                                             <img src="static/img/content/insta.png" class="why__iphone">
                                         </div>
-                                        <a href="#" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
+                                        <a href="#" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
