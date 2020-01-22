@@ -238,7 +238,7 @@
     <section class="smm">
         <div class="container">
             <div class="section-header">
-                <div class="section-header__title">4 ПРИЧИНrЫ, ПО КОТОРЫМ МЫ УВЕЛИЧИВАЕМ ПОТОК КЛИЕНТОВ И ГЕНЕРИРУЕМ ЛОЯЛЬНУЮ АУДИТОРИЮ</div>
+                <div class="section-header__title">4 ПРИЧИНЫ, ПО КОТОРЫМ МЫ УВЕЛИЧИВАЕМ ПОТОК КЛИЕНТОВ И ГЕНЕРИРУЕМ ЛОЯЛЬНУЮ АУДИТОРИЮ</div>
             </div>
             <div class="row" vertical-gutter="30">
                 <div class="col-md-6">
