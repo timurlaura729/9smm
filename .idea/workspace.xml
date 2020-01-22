@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9f9e97e-c109-4638-ad17-9350d4ce6018" name="Default Changelist" comment="гори огнем, ебись конем">
+    <list default="true" id="a9f9e97e-c109-4638-ad17-9350d4ce6018" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
@@ -60,7 +60,7 @@
       <updated>1579610245813</updated>
       <workItem from="1579610246936" duration="1054000" />
       <workItem from="1579617609030" duration="310000" />
-      <workItem from="1579667812394" duration="5102000" />
+      <workItem from="1579667812394" duration="6204000" />
     </task>
     <task id="LOCAL-00001" summary="да ну нахуй">
       <created>1579671147892</created>
@@ -97,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579672233035</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="тестим">
+      <created>1579672934690</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1579672934690</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,7 +140,8 @@
     <MESSAGE value="8 кейс" />
     <MESSAGE value="тест" />
     <MESSAGE value="гори огнем, ебись конем" />
-    <option name="LAST_COMMIT_MESSAGE" value="гори огнем, ебись конем" />
+    <MESSAGE value="тестим" />
+    <option name="LAST_COMMIT_MESSAGE" value="тестим" />
   </component>
   <component name="WindowStateProjectService">
     <state x="533" y="200" key="SettingsEditor" timestamp="1579617531352">
