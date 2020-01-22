@@ -54,6 +54,14 @@
       <workItem from="1579610246936" duration="1054000" />
       <workItem from="1579617609030" duration="310000" />
     </task>
+    <task id="LOCAL-00001" summary="Правки лого">
+      <created>1579693536666</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579693536666</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -62,10 +70,22 @@
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Правки лого" />
+    <option name="LAST_COMMIT_MESSAGE" value="Правки лого" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="649" y="152" key="CommitChangelistDialog2" timestamp="1579693536104">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="649" y="152" key="CommitChangelistDialog2/0.0.2048.1112@0.0.2048.1112" timestamp="1579693536104" />
     <state x="533" y="200" key="SettingsEditor" timestamp="1579617531352">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="533" y="200" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1579617531352" />
+    <state x="617" y="290" key="Vcs.Push.Dialog.v2" timestamp="1579693537610">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="617" y="290" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1579693537610" />
   </component>
 </project>
