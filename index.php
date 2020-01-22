@@ -238,7 +238,7 @@
     <section class="smm">
         <div class="container">
             <div class="section-header">
-                <div class="section-header__title">4 ПРИЧИНrЫ, ПО КОТОРЫМ МЫ УВЕЛИЧИВАЕМ ПОТОК КЛИЕНТОВ И ГЕНЕРИРУЕМ ЛОЯЛЬНУЮ АУДИТОРИЮ</div>
+                <div class="section-header__title">4 ПРИЧИНЫ, ПО КОТОРЫМ МЫ УВЕЛИЧИВАЕМ ПОТОК КЛИЕНТОВ И ГЕНЕРИРУЕМ ЛОЯЛЬНУЮ АУДИТОРИЮ</div>
             </div>
             <div class="row" vertical-gutter="30">
                 <div class="col-md-6">
@@ -344,44 +344,327 @@
                                 <img src="static/img/content/client10.png" alt="">
                             </a>
                         </li>
+                        <li class="why__tabs-item">
+                            <a class="why__tabs-link" data-toggle="tab" href="#tabs-4" role="tab">
+                                <img src="static/img/content/BVb3Wzn9orDR8mwVnhrSyd.jpg" alt="">
+                            </a>
+                        </li>
+                        <li class="why__tabs-item">
+                            <a class="why__tabs-link" data-toggle="tab" href="#tabs-5" role="tab">
+                                <img src="static/img/content/BVb3Wzn9orDR8mwVnhrSyd.jpg" alt="">
+                            </a>
+                        </li>
+                        <li class="why__tabs-item">
+                            <a class="why__tabs-link" data-toggle="tab" href="#tabs-6" role="tab">
+                                <img src="static/img/content/BVb3Wzn9orDR8mwVnhrSyd.jpg" alt="">
+                            </a>
+                        </li>
+                        <li class="why__tabs-item">
+                            <a class="why__tabs-link" data-toggle="tab" href="#tabs-7" role="tab">
+                                <img src="static/img/content/BVb3Wzn9orDR8mwVnhrSyd.jpg" alt="">
+                            </a>
+                        </li>
+                        <li class="why__tabs-item">
+                            <a class="why__tabs-link" data-toggle="tab" href="#tabs-8" role="tab">
+                                <img src="static/img/content/BVb3Wzn9orDR8mwVnhrSyd.jpg" alt="">
+                            </a>
+                        </li>
+                        <li class="why__tabs-item">
+                            <a class="why__tabs-link" data-toggle="tab" href="#tabs-9" role="tab">
+                                <img src="static/img/content/BVb3Wzn9orDR8mwVnhrSyd.jpg" alt="">
+                            </a>
+                        </li>
                     </ul>
                     <div class="why__content tab-content">
                         <div class="tab-pane active" id="tabs-1" role="tabpanel">
                             <div class="why__center">
                                 <div class="why__text">
-                                    <h2>Проект по SMM #1</h2>
-                                    <h3>Полное SMM продвижение “под ключ” в социальной сети Instagram</h3>
+                                    <h2>Продвижение магазина спортивной обуви</h2>
+                                    <h3>Цель:</h3>
                                     <div class="why__text-content">
+                                        <p>С помощью SMM сделать <b>sneakerzzz</b> лидером среди магазинов спортивной обуви, несмотря на большую конкуренцию. При этом нам нужно было выполнить поставленный KPI по охвату и вовлеченности.</p>
+                                        <h3>Решение:</h3>
                                         <ul>
-                                            <li>Создание уникального контента и интерактивных публикаций;</li>
-                                            <li>Разработка графических вижуалов/обработка фото;</li>
-                                            <li>Съемка видео роликов и написание сценариев к ним;</li>
-                                            <li>Постоянно взаимодействие с подписчиками.</li>
+                                            <li>фотосессия ассортимента</li>
+                                            <li>запуск конкурсов</li>
+                                            <li>прямые трансляции</li>
+                                            <li>настройка рекламных кампаний</li>
+                                            <li>подготовка баннеров и промо-материалов</li>
                                         </ul>
+                                        <h3>Результат:</h3>
                                         <p>
-                                            <strong style="color: #D46575">+6000</strong>
-                                            <br>Органической аудитории в месяц
+                                            <strong style="color: #D46575">69 327</strong>
+                                            <br>охват
                                         </p>
                                         <p>
-                                            <strong style="color: #D46575">+6000</strong>
-                                            <br>Заявок
+                                            <strong style="color: #D46575">683 035</strong>
+                                            <br>показ
                                         </p>
                                         <p>
-                                            <strong style="color: #D46575">до 10%</strong>
-                                            <br>Рост конверсии
+                                            <strong style="color: #D46575">20 903</strong>
+                                            <br>кликов
                                         </p>
                                     </div>
-                                    <a href="#" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
+                                    <a href="#" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
                                 </div>
                                 <img src="static/img/content/insta.png" class="why__iphone">
                             </div>
                         </div>
                         <div class="tab-pane" id="tabs-2" role="tabpanel">
-                            22
+                            <div class="why__center">
+                                <div class="why__text">
+                                    <h2>Продвижение туристической компании “Smart tour”</h2>
+                                    <h3>Цель:</h3>
+                                    <div class="why__text-content">
+                                        <p>С помощью Instagram донести до конечного потребителя мысль о том, что компания не только реализует горящие туры,  но и предоставляет максимальный уровень сервиса для клиентов.</p>
+                                        <h3>Решение:</h3>
+                                        <ul>
+                                            <li>наполнение контентом по тематическим рубрикам</li>
+                                            <li>проведение конкурсных механик</li>
+                                            <li>отрабка клиентских возражении (CERM)</li>
+                                            <li>сезонные акции для прогрева клиента</li>
+                                            <li>разработка стратегии продвижения и настройка рекламных кампаний</li>
+                                        </ul>
+                                        <h3>Результат:</h3>
+                                        <p>
+                                            <strong style="color: #D46575">6 000</strong>
+                                            <br> органической аудитории в месяц
+                                        </p>
+                                        <p>
+                                            <strong style="color: #D46575">2076</strong>
+                                            <br>заявок
+                                        </p>
+                                        <p>
+                                            <strong style="color: #D46575">до 10%</strong>
+                                            <br> рост конверсии
+                                        </p>
+                                    </div>
+                                    <a href="#" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
+                                </div>
+                                <img src="static/img/content/insta.png" class="why__iphone">
+                            </div>
                         </div>
                         <div class="tab-pane" id="tabs-3" role="tabpanel">
-                            33
+                            <div class="why__center">
+                                <div class="why__text">
+                                    <h2>Продвижение строительной компании “Novec”</h2>
+                                    <h3>Цель:</h3>
+                                    <div class="why__text-content">
+                                        <p>Обновить визуальный ряд в корпоративном Instagram-аккаунте, наполнить интересным и информативным содержанием, и обеспечить приток вовлеченной аудитории.  </p>
+                                        <h3>Решение:</h3>
+                                        <ul>
+                                            <li>работа с контентом</li>
+                                            <li>обновление визуального ряда</li>
+                                            <li>создание единого стиля публикаций</li>
+                                            <li>внедрение чат-бота</li>
+                                            <li>настройка и запуск таргетированной рекламы</li>
+                                        </ul>
+                                        <h3>Результат:</h3>
+                                        <p>
+                                            <strong style="color: #D46575"> 559 332</strong>
+                                            <br>охват
+                                        </p>
+                                        <p>
+                                            <strong style="color: #D46575"> 783 056</strong>
+                                            <br>показ
+                                        </p>
+                                        <p>
+                                            <strong style="color: #D46575">23 903</strong>
+                                            <br>кликов
+                                        </p>
+                                        <p>
+                                            <strong style="color: #D46575"> 2,4 руб= 11 тг </strong>
+                                            <br>тг/ клик
+                                        </p>
+                                    </div>
+                                    <a href="#" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
+                                </div>
+                                <img src="static/img/content/insta.png" class="why__iphone">
+                            </div>
                         </div>
+
+
+                        <div class="tab-pane" id="tabs-4" role="tabpanel">
+                            <div class="why__center">
+                                <div class="why__text">
+                                    <h2>Обновление визуального ряда онлайн-магазина оригинального парфюма “Parfume.kz”</h2>
+                                    <h3>Цель:</h3>
+                                    <div class="why__text-content">
+                                        <p>В условиях перенасыщенного рынка парфюмерных онлайн-магазинов создать яркую и выделяющуюся страницу Instagram.</p>
+                                        <h3>Решение:</h3>
+                                        <ul>
+                                            <li>фотосессия ассортимента</li>
+                                            <li>запуск конкурсов</li>
+                                            <li>прямые трансляции</li>
+                                            <li>настройка рекламных кампаний</li>
+                                            <li>подготовка баннеров и промо-материалов</li>
+                                        </ul>
+                                        <h3>Результат:</h3>
+                                        <p>
+                                            Приятный глазу визуальный стиль корпоративного профиля Instagram, наполненный ассортиментом товара и тематического контента, подчеркивающий его престижность и оригинальность.
+                                        </p>
+                                    </div>
+                                    <a href="#" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
+                                </div>
+                                <img src="static/img/content/insta.png" class="why__iphone">
+                            </div>
+                        </div>
+
+                        <div class="tab-pane" id="tabs-5" role="tabpanel">
+                            <div class="why__center">
+                                <div class="why__text">
+                                    <h2>Продвижение логистической компании КРОМА ТРАНС</h2>
+                                    <h3>Цель:</h3>
+                                    <div class="why__text-content">
+                                        <p> Упаковать корпоративный профиль Intagram и повысить узнаваемость компании на рынке РК и СНГ.</p>
+                                        <h3>Решение:</h3>
+                                        <ul>
+                                            <li>добавлены тематические рубрики</li>
+                                            <li>фотопродакшн</li>
+                                            <li>настройка таргетированной рекламы</li>
+                                            <li>работа с базой подписчиков</li>
+                                        </ul>
+                                        <h3>Результат:</h3>
+                                        <p>
+                                            Яркий и информативный профиль Instagram c тематическим содержанием и активной аудиторией.
+                                        </p>
+                                    </div>
+                                    <a href="#" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
+                                </div>
+                                <img src="static/img/content/insta.png" class="why__iphone">
+                            </div>
+                        </div>
+
+                        <div class="tab-pane" id="tabs-6" role="tabpanel">
+                            <div class="why__center">
+                                <div class="why__text">
+                                    <h2>Продвижение танцевальной студии “Next step”</h2>
+                                    <h3>Цель:</h3>
+                                    <div class="why__text-content">
+                                        <p>Увеличить количество подписчиков, привлечь потенциальных клиентов на уроки танцев в студию.</p>
+                                        <h3>Решение:</h3>
+                                        <ul>
+                                            <li>фото и видеосъемка уроков</li>
+                                            <li>настройка и запуск таргетированной рекламы</li>
+                                            <li>постоянное взаимодействие с подписчиками</li>
+                                            <li>организация конкурсных механик</li>
+                                        </ul>
+                                        <h3>Результат:</h3>
+                                        <p>
+                                            <strong style="color: #D46575">12 000 </strong>
+                                            <br>активной аудитории
+                                        </p>
+                                        <p>
+                                            <strong style="color: #D46575"> 229</strong>
+                                            <br>Заявок в Директ
+                                        </p>
+                                        <p>
+                                            <strong style="color: #D46575">360 000</strong>
+                                            <br>охват
+                                        </p>
+                                    </div>
+                                    <a href="#" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
+                                </div>
+                                <img src="static/img/content/insta.png" class="why__iphone">
+                            </div>
+                        </div>
+
+                        <div class="tab-pane" id="tabs-7" role="tabpanel">
+                            <div class="why__center">
+                                <div class="why__text">
+                                    <h2>Продвижение магазина авторской детской одежды “baby.dress.ala” в Instagram</h2>
+                                    <h3>Цель:</h3>
+                                    <div class="why__text-content">
+                                        <p>Увеличить продажи и привлечь живую аудиторию, рассказать про ассортимент магазина и вовлечь в наш контент.</p>
+                                        <h3>Решение:</h3>
+                                        <ul>
+                                            <li>поработали над внешним видом профиля</li>
+                                            <li>провели живые фотосессии</li>
+                                            <li>проведение конкурсов</li>
+                                            <li>определение ЦА</li>
+                                            <li>настройка и запуск таргетированной рекламы</li>
+                                        </ul>
+                                        <h3>Результат:</h3>
+                                        <p>
+                                            <strong style="color: #D46575">2000</strong>
+                                            <br>подписчиков за месяц
+                                        </p>
+                                        <p>
+                                            <strong style="color: #D46575"> 113% </strong>
+                                            <br> сохранении публикации
+                                        </p>
+                                        <p>
+                                            <strong style="color: #D46575">в 2 раза</strong>
+                                            <br>увеличили объем продаж
+                                        </p>
+                                    </div>
+                                    <a href="#" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
+                                </div>
+                                <img src="static/img/content/insta.png" class="why__iphone">
+                            </div>
+                        </div>
+
+                        <div class="tab-pane" id="tabs-8" role="tabpanel">
+                            <div class="why__center">
+                                <div class="why__text">
+                                    <h2>Продвижение фестиваля электронной музыки “Hype DJ fest”</h2>
+                                    <h3>Цель:</h3>
+                                    <div class="why__text-content">
+                                        <p>Продвижение мероприятия на площадке Instagram, привлечение заинтересованных пользователь с целью приобрести билет на концерт.</p>
+                                        <h3>Решение:</h3>
+                                        <ul>
+                                            <li>упаковка профиля Instagram</li>
+                                            <li>разработка медийной и промо-кампаний</li>
+                                            <li>определение целевой аудитории для таргетированной рекламы</li>
+                                            <li>подготовка креативов для рекламной кампании</li>
+                                            <li>настройка и запуск таргетированной рекламы</li>
+                                        </ul>
+                                        <h3>Результат:</h3>
+                                        <p>
+                                            <strong style="color: #D46575">80.000</strong>
+                                            <br>охват
+                                        </p>
+                                        <p>
+                                            <strong style="color: #D46575">2500</strong>
+                                            <br>Посетило
+                                        </p>
+                                        <p>
+                                            <strong style="color: #D46575">304 261</strong>
+                                            <br>Показы рекламы
+                                        </p>
+                                    </div>
+                                    <a href="#" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
+                                </div>
+                                <img src="static/img/content/insta.png" class="why__iphone">
+                            </div>
+                        </div>
+
+                        <div class="tab-pane" id="tabs-9" role="tabpanel">
+                            <div class="why__center">
+                                <div class="why__text">
+                                    <h2>Продвижение магазина брендовых джинсовых курток “youniq” </h2>
+                                    <h3>Цель:</h3>
+                                    <div class="why__text-content">
+                                        <p>Увеличение трафика и заявок в сезонный период продаж</p>
+                                        <h3>Решение:</h3>
+                                        <ul>
+                                            <li>профессиональная фото-съёмка</li>
+                                            <li>визуальное оформление профиля Instagram</li>
+                                            <li>настройка и запуск таргетированной рекламы</li>
+                                            <li>разработка и запуск конкурсных механик</li>
+                                        </ul>
+                                        <h3>Результат:</h3>
+                                        <p>
+                                            25 курток продано со средним чеком в размере 70 000 тенге
+                                        </p>
+                                    </div>
+                                    <a href="#" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
+                                </div>
+                                <img src="static/img/content/insta.png" class="why__iphone">
+                            </div>
+                        </div>
+
+
                     </div>
                 </div>
             </div>
@@ -395,8 +678,11 @@
                                         <img src="static/img/content/BVb3Wzn9orDR8mwVnhrSyd.jpg" alt="">
                                     </a>
                                     <div class="why__content">
-                                        <h2>Проект по SMM #1</h2>
-                                        <h3>Полное SMM продвижение “под ключ” в социальной сети Instagram</h3>
+                                        <h2>Продвижение магазина спортивной обуви</h2>
+                                        <h3>Цель:</h3>
+                                        <p>С помощью SMM сделать <b>sneakerzzz</b> лидером среди магазинов спортивной обуви, несмотря на большую конкуренцию. При этом нам нужно было выполнить поставленный KPI по охвату и вовлеченности.
+                                        </p>
+                                        <h3>Решение:</h3>
                                         <div class="why__text">
                                             <div class="why__text-content">
                                                 <ul>
@@ -405,22 +691,23 @@
                                                     <li>Съемка видео роликов и написание сценариев к ним;</li>
                                                     <li>Постоянно взаимодействие с подписчиками.</li>
                                                 </ul>
+                                                <h3>Результат:</h3>
                                                 <p>
-                                                    <strong style="color: #D46575">+6000</strong>
-                                                    <br>Органической аудитории в месяц
+                                                    <strong style="color: #D46575">69 327</strong>
+                                                    <br>охват
                                                 </p>
                                                 <p>
-                                                    <strong style="color: #D46575">+6000</strong>
-                                                    <br>Заявок
+                                                    <strong style="color: #D46575">683 035</strong>
+                                                    <br>показ
                                                 </p>
                                                 <p>
-                                                    <strong style="color: #D46575">до 10%</strong>
-                                                    <br>Рост конверсии
+                                                    <strong style="color: #D46575">20 903</strong>
+                                                    <br>кликов
                                                 </p>
                                             </div>
                                             <img src="static/img/content/insta.png" class="why__iphone">
                                         </div>
-                                        <a href="#" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
+                                        <a href="#" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
@@ -428,32 +715,36 @@
                                         <img src="static/img/content/BVb3Wzn9orDR8mwVnhrSyd.jpg" alt="">
                                     </a>
                                     <div class="why__content">
-                                        <h2>Проект по SMM #1</h2>
-                                        <h3>Полное SMM продвижение “под ключ” в социальной сети Instagram</h3>
+                                        <h2>Продвижение туристической компании “Smart tour”</h2>
+                                        <h3>Цель:</h3>
                                         <div class="why__text">
                                             <div class="why__text-content">
+                                                <p>С помощью Instagram донести до конечного потребителя мысль о том, что компания не только реализует горящие туры,  но и предоставляет максимальный уровень сервиса для клиентов.</p>
+                                                <h3>Решение:</h3>
                                                 <ul>
-                                                    <li>Создание уникального контента и интерактивных публикаций;</li>
-                                                    <li>Разработка графических вижуалов/обработка фото;</li>
-                                                    <li>Съемка видео роликов и написание сценариев к ним;</li>
-                                                    <li>Постоянно взаимодействие с подписчиками.</li>
+                                                    <li>наполнение контентом по тематическим рубрикам</li>
+                                                    <li>проведение конкурсных механик</li>
+                                                    <li>отрабка клиентских возражении (CERM)</li>
+                                                    <li>сезонные акции для прогрева клиента</li>
+                                                    <li>разработка стратегии продвижения и настройка рекламных кампаний</li>
                                                 </ul>
+                                                <h3>Результат:</h3>
                                                 <p>
-                                                    <strong style="color: #D46575">+6000</strong>
-                                                    <br>Органической аудитории в месяц
+                                                    <strong style="color: #D46575">6 000</strong>
+                                                    <br> органической аудитории в месяц
                                                 </p>
                                                 <p>
-                                                    <strong style="color: #D46575">+6000</strong>
-                                                    <br>Заявок
+                                                    <strong style="color: #D46575">2076</strong>
+                                                    <br>заявок
                                                 </p>
                                                 <p>
                                                     <strong style="color: #D46575">до 10%</strong>
-                                                    <br>Рост конверсии
+                                                    <br> рост конверсии
                                                 </p>
                                             </div>
                                             <img src="static/img/content/insta.png" class="why__iphone">
                                         </div>
-                                        <a href="#" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
+                                        <a href="#" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
@@ -461,32 +752,232 @@
                                         <img src="static/img/content/BVb3Wzn9orDR8mwVnhrSyd.jpg" alt="">
                                     </a>
                                     <div class="why__content">
-                                        <h2>Проект по SMM #1</h2>
-                                        <h3>Полное SMM продвижение “под ключ” в социальной сети Instagram</h3>
+                                        <h2>Продвижение строительной компании “Novec”</h2>
+                                        <h3>Цель:</h3>
                                         <div class="why__text">
                                             <div class="why__text-content">
+                                                <p>Обновить визуальный ряд в корпоративном Instagram-аккаунте, наполнить интересным и информативным содержанием, и обеспечить приток вовлеченной аудитории.  </p>
+                                                <h3>Решение:</h3>
                                                 <ul>
-                                                    <li>Создание уникального контента и интерактивных публикаций;</li>
-                                                    <li>Разработка графических вижуалов/обработка фото;</li>
-                                                    <li>Съемка видео роликов и написание сценариев к ним;</li>
-                                                    <li>Постоянно взаимодействие с подписчиками.</li>
+                                                    <li>работа с контентом</li>
+                                                    <li>обновление визуального ряда</li>
+                                                    <li>создание единого стиля публикаций</li>
+                                                    <li>внедрение чат-бота</li>
+                                                    <li>настройка и запуск таргетированной рекламы</li>
                                                 </ul>
+                                                <h3>Результат:</h3>
                                                 <p>
-                                                    <strong style="color: #D46575">+6000</strong>
-                                                    <br>Органической аудитории в месяц
+                                                    <strong style="color: #D46575"> 559 332</strong>
+                                                    <br>охват
                                                 </p>
                                                 <p>
-                                                    <strong style="color: #D46575">+6000</strong>
-                                                    <br>Заявок
+                                                    <strong style="color: #D46575"> 783 056</strong>
+                                                    <br>показ
                                                 </p>
                                                 <p>
-                                                    <strong style="color: #D46575">до 10%</strong>
-                                                    <br>Рост конверсии
+                                                    <strong style="color: #D46575">23 903</strong>
+                                                    <br>кликов
+                                                </p>
+                                                <p>
+                                                    <strong style="color: #D46575"> 2,4 руб= 11 тг </strong>
+                                                    <br>тг/ клик
                                                 </p>
                                             </div>
                                             <img src="static/img/content/insta.png" class="why__iphone">
                                         </div>
-                                        <a href="#" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
+                                        <a href="#" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <a href="#" class="why__logo">
+                                        <img src="static/img/content/BVb3Wzn9orDR8mwVnhrSyd.jpg" alt="">
+                                    </a>
+                                    <div class="why__content">
+                                        <h2>Обновление визуального ряда онлайн-магазина оригинального парфюма “Parfume.kz”</h2>
+                                        <h3>Цель:</h3>
+                                        <div class="why__text">
+                                            <div class="why__text-content">
+                                                <p>В условиях перенасыщенного рынка парфюмерных онлайн-магазинов создать яркую и выделяющуюся страницу Instagram.</p>
+                                                <h3>Решение:</h3>
+                                                <ul>
+                                                    <li>фотосессия ассортимента</li>
+                                                    <li>запуск конкурсов</li>
+                                                    <li>прямые трансляции</li>
+                                                    <li>настройка рекламных кампаний</li>
+                                                    <li>подготовка баннеров и промо-материалов</li>
+                                                </ul>
+                                                <h3>Результат:</h3>
+                                                <p>
+                                                    Приятный глазу визуальный стиль корпоративного профиля Instagram, наполненный ассортиментом товара и тематического контента, подчеркивающий его престижность и оригинальность.
+                                                </p>
+                                            </div>
+                                            <img src="static/img/content/insta.png" class="why__iphone">
+                                        </div>
+                                        <a href="#" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <a href="#" class="why__logo">
+                                        <img src="static/img/content/BVb3Wzn9orDR8mwVnhrSyd.jpg" alt="">
+                                    </a>
+                                    <div class="why__content">
+                                        <h2>Продвижение логистической компании КРОМА ТРАНС</h2>
+                                        <h3>Цель:</h3>
+                                        <div class="why__text">
+                                            <div class="why__text-content">
+                                                <p> Упаковать корпоративный профиль Intagram и повысить узнаваемость компании на рынке РК и СНГ.</p>
+                                                <h3>Решение:</h3>
+                                                <ul>
+                                                    <li>добавлены тематические рубрики</li>
+                                                    <li>фотопродакшн</li>
+                                                    <li>настройка таргетированной рекламы</li>
+                                                    <li>работа с базой подписчиков</li>
+                                                </ul>
+                                                <h3>Результат:</h3>
+                                                <p>
+                                                    Яркий и информативный профиль Instagram c тематическим содержанием и активной аудиторией.
+                                                </p>
+                                            </div>
+                                            <img src="static/img/content/insta.png" class="why__iphone">
+                                        </div>
+                                        <a href="#" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <a href="#" class="why__logo">
+                                        <img src="static/img/content/BVb3Wzn9orDR8mwVnhrSyd.jpg" alt="">
+                                    </a>
+                                    <div class="why__content">
+                                        <h2>Продвижение танцевальной студии “Next step”</h2>
+                                        <h3>Цель:</h3>
+                                        <div class="why__text">
+                                            <div class="why__text-content">
+                                                <p>Увеличить количество подписчиков, привлечь потенциальных клиентов на уроки танцев в студию.</p>
+                                                <h3>Решение:</h3>
+                                                <ul>
+                                                    <li>фото и видеосъемка уроков</li>
+                                                    <li>настройка и запуск таргетированной рекламы</li>
+                                                    <li>постоянное взаимодействие с подписчиками</li>
+                                                    <li>организация конкурсных механик</li>
+                                                </ul>
+                                                <h3>Результат:</h3>
+                                                <p>
+                                                    <strong style="color: #D46575">12 000 </strong>
+                                                    <br>активной аудитории
+                                                </p>
+                                                <p>
+                                                    <strong style="color: #D46575"> 229</strong>
+                                                    <br>Заявок в Директ
+                                                </p>
+                                                <p>
+                                                    <strong style="color: #D46575">360 000</strong>
+                                                    <br>охват
+                                                </p>
+                                            </div>
+                                            <img src="static/img/content/insta.png" class="why__iphone">
+                                        </div>
+                                        <a href="#" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <a href="#" class="why__logo">
+                                        <img src="static/img/content/BVb3Wzn9orDR8mwVnhrSyd.jpg" alt="">
+                                    </a>
+                                    <div class="why__content">
+                                        <h2>Продвижение магазина авторской детской одежды “baby.dress.ala” в Instagram</h2>
+                                        <h3>Цель:</h3>
+                                        <div class="why__text">
+                                            <div class="why__text-content">
+                                                <p>Увеличить продажи и привлечь живую аудиторию, рассказать про ассортимент магазина и вовлечь в наш контент.</p>
+                                                <h3>Решение:</h3>
+                                                <ul>
+                                                    <li>поработали над внешним видом профиля</li>
+                                                    <li>провели живые фотосессии</li>
+                                                    <li>проведение конкурсов</li>
+                                                    <li>определение ЦА</li>
+                                                    <li>настройка и запуск таргетированной рекламы</li>
+                                                </ul>
+                                                <h3>Результат:</h3>
+                                                <p>
+                                                    <strong style="color: #D46575">2000</strong>
+                                                    <br>подписчиков за месяц
+                                                </p>
+                                                <p>
+                                                    <strong style="color: #D46575"> 113% </strong>
+                                                    <br> сохранении публикации
+                                                </p>
+                                                <p>
+                                                    <strong style="color: #D46575">в 2 раза</strong>
+                                                    <br>увеличили объем продаж
+                                                </p>
+                                            </div>
+                                            <img src="static/img/content/insta.png" class="why__iphone">
+                                        </div>
+                                        <a href="#" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <a href="#" class="why__logo">
+                                        <img src="static/img/content/BVb3Wzn9orDR8mwVnhrSyd.jpg" alt="">
+                                    </a>
+                                    <div class="why__content">
+                                        <h2>Продвижение фестиваля электронной музыки “Hype DJ fest”</h2>
+                                        <h3>Цель:</h3>
+                                        <div class="why__text">
+                                            <div class="why__text-content">
+                                                <p>Продвижение мероприятия на площадке Instagram, привлечение заинтересованных пользователь с целью приобрести билет на концерт.</p>
+                                                <h3>Решение:</h3>
+                                                <ul>
+                                                    <li>упаковка профиля Instagram</li>
+                                                    <li>разработка медийной и промо-кампаний</li>
+                                                    <li>определение целевой аудитории для таргетированной рекламы</li>
+                                                    <li>подготовка креативов для рекламной кампании</li>
+                                                    <li>настройка и запуск таргетированной рекламы</li>
+                                                </ul>
+                                                <h3>Результат:</h3>
+                                                <p>
+                                                    <strong style="color: #D46575">80.000</strong>
+                                                    <br>охват
+                                                </p>
+                                                <p>
+                                                    <strong style="color: #D46575">2500</strong>
+                                                    <br>Посетило
+                                                </p>
+                                                <p>
+                                                    <strong style="color: #D46575">304 261</strong>
+                                                    <br>Показы рекламы
+                                                </p>
+                                            </div>
+                                            <img src="static/img/content/insta.png" class="why__iphone">
+                                        </div>
+                                        <a href="#" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <a href="#" class="why__logo">
+                                        <img src="static/img/content/BVb3Wzn9orDR8mwVnhrSyd.jpg" alt="">
+                                    </a>
+                                    <div class="why__content">
+                                        <h2>Продвижение магазина брендовых джинсовых курток “youniq” </h2>
+                                        <h3>Цель:</h3>
+                                        <div class="why__text">
+                                            <div class="why__text-content">
+                                                <p>Увеличение трафика и заявок в сезонный период продаж</p>
+                                                <h3>Решение:</h3>
+                                                <ul>
+                                                    <li>профессиональная фото-съёмка</li>
+                                                    <li>визуальное оформление профиля Instagram</li>
+                                                    <li>настройка и запуск таргетированной рекламы</li>
+                                                    <li>разработка и запуск конкурсных механик</li>
+                                                </ul>
+                                                <h3>Результат:</h3>
+                                                <p>
+                                                    25 курток продано со средним чеком в размере 70 000 тенге
+                                                </p>
+                                            </div>
+                                            <img src="static/img/content/insta.png" class="why__iphone">
+                                        </div>
+                                        <a href="#" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" class="button -default mt-3">СТАТЬ НАШИМ КЛИЕНТОМ</a>
                                     </div>
                                 </div>
                             </div>
