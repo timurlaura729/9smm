@@ -296,7 +296,7 @@
                     <ul class="nav why__tabs">
                         <li class="why__tabs-item">
                             <a class="why__tabs-link active" data-toggle="tab" href="#tabs-1" role="tab">
-                                <img src="static/img/content/client4.png" alt="">
+                                <img src="static/img/content/image_2020-01-22_18-29-26" alt="">
                             </a>
                         </li>
                         <li class="why__tabs-item">
@@ -671,7 +671,7 @@
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
                                     <a href="#" class="why__logo">
-                                        <img src="static/img/content/client4.png" alt="">
+                                        <img src="static/img/content/image_2020-01-22_18-29-26.png" alt="">
                                     </a>
                                     <div class="why__content">
                                         <h2>Продвижение магазина спортивной обуви</h2>
