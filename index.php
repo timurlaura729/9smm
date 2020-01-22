@@ -13,7 +13,7 @@
     <meta name="HandheldFriendly" content="true">
 
     <!-- Stylesheet -->
-    <link href="static/css/main.min.css" rel="stylesheet" type="text/css">
+    <link href="static/css/main.css" rel="stylesheet" type="text/css">
     <link href="static/css/separate-css/custom.css" rel="stylesheet" type="text/css">
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
@@ -1368,7 +1368,7 @@
     <!--/. Modals End -->
 
     <!-- Main scripts. You can replace it, but I recommend you to leave it here -->
-    <script src="static/js/main.min.js"></script>
+    <script src="static/js/main.js"></script>
     <script src="static/js/separate-js/scripts.js"></script>
 
 </body>
