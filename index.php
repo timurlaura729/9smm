@@ -309,6 +309,36 @@
                                 <img src="static/img/content/BVb3Wzn9orDR8mwVnhrSyd.jpg" alt="">
                             </a>
                         </li>
+                        <li class="why__tabs-item">
+                            <a class="why__tabs-link" data-toggle="tab" href="#tabs-4" role="tab">
+                                <img src="static/img/content/BVb3Wzn9orDR8mwVnhrSyd.jpg" alt="">
+                            </a>
+                        </li>
+                        <li class="why__tabs-item">
+                            <a class="why__tabs-link" data-toggle="tab" href="#tabs-5" role="tab">
+                                <img src="static/img/content/BVb3Wzn9orDR8mwVnhrSyd.jpg" alt="">
+                            </a>
+                        </li>
+                        <li class="why__tabs-item">
+                            <a class="why__tabs-link" data-toggle="tab" href="#tabs-6" role="tab">
+                                <img src="static/img/content/BVb3Wzn9orDR8mwVnhrSyd.jpg" alt="">
+                            </a>
+                        </li>
+                        <li class="why__tabs-item">
+                            <a class="why__tabs-link" data-toggle="tab" href="#tabs-7" role="tab">
+                                <img src="static/img/content/BVb3Wzn9orDR8mwVnhrSyd.jpg" alt="">
+                            </a>
+                        </li>
+                        <li class="why__tabs-item">
+                            <a class="why__tabs-link" data-toggle="tab" href="#tabs-8" role="tab">
+                                <img src="static/img/content/BVb3Wzn9orDR8mwVnhrSyd.jpg" alt="">
+                            </a>
+                        </li>
+                        <li class="why__tabs-item">
+                            <a class="why__tabs-link" data-toggle="tab" href="#tabs-9" role="tab">
+                                <img src="static/img/content/BVb3Wzn9orDR8mwVnhrSyd.jpg" alt="">
+                            </a>
+                        </li>
                     </ul>
                     <div class="why__content tab-content">
                         <div class="tab-pane active" id="tabs-1" role="tabpanel">
