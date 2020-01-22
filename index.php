@@ -296,17 +296,52 @@
                     <ul class="nav why__tabs">
                         <li class="why__tabs-item">
                             <a class="why__tabs-link active" data-toggle="tab" href="#tabs-1" role="tab">
-                                <img src="static/img/content/BVb3Wzn9orDR8mwVnhrSyd.jpg" alt="">
+                                <img src="static/img/content/client1.jpg" alt="">
                             </a>
                         </li>
                         <li class="why__tabs-item">
                             <a class="why__tabs-link" data-toggle="tab" href="#tabs-2" role="tab">
-                                <img src="static/img/content/BVb3Wzn9orDR8mwVnhrSyd.jpg" alt="">
+                                <img src="static/img/content/client2.png" alt="">
                             </a>
                         </li>
                         <li class="why__tabs-item">
                             <a class="why__tabs-link" data-toggle="tab" href="#tabs-3" role="tab">
-                                <img src="static/img/content/BVb3Wzn9orDR8mwVnhrSyd.jpg" alt="">
+                                <img src="static/img/content/client3.png" alt="">
+                            </a>
+                        </li>
+                        <li class="why__tabs-item">
+                            <a class="why__tabs-link" data-toggle="tab" href="#tabs-4" role="tab">
+                                <img src="static/img/content/client4.png" alt="">
+                            </a>
+                        </li>
+                        <li class="why__tabs-item">
+                            <a class="why__tabs-link" data-toggle="tab" href="#tabs-5" role="tab">
+                                <img src="static/img/content/client5.png" alt="">
+                            </a>
+                        </li>
+                         <li class="why__tabs-item">
+                             <a class="why__tabs-link" data-toggle="tab" href="#tabs-6" role="tab">
+                                 <img src="static/img/content/client6.png" alt="">
+                             </a>
+                         </li>
+                        <li class="why__tabs-item">
+                            <a class="why__tabs-link" data-toggle="tab" href="#tabs-7" role="tab">
+                                <img src="static/img/content/client7.png" alt="">
+                            </a>
+                        </li>
+                        <li class="why__tabs-item">
+                            <a class="why__tabs-link" data-toggle="tab" href="#tabs-8" role="tab">
+                                <img src="static/img/content/client8.png" alt="">
+                            </a>
+                        </li>
+                        <li class="why__tabs-item">
+                            <a class="why__tabs-link" data-toggle="tab" href="#tabs-9" role="tab">
+                                <img src="static/img/content/client9.png" alt="">
+                            </a>
+                        </li>
+                        <li class="why__tabs-item">
+                            <a class="why__tabs-link" data-toggle="tab" href="#tabs-10" role="tab">
+                                <img src="static/img/content/client10.png" alt="">
                             </a>
                         </li>
                     </ul>
