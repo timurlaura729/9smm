@@ -4,10 +4,6 @@
     <list default="true" id="a9f9e97e-c109-4638-ad17-9350d4ce6018" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/main.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/main.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/content/BVb3Wzn9orDR8mwVnhrSyd.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/content/insta.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +68,21 @@
       <option name="project" value="LOCAL" />
       <updated>1579694130984</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Кейсы 2">
+      <created>1579695032794</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579695032794</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fix">
+      <created>1579695159688</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1579695159688</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,13 +94,15 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Правки лого" />
     <MESSAGE value="Кейсы" />
-    <option name="LAST_COMMIT_MESSAGE" value="Кейсы" />
+    <MESSAGE value="Кейсы 2" />
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="649" y="152" key="CommitChangelistDialog2" timestamp="1579694130375">
+    <state x="649" y="152" key="CommitChangelistDialog2" timestamp="1579695159165">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="649" y="152" key="CommitChangelistDialog2/0.0.2048.1112@0.0.2048.1112" timestamp="1579694130375" />
+    <state x="649" y="152" key="CommitChangelistDialog2/0.0.2048.1112@0.0.2048.1112" timestamp="1579695159165" />
     <state x="805" y="312" key="FileChooserDialogImpl" timestamp="1579694664851">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -99,9 +111,9 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="533" y="200" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1579617531352" />
-    <state x="617" y="290" key="Vcs.Push.Dialog.v2" timestamp="1579694132007">
+    <state x="617" y="290" key="Vcs.Push.Dialog.v2" timestamp="1579695161580">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="617" y="290" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1579694132007" />
+    <state x="617" y="290" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1579695161580" />
   </component>
 </project>
