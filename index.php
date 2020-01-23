@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Тестовый сайт</title>
+    <title>SMM продвижение в социальных сетях / 9 O'WEB</title>
     <meta content="" name="description">
     <meta content="" name="keywords">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -289,7 +289,7 @@
     <section class="why" style="background-image: url('static/img/content/why-bg.jpg')">
         <div class="container">
             <div class="section-header">
-                <div class="section-header__title">ПРИЧИНЫ ПО КОТОРЫМ НУЖНО РАБОТАТЬ С НАМИ? ПРИМЕРЫ НАШИХ РАБОТ</div>
+                <div class="section-header__title">Лучшее доказательство - успех наших работ</div>
             </div>
             <div class="why__desktop">
                 <div class="why__card">
