@@ -232,6 +232,27 @@ $(function() {
 
     /*
     |--------------------------------------------------------------------------
+    | Why Desktop Slider
+    |--------------------------------------------------------------------------
+    */
+
+    let whyDesktopSlider = new Swiper('.jsWhyDesktopSlider', {
+        speed: 600,
+        mousewheel: false,
+        loop: false,
+        spaceBetween: 0,
+        navigation: {
+            nextEl: '.jsWhyDesktopSliderNext',
+            prevEl: '.jsWhyDesktopSliderPrev',
+        },
+        slidesPerView: 1,
+        pagination: {
+            el: '.jsWhyDesktopPagination',
+        },
+    });
+
+    /*
+    |--------------------------------------------------------------------------
     | Why Slider
     |--------------------------------------------------------------------------
     */
@@ -250,7 +271,6 @@ $(function() {
             el: '.jsWhyPagination',
         },
     });
-
 
     /*
     |--------------------------------------------------------------------------
