@@ -311,7 +311,7 @@
                                             <li>настройка рекламных кампаний</li>
                                             <li>подготовка баннеров и промо-материалов</li>
                                         </ul>
-										<a href="#" class="button -default why__button">СТАТЬ НАШИМ КЛИЕНТОМ</a>
+										<a href="#" class="button -default why__button" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" >СТАТЬ НАШИМ КЛИЕНТОМ</a>
 									</div>
 									<div class="why__stats">
 										<h5>Результат</h5>
@@ -347,7 +347,7 @@
                                             <li>сезонные акции для прогрева клиента</li>
                                             <li>разработка стратегии продвижения и настройка рекламных кампаний</li>
                                         </ul>
-										<a href="#" class="button -default why__button">СТАТЬ НАШИМ КЛИЕНТОМ</a>
+										<a href="#" class="button -default why__button" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" >СТАТЬ НАШИМ КЛИЕНТОМ</a>
 									</div>
 									<div class="why__stats">
 										<h5>Результат</h5>
@@ -382,7 +382,7 @@
                                             <li>внедрение чат-бота</li>
                                             <li>настройка и запуск таргетированной рекламы</li>
                                         </ul>
-										<a href="#" class="button -default why__button">СТАТЬ НАШИМ КЛИЕНТОМ</a>
+										<a href="#" class="button -default why__button" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" >СТАТЬ НАШИМ КЛИЕНТОМ</a>
 									</div>
 									<div class="why__stats">
 										<h5>Результат</h5>
@@ -424,7 +424,7 @@
                                         </ul>
 										<h5>Результат</h5>
 										<p>Приятный глазу визуальный стиль корпоративного профиля Instagram, наполненный ассортиментом товара и тематического контента, подчеркивающий его престижность и оригинальность.
-										<a href="#" class="button -default why__button">СТАТЬ НАШИМ КЛИЕНТОМ</a>
+										<a href="#" class="button -default why__button" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" >СТАТЬ НАШИМ КЛИЕНТОМ</a>
 									</div>
 									<img src="static/img/content/client1-insta.png" class="why__iphone">
 								</div>
@@ -445,9 +445,9 @@
                                             <li>работа с базой подписчиков</li>
                                         </ul>
 										<h5>Результат</h5>
-										<a href="#" class="button -default why__button">СТАТЬ НАШИМ КЛИЕНТОМ</a>
-									</div>
-									<p>Яркий и информативный профиль Instagram c тематическим содержанием и активной аудиторией.</p>
+										<p>Яркий и информативный профиль Instagram c тематическим содержанием и активной аудиторией.</p>
+										<a href="#" class="button -default why__button" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" >СТАТЬ НАШИМ КЛИЕНТОМ</a>
+									</div>						
 									<img src="static/img/content/client6-insta.png" class="why__iphone">
 								</div>
 							</div>	
@@ -466,7 +466,7 @@
                                             <li>постоянное взаимодействие с подписчиками</li>
                                             <li>организация конкурсных механик</li>
                                         </ul>
-										<a href="#" class="button -default why__button">СТАТЬ НАШИМ КЛИЕНТОМ</a>
+										<a href="#" class="button -default why__button" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" >СТАТЬ НАШИМ КЛИЕНТОМ</a>
 									</div>
 									<div class="why__stats">
 										<h5>Результат</h5>
@@ -502,7 +502,7 @@
                                             <li>определение ЦА</li>
                                             <li>настройка и запуск таргетированной рекламы</li>
                                         </ul>
-										<a href="#" class="button -default why__button">СТАТЬ НАШИМ КЛИЕНТОМ</a>
+										<a href="#" class="button -default why__button" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" >СТАТЬ НАШИМ КЛИЕНТОМ</a>
 									</div>
 									<div class="why__stats">
 										<h5>Результат</h5>
@@ -525,110 +525,103 @@
 							<div class="swiper-slide">
 								<div class="why__desktop-item">
 									<div class="why__text">
-										<h2>Проект по SMM #8</h2>
+										<h2>Продвижение фестиваля электронной музыки “Hype DJ fest”</h2>
 										<h5>Описание</h5>
-										<p>С помощью SMM сделать sneakerzzz лидером среди магазинов спортивной обуви, несмотря на большую конкуренцию. При этом нам нужно было выполнить поставленный KPI по охвату и вовлеченности.</p>
+										<p>Продвижение мероприятия на площадке Instagram, привлечение заинтересованных пользователь с целью приобрести билет на концерт.</p>
 										<br>
 										<br>
 										<h5>Решение</h5>
 										<ul>
-											<li>Создание уникального контента и интерактивных публикаций;</li>
-											<li>Разработка графических вижуалов/обработка фото;</li>
-											<li>Съемка видео роликов и написание сценариев к ним;</li>
-											<li>Постоянно взаимодействие с подписчиками.</li>
-										</ul>
-										<a href="#" class="button -default why__button">СТАТЬ НАШИМ КЛИЕНТОМ</a>
+                                            <li>упаковка профиля Instagram</li>
+                                            <li>разработка медийной и промо-кампаний</li>
+                                            <li>определение целевой аудитории для таргетированной рекламы</li>
+                                            <li>подготовка креативов для рекламной кампании</li>
+                                            <li>настройка и запуск таргетированной рекламы</li>
+                                        </ul>
+										<a href="#" class="button -default why__button" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" >СТАТЬ НАШИМ КЛИЕНТОМ</a>
 									</div>
 									<div class="why__stats">
-										<h5>Решение</h5>
+										<h5>Результат</h5>
 										<div class="why__stats-item">
-											<div class="why__stats-title">+6000</div>
-											<div class="why__stats-text">Органической аудитории в месяц</div>
+											<div class="why__stats-title">80.000</div>
+											<div class="why__stats-text">охват</div>
 										</div>
 										<div class="why__stats-item">
-											<div class="why__stats-title">+6000</div>
-											<div class="why__stats-text">Органической аудитории в месяц</div>
+											<div class="why__stats-title">2500</div>
+											<div class="why__stats-text">Посетило</div>
 										</div>
 										<div class="why__stats-item">
-											<div class="why__stats-title">+6000</div>
-											<div class="why__stats-text">Органической аудитории в месяц</div>
+											<div class="why__stats-title">304 261</div>
+											<div class="why__stats-text">Показы рекламы</div>
 										</div>
 									</div>
-									<img src="static/img/content/insta.png" class="why__iphone">
+									<img src="static/img/content/client10-insta.png" class="why__iphone">
 								</div>
 							</div>	
 							<div class="swiper-slide">
 								<div class="why__desktop-item">
 									<div class="why__text">
-										<h2>Проект по SMM #9</h2>
-										<h5>Описание</h5>
-										<p>С помощью SMM сделать sneakerzzz лидером среди магазинов спортивной обуви, несмотря на большую конкуренцию. При этом нам нужно было выполнить поставленный KPI по охвату и вовлеченности.</p>
+										<h2>Продвижение магазина брендовых джинсовых курток “youniq”</h2>
+										<h5>Цель</h5>
+										<p>Увеличение трафика и заявок в сезонный период продаж</p>
 										<br>
 										<br>
 										<h5>Решение</h5>
 										<ul>
-											<li>Создание уникального контента и интерактивных публикаций;</li>
-											<li>Разработка графических вижуалов/обработка фото;</li>
-											<li>Съемка видео роликов и написание сценариев к ним;</li>
-											<li>Постоянно взаимодействие с подписчиками.</li>
-										</ul>
-										<a href="#" class="button -default why__button">СТАТЬ НАШИМ КЛИЕНТОМ</a>
+                                            <li>профессиональная фото-съёмка</li>
+                                            <li>визуальное оформление профиля Instagram</li>
+                                            <li>настройка и запуск таргетированной рекламы</li>
+                                            <li>разработка и запуск конкурсных механик</li>
+                                        </ul>
+										<h5>Результат</h5>	
+										<p>25 курток продано со средним чеком в размере 70 000 тенге</p>
+										<a href="#" class="button -default why__button" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" >СТАТЬ НАШИМ КЛИЕНТОМ</a>
 									</div>
-									<div class="why__stats">
-										<h5>Решение</h5>
-										<div class="why__stats-item">
-											<div class="why__stats-title">+6000</div>
-											<div class="why__stats-text">Органической аудитории в месяц</div>
-										</div>
-										<div class="why__stats-item">
-											<div class="why__stats-title">+6000</div>
-											<div class="why__stats-text">Органической аудитории в месяц</div>
-										</div>
-										<div class="why__stats-item">
-											<div class="why__stats-title">+6000</div>
-											<div class="why__stats-text">Органической аудитории в месяц</div>
-										</div>
-									</div>
-									<img src="static/img/content/insta.png" class="why__iphone">
+									<img src="static/img/content/client9-insta.png" class="why__iphone">
 								</div>
 							</div>	
 							<div class="swiper-slide">
 								<div class="why__desktop-item">
 									<div class="why__text">
-										<h2>Проект по SMM #10</h2>
-										<h5>Описание</h5>
-										<p>С помощью SMM сделать sneakerzzz лидером среди магазинов спортивной обуви, несмотря на большую конкуренцию. При этом нам нужно было выполнить поставленный KPI по охвату и вовлеченности.</p>
+										<h2>Продвижение магазина товаров для питомцев “Petshop”</h2>
+										<h5>Цель</h5>
+										<p>Увеличить продажи и привлечь живую аудиторию, рассказать про ассортимент</p>
 										<br>
 										<br>
 										<h5>Решение</h5>
 										<ul>
-											<li>Создание уникального контента и интерактивных публикаций;</li>
-											<li>Разработка графических вижуалов/обработка фото;</li>
-											<li>Съемка видео роликов и написание сценариев к ним;</li>
-											<li>Постоянно взаимодействие с подписчиками.</li>
-										</ul>
-										<a href="#" class="button -default why__button">СТАТЬ НАШИМ КЛИЕНТОМ</a>
+                                           <li>фотопродакшн</li>
+                                           <li>создание единого стиля публикаций</li>
+                                           <li>подготовка баннеров и промо-материалов</li>
+                                           <li>настройка таргетированной рекламы</li>
+                                        </ul>
+										<a href="#" class="button -default why__button" onclick="changeMZ('Форма: СТАТЬ НАШИМ КЛИЕНТОМ')" data-target="#modal-cta" data-toggle="modal" >СТАТЬ НАШИМ КЛИЕНТОМ</a>
 									</div>
 									<div class="why__stats">
 										<h5>Решение</h5>
 										<div class="why__stats-item">
-											<div class="why__stats-title">+6000</div>
-											<div class="why__stats-text">Органической аудитории в месяц</div>
+											<div class="why__stats-title">459 327</div>
+											<div class="why__stats-text">охват</div>
 										</div>
 										<div class="why__stats-item">
-											<div class="why__stats-title">+6000</div>
-											<div class="why__stats-text">Органической аудитории в месяц</div>
+											<div class="why__stats-title">583 035</div>
+											<div class="why__stats-text">Показы</div>
 										</div>
 										<div class="why__stats-item">
-											<div class="why__stats-title">+6000</div>
-											<div class="why__stats-text">Органической аудитории в месяц</div>
+											<div class="why__stats-title">20 903</div>
+											<div class="why__stats-text">Кликов</div>
 										</div>
 									</div>
-									<img src="static/img/content/insta.png" class="why__iphone">
+									<img src="static/img/content/client3-insta.png" class="why__iphone">
 								</div>
 							</div>							
 						</div>
 					</div>
+					<div class="why__desktop-controls">
+						<button type="button" class="why__control -prev jsWhyDesktopSliderPrev">Назад</button>
+						<div class="swiper-pagination jsWhyDesktopPagination"></div>
+						<button type="button" class="why__control -next jsWhyDesktopSliderNext">Вперед</button>
+					</div>					
                 </div>
                 <div class="why__mobile">
                     <div class="why__slider">
