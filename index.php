@@ -3,9 +3,9 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>SMM продвижение в социальных сетях / 9 O'WEB</title>
-    <meta content="" name="description">
-    <meta content="" name="keywords">
+    <title>SMM продвижение в социальных сетях | Агентство 9 O'WEB</title>
+    <meta content="SMM продвижение бизнеса. Привлечем клиентов. Создадим вовлекающий контент. Оставьте заявку на бесплатную консультацию. Реализуем под ключ. Комплексный подход. Отвечаем за результат." name="description">
+    <meta content="SMM,социальные сети,instagram,facebook,telegram,twitter,продвижение" name="keywords">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="format-detection" content="telephone=no">
 
@@ -20,7 +20,7 @@
     <script src="https://www.google.com/recaptcha/api.js?render=6Lf-z88UAAAAACDiIGK3avEuacChA06-h1xRrNCY"></script>
 
     <!-- Favicons -->
-    <link rel="icon" type="image/png" href="image_2020-01-30_17-17-26.png">
+    <link rel="icon" type="image/png" href="favicon.png">
 
     <script>
         (function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)
@@ -1162,8 +1162,12 @@
     <!-- Audit Begin -->
     <section class="audit" style="background-image: url('static/img/content/audit-bg.jpg')">
         <div class="container">
-            <div class="audit__title">Также, у нас есть персонально предложение для тех, кто хочет развивать личный бренд</div>
-            <a href="#" onclick="changeMZ('Форма: ПОЛУЧИТЬ ПРЕДЛОЖЕНИЕ')" data-target="#modal-cta" data-toggle="modal" class="button -default audit__button">ПОЛУЧИТЬ ПРЕДЛОЖЕНИЕ</a>
+            <div class="audit__title">С нами вы можете развивать свой личный бренд</div>
+             <div class="audit__text">
+                Мы помогли десяткам профессионалов и собственников бизнеса.представлять себя в сети.
+                <br>Проконсультируем. Расскажем и покажем как.
+            </div>
+            <a href="#" onclick="changeMZ('Форма: ПОЛУЧИТЬ ПРЕДЛОЖЕНИЕ')" data-target="#modal-cta" data-toggle="modal" class="button -default audit__button">ХОЧУ КОНСУЛЬТАЦИЮ</a>
         </div>
     </section><!--/. Audit End -->
 
