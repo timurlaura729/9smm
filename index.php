@@ -1330,7 +1330,7 @@
                     </button>
                     <form class="form" id="form1">
                         <h2 class="form__title">ОСТАВЬТЕ ЗАЯВКУ</h2>
-                        <p>и получите бесплатный аудит ваших аккаунтов в соц сетях</p> 
+                        <p>и получите бесплатный аудит <br>ваших аккаунтов в соц сетях</p> 
                         <div class="control">
                             <input type="text" name="name" id="contname1" class="control__input js-name is-required" placeholder="Имя">
                         </div>
