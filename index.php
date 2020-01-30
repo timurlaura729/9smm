@@ -1172,16 +1172,16 @@
                         <br>info@9oweb.kz
                     </div>
                     <div class="footer__social">
-                        <a href="#" class="footer__social-link">
+                        <a href="https://www.facebook.com/9owebkz" target="_blank" class="footer__social-link">
                             <i class="fa fa-facebook"></i>
                         </a>
-                        <a href="#" class="footer__social-link">
-                            <i class="fa fa-linkedin"></i>
+                        <a href="https://t.me/marketer9" target="_blank" class="footer__social-link">
+                            <i class="fa fa-telegram"></i>
                         </a>
-                        <a href="#" class="footer__social-link">
+                        <a href="https://www.instagram.com/9owebagency/" target="_blank" class="footer__social-link">
                             <i class="fa fa-instagram"></i>
                         </a>
-                        <a href="#" class="footer__social-link">
+                        <a href="https://twitter.com/9oweb1" target="_blank" class="footer__social-link">
                             <i class="fa fa-twitter"></i>
                         </a>
                     </div>
