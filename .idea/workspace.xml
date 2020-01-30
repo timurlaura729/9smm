@@ -4,6 +4,8 @@
     <list default="true" id="a9f9e97e-c109-4638-ad17-9350d4ce6018" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/main.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/main.min.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +57,8 @@
       <workItem from="1579617609030" duration="310000" />
       <workItem from="1579833347192" duration="1331000" />
       <workItem from="1579867731681" duration="6000" />
-      <workItem from="1580381340966" duration="316000" />
+      <workItem from="1580381340966" duration="753000" />
+      <workItem from="1580383421918" duration="608000" />
     </task>
     <task id="LOCAL-00001" summary="Правки лого">
       <created>1579693536666</created>
@@ -106,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579834887305</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Добавли соц сети в футере">
+      <created>1580381675830</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1580381675830</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,24 +133,25 @@
     <MESSAGE value="fix 2" />
     <MESSAGE value="fix 3" />
     <MESSAGE value="fix 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix 4" />
+    <MESSAGE value="Добавли соц сети в футере" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавли соц сети в футере" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="649" y="152" key="CommitChangelistDialog2" timestamp="1579834886737">
+    <state x="649" y="152" key="CommitChangelistDialog2" timestamp="1580381675113">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="649" y="152" key="CommitChangelistDialog2/0.0.2048.1112@0.0.2048.1112" timestamp="1579834886737" />
-    <state x="805" y="312" key="FileChooserDialogImpl" timestamp="1579695877740">
+    <state x="649" y="152" key="CommitChangelistDialog2/0.0.2048.1112@0.0.2048.1112" timestamp="1580381675113" />
+    <state x="805" y="312" key="FileChooserDialogImpl" timestamp="1580382092664">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="805" y="312" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1579695877740" />
+    <state x="805" y="312" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1580382092664" />
     <state x="533" y="200" key="SettingsEditor" timestamp="1579617531352">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="533" y="200" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1579617531352" />
-    <state x="617" y="290" key="Vcs.Push.Dialog.v2" timestamp="1579834891971">
+    <state x="617" y="290" key="Vcs.Push.Dialog.v2" timestamp="1580381677331">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="617" y="290" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1579834891971" />
+    <state x="617" y="290" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1580381677331" />
   </component>
 </project>

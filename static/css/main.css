@@ -18381,16 +18381,17 @@ iframe#youtube {
 
 @media (max-width: 991.98px) {
   .why__text {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-align: start;
-        -ms-flex-align: start;
-            align-items: flex-start;
+    display: block;
     max-width: none;
-    -webkit-box-flex: 1;
-        -ms-flex: auto;
-            flex: auto;
+    text-align: left;
+    margin-top: 30px;
+  }
+}
+
+@media (max-width: 991.98px) {
+  .why__text strong {
+    font-size: 20px;
+    font-weight: 600;
   }
 }
 
@@ -18400,6 +18401,12 @@ iframe#youtube {
   text-indent: 0;
   list-style: none;
   list-style-position: outside;
+}
+
+@media (max-width: 991.98px) {
+  .why__text ul {
+    margin-bottom: 20px;
+  }
 }
 
 .why__text li {
@@ -18488,7 +18495,10 @@ iframe#youtube {
 
 @media (max-width: 767.98px) {
   .why__iphone {
-    height: 230px;
+    height: auto;
+    width: 170%;
+    max-width: none;
+    margin-left: -30px;
   }
 }
 
