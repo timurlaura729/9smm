@@ -20,7 +20,7 @@
     <script src="https://www.google.com/recaptcha/api.js?render=6Lf-z88UAAAAACDiIGK3avEuacChA06-h1xRrNCY"></script>
 
     <!-- Favicons -->
-    <link rel="icon" type="image/png" href="favicon.png">
+    <link rel="icon" type="image/png" href="image_2020-01-30_17-17-26.png">
 
     <script>
         (function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)
