@@ -18381,7 +18381,7 @@ iframe#youtube {
 
 @media (max-width: 991.98px) {
   .why__text {
-    display: flex;
+    display: block;
     max-width: none;
     text-align: left;
     margin-top: 30px;

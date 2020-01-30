@@ -904,8 +904,7 @@
 															<br>увеличили объем продаж
 														</p>
 													</div>
-													</div>
-												</div>
+												</div>										
 												<div class="col-6">
 												    <img src="static/img/content/client7-insta.png" class="why__iphone">
 												</div>

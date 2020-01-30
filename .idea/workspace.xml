@@ -5,7 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/main.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/main.min.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +57,7 @@
       <workItem from="1579833347192" duration="1331000" />
       <workItem from="1579867731681" duration="6000" />
       <workItem from="1580381340966" duration="753000" />
-      <workItem from="1580383421918" duration="608000" />
+      <workItem from="1580383421918" duration="1124000" />
     </task>
     <task id="LOCAL-00001" summary="Правки лого">
       <created>1579693536666</created>
@@ -116,7 +115,21 @@
       <option name="project" value="LOCAL" />
       <updated>1580381675830</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Изменил структуру кейсов">
+      <created>1580384149062</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1580384149062</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Изменил структуру кейсов 2">
+      <created>1580384516607</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1580384516607</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,13 +147,15 @@
     <MESSAGE value="fix 3" />
     <MESSAGE value="fix 4" />
     <MESSAGE value="Добавли соц сети в футере" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавли соц сети в футере" />
+    <MESSAGE value="Изменил структуру кейсов" />
+    <MESSAGE value="Изменил структуру кейсов 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Изменил структуру кейсов 2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="649" y="152" key="CommitChangelistDialog2" timestamp="1580381675113">
+    <state x="649" y="152" key="CommitChangelistDialog2" timestamp="1580384515772">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="649" y="152" key="CommitChangelistDialog2/0.0.2048.1112@0.0.2048.1112" timestamp="1580381675113" />
+    <state x="649" y="152" key="CommitChangelistDialog2/0.0.2048.1112@0.0.2048.1112" timestamp="1580384515772" />
     <state x="805" y="312" key="FileChooserDialogImpl" timestamp="1580382092664">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -149,9 +164,9 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="533" y="200" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1579617531352" />
-    <state x="617" y="290" key="Vcs.Push.Dialog.v2" timestamp="1580381677331">
+    <state x="617" y="290" key="Vcs.Push.Dialog.v2" timestamp="1580384517765">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="617" y="290" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1580381677331" />
+    <state x="617" y="290" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1580384517765" />
   </component>
 </project>
