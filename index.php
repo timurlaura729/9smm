@@ -321,11 +321,11 @@
 										</div>
 										<div class="why__stats-item">
 											<div class="why__stats-title">683 035</div>
-											<div class="why__stats-text">показ</div>
+											<div class="why__stats-text">показов</div>
 										</div>
 										<div class="why__stats-item">
 											<div class="why__stats-title">20 903</div>
-											<div class="why__stats-text">Кликов</div>
+											<div class="why__stats-text">кликов</div>
 										</div>
 									</div>
 									<img src="static/img/content/client4-insta.png" class="why__iphone">
@@ -352,11 +352,11 @@
 									<div class="why__stats">
 										<h5>Результат</h5>
 										<div class="why__stats-item">
-											<div class="why__stats-title">6000</div>
-											<div class="why__stats-text">органической аудитории в месяцц</div>
+											<div class="why__stats-title">+6 000</div>
+											<div class="why__stats-text">органической аудитории</div>
 										</div>
 										<div class="why__stats-item">
-											<div class="why__stats-title">2076</div>
+											<div class="why__stats-title">2 076</div>
 											<div class="why__stats-text">заявок</div>
 										</div>
 										<div class="why__stats-item">
@@ -388,18 +388,18 @@
 										<h5>Результат</h5>
 										<div class="why__stats-item">
 											<div class="why__stats-title">559 332</div>
-											<div class="why__stats-text">Охват</div>
+											<div class="why__stats-text">охват</div>
 										</div>
 										<div class="why__stats-item">
 											<div class="why__stats-title">783 056</div>
-											<div class="why__stats-text">показ</div>
+											<div class="why__stats-text">показов</div>
 										</div>
 										<div class="why__stats-item">
 											<div class="why__stats-title">23 903</div>
 											<div class="why__stats-text">кликов</div>
 										</div>
 										<div class="why__stats-item">
-											<div class="why__stats-title">2,4 руб= 11 тг</div>
+											<div class="why__stats-title">11</div>
 											<div class="why__stats-text">тг/клик</div>
 										</div>										
 									</div>
@@ -476,7 +476,7 @@
 										</div>
 										<div class="why__stats-item">
 											<div class="why__stats-title">229</div>
-											<div class="why__stats-text">Заявок в Директ</div>
+											<div class="why__stats-text">заявок в Директ</div>
 										</div>
 										<div class="why__stats-item">
 											<div class="why__stats-title">360 000</div>
@@ -507,12 +507,12 @@
 									<div class="why__stats">
 										<h5>Результат</h5>
 										<div class="why__stats-item">
-											<div class="why__stats-title">2000</div>
+											<div class="why__stats-title">+2 000</div>
 											<div class="why__stats-text">подписчиков за месяц</div>
 										</div>
 										<div class="why__stats-item">
-											<div class="why__stats-title">113%</div>
-											<div class="why__stats-text">сохранении публикации</div>
+											<div class="why__stats-title">+113%</div>
+											<div class="why__stats-text">сохранений публикаций</div>
 										</div>
 										<div class="why__stats-item">
 											<div class="why__stats-title">в 2 раза</div>
@@ -543,16 +543,16 @@
 									<div class="why__stats">
 										<h5>Результат</h5>
 										<div class="why__stats-item">
-											<div class="why__stats-title">80.000</div>
+											<div class="why__stats-title">80 000</div>
 											<div class="why__stats-text">охват</div>
 										</div>
 										<div class="why__stats-item">
-											<div class="why__stats-title">2500</div>
-											<div class="why__stats-text">Посетило</div>
+											<div class="why__stats-title">2523</div>
+											<div class="why__stats-text">гостей фестиваля</div>
 										</div>
 										<div class="why__stats-item">
 											<div class="why__stats-title">304 261</div>
-											<div class="why__stats-text">Показы рекламы</div>
+											<div class="why__stats-text">показов рекламы</div>
 										</div>
 									</div>
 									<img src="static/img/content/client10-insta.png" class="why__iphone">
@@ -561,7 +561,7 @@
 							<div class="swiper-slide">
 								<div class="why__desktop-item">
 									<div class="why__text">
-										<h2>Продвижение магазина брендовых джинсовых курток “youniq”</h2>
+										<h2>Продвижение магазина брендовых джинсовых курток “Youniq”</h2>
 										<h5>Цель</h5>
 										<p>Увеличение трафика и заявок в сезонный период продаж</p>
 										<br>
@@ -605,11 +605,11 @@
 										</div>
 										<div class="why__stats-item">
 											<div class="why__stats-title">583 035</div>
-											<div class="why__stats-text">Показы</div>
+											<div class="why__stats-text">показов</div>
 										</div>
 										<div class="why__stats-item">
 											<div class="why__stats-title">20 903</div>
-											<div class="why__stats-text">Кликов</div>
+											<div class="why__stats-text">кликов</div>
 										</div>
 									</div>
 									<img src="static/img/content/client3-insta.png" class="why__iphone">
@@ -654,7 +654,7 @@
 														</p>
 														<p>
 															<strong style="color: #D46575">683 035</strong>
-															<br>показ
+															<br>показов
 														</p>
 														<p>
 															<strong style="color: #D46575">20 903</strong>
@@ -692,11 +692,11 @@
 														</ul>
 														<h3>Результат:</h3>
 														<p>
-															<strong style="color: #D46575">6 000</strong>
+															<strong style="color: #D46575">+6 000</strong>
 															<br> органической аудитории в месяц
 														</p>
 														<p>
-															<strong style="color: #D46575">2076</strong>
+															<strong style="color: #D46575">2 076</strong>
 															<br>заявок
 														</p>
 														<p>
@@ -736,20 +736,20 @@
 														</ul>
 														<h3>Результат:</h3>
 														<p>
-															<strong style="color: #D46575"> 559 332</strong>
+															<strong style="color: #D46575">559 332</strong>
 															<br>охват
 														</p>
 														<p>
-															<strong style="color: #D46575"> 783 056</strong>
-															<br>показ
+															<strong style="color: #D46575">783 056</strong>
+															<br>показов
 														</p>
 														<p>
 															<strong style="color: #D46575">23 903</strong>
 															<br>кликов
 														</p>
 														<p>
-															<strong style="color: #D46575"> 2,4 руб= 11 тг </strong>
-															<br>тг/ клик
+															<strong style="color: #D46575">11 тг</strong>
+															<br>тг/клик
 														</p>
 													</div>
 												</div>
@@ -853,8 +853,8 @@
 															<br>активной аудитории
 														</p>
 														<p>
-															<strong style="color: #D46575"> 229</strong>
-															<br>Заявок в Директ
+															<strong style="color: #D46575">229</strong>
+															<br>заявок в Директ
 														</p>
 														<p>
 															<strong style="color: #D46575">360 000</strong>
@@ -892,11 +892,11 @@
 														</ul>
 														<h3>Результат:</h3>
 														<p>
-															<strong style="color: #D46575">2000</strong>
+															<strong style="color: #D46575">+2 000</strong>
 															<br>подписчиков за месяц
 														</p>
 														<p>
-															<strong style="color: #D46575"> 113% </strong>
+															<strong style="color: #D46575">+113% </strong>
 															<br> сохранении публикации
 														</p>
 														<p>
@@ -935,16 +935,16 @@
 														</ul>
 														<h3>Результат:</h3>
 														<p>
-															<strong style="color: #D46575">80.000</strong>
+															<strong style="color: #D46575">80 000</strong>
 															<br>охват
 														</p>
 														<p>
-															<strong style="color: #D46575">2500</strong>
-															<br>Посетило
+															<strong style="color: #D46575">2 500</strong>
+															<br>посетитетей
 														</p>
 														<p>
 															<strong style="color: #D46575">304 261</strong>
-															<br>Показы рекламы
+															<br>показов рекламы
 														</p>
 													</div>
 												</div>
@@ -961,7 +961,7 @@
                                         <img src="static/img/content/client9.png" alt="">
                                     </a>
                                     <div class="why__content">
-                                        <h2>Продвижение магазина брендовых джинсовых курток “youniq” </h2>
+                                        <h2>Продвижение магазина брендовых джинсовых курток “Youniq” </h2>
                                         <h3>Цель:</h3>
 										<p>Увеличение трафика и заявок в сезонный период продаж</p>
                                         <div class="why__text">
