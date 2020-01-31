@@ -1300,16 +1300,14 @@
                 if (value != '') return 1; else return 0;
             }
 
-            String.prototype.replaceAt = function(index, replacement) {
-                return this.substr(0, index) + replacement + this.substr(index + replacement.length);
-            }
 
             function proverkaPress(element, element2) {
                 var str2=element.value;
-                str2.replaceAt(0, '+');
-                str2.replaceAt(1, '7');
-                str2.replaceAt(2, '(');
-                str2.replaceAt(6, ')');
+                //str2.replaceAt(0, '+');
+                //str2.replaceAt(1, '7');
+                //str2.replaceAt(2, '(');
+                //str2.replaceAt(6, ')');
+                str2=string.substr(0, 0)+"88888";
                 var str=str2;
                 alert(str2);
                 alert(str);
