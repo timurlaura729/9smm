@@ -1302,7 +1302,8 @@
 
             function proverkaPress(element, element2) {
                 telPress=ph(element.value);
-                element.value="+7(7777)";
+                element.value[0]="+";
+                element.value[1]="7";
                 if(telPress==1) element2.disabled = false; else element2.disabled = true;
             }
 
