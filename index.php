@@ -1304,13 +1304,13 @@
                 telPress=ph(element.value);
                 if(telPress==1) {
                     element2.disabled = false;
-                    return = true;
                     alert(true);
+                    return = true;
                 }
                 else {
                     element2.disabled = true;
-                    return = false;
                     alert(false);
+                    return = false;
                 }
                 }
             }
