@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9f9e97e-c109-4638-ad17-9350d4ce6018" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-    </list>
+    <list default="true" id="a9f9e97e-c109-4638-ad17-9350d4ce6018" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +61,7 @@
       <workItem from="1579867731681" duration="6000" />
       <workItem from="1580381340966" duration="753000" />
       <workItem from="1580383421918" duration="1124000" />
-      <workItem from="1580452292025" duration="8042000" />
+      <workItem from="1580452292025" duration="8293000" />
     </task>
     <task id="LOCAL-00001" summary="Правки лого">
       <created>1579693536666</created>
@@ -359,7 +357,21 @@
       <option name="project" value="LOCAL" />
       <updated>1580462779814</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Изменил структуру кейсов 2">
+      <created>1580462900889</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1580462900889</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Изменил структуру кейсов 2">
+      <created>1580463038718</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1580463038718</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

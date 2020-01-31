@@ -1305,6 +1305,7 @@
                 element.value[2]='7';
                 element.value[3]='(';
                 element.value[7]=')';
+                element.value="+7"+element.value;
                 telPress=ph(element.value);
                 if(telPress==1) element2.disabled = false; else element2.disabled = true;
             }
