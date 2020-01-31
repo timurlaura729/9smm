@@ -73,7 +73,7 @@
                                         </div>
                                     </div>
                                     <div class="col-md-6">
-                                        <button type="button" id="but2" onclick="changeMZ('Форма: ПОЛУЧИТЬ КОНСУЛЬТАЦИЮ'); getAjax(document.getElementById('contname2').value, document.getElementById('contphone2').value, mazay);" class="button -default entry__button" data-target="#modal-success" data-toggle="modal" disabled>ПОЛУЧИТЬ КОНСУЛЬТАЦИЮ</button>
+                                        <button type="button" id="but2" onclick="changeMZ('Форма: ПОЛУЧИТЬ КОНСУЛЬТАЦИЮ'); getAjax(document.getElementById('contname2').value, document.getElementById('contphone2').value, mazay)" class="button -default entry__button" data-target="#modal-success" data-toggle="modal" disabled>ПОЛУЧИТЬ КОНСУЛЬТАЦИЮ</button>
                                     </div>
                                 </div>
                             </form>
@@ -1276,8 +1276,8 @@
     <noindex>
         <script>var mazay="Форма: Оставить заявку";
             var emailpattern = /^[a-z0-9._-]+@[a-z0-9-]+\.([a-z]{1,6}\.)?[a-z]{2,6}$/i;
-            //var phonepatern = /^\+[7](\+)?([- _():=+]?\d[- _():=+]?){10,14}$/;
-            var phonepatern = /^(\s*)?(\+)?([- _():=+]?\d[- _():=+]?){10,14}(\s*)?$/;
+            var phonepatern = /^\+[7](\+)?([- _():=+]?\d[- _():=+]?){10,14}$/;
+            //var phonepatern = /^(\s*)?(\+)?([- _():=+]?\d[- _():=+]?){10,14}(\s*)?$/;
             //$(".phone_mask").mask("+7(999)999-99-99");
             var telPress=0;
 
@@ -1302,17 +1302,7 @@
 
             function proverkaPress(element, element2) {
                 telPress=ph(element.value);
-                if(telPress==1) {
-                    element2.disabled = false;
-                    alert(true);
-                    return = true;
-                }
-                else {
-                    element2.disabled = true;
-                    alert(false);
-                    return = false;
-                }
-                }
+                if(telPress==1) element2.disabled = false; else element2.disabled = true;
             }
 
             function getAjax(name, phone, formax, idform="#form1") {
@@ -1407,12 +1397,6 @@
     <!-- Main scripts. You can replace it, but I recommend you to leave it here -->
     <script src="static/js/main.js"></script>
     <script src="static/js/separate-js/scripts.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script src="static/js/jquery.maskedinput.min.js"></script>
-    <script>
-        $(document).ready(function() {
-    //        $("#contphone2").mask("+7(999)99-99-999");
-        });
-    </script>
+
 </body>
 </html>
