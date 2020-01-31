@@ -1311,6 +1311,9 @@
                 var v1=trash(str2.substr(3, 1));
                 var v2=trash(str2.substr(4, 1));
                 var v3=trash(str2.substr(5, 1));
+
+                var vx=str2.substr(6, 1);
+
                 var v4=trash(str2.substr(7, 1));
                 var v5=trash(str2.substr(8, 1));
                 var v6=trash(str2.substr(9, 1));
@@ -1318,6 +1321,8 @@
                 var v8=trash(str2.substr(11, 1));
                 var v9=trash(str2.substr(12, 1));
                 var v10=trash(str2.substr(13, 1));
+
+                if (vx!=")") v4=vx;
                 var str="+7("+v1+v2+v3+")"+v4+v5+v6+v7+v8+v9+v10;
                 element.value=str;
                 telPress=ph(element.value);
