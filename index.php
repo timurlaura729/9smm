@@ -1301,12 +1301,12 @@
             }
 
             function proverkaPress(element, element2) {
-                element.value[1]='+';
-                element.value[2]='7';
-                element.value[3]='(';
-                element.value[7]=')';
                 var str2=element.value;
-                var str="+7("+str2[4]+str2[5]+str2[6]+")";
+                str2.value[0]='+';
+                str2.value[1]='7';
+                str2.value[2]='(';
+                str2.value[6]=')';
+                var str=str2;
                 alert(str);
                 element.value=str;
                 telPress=ph(element.value);
