@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>1SMM продвижение в социальных сетях | Агентство 9 O'WEB</title>
+    <title>SMM продвижение в социальных сетях | Агентство 9 O'WEB</title>
     <meta content="SMM продвижение бизнеса. Привлечем клиентов. Создадим вовлекающий контент. Оставьте заявку на бесплатную консультацию. Реализуем под ключ. Комплексный подход. Отвечаем за результат." name="description">
     <meta content="SMM,социальные сети,instagram,facebook,telegram,twitter,продвижение" name="keywords">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -1276,7 +1276,7 @@
     <noindex>
         <script>var mazay="Форма: Оставить заявку";
             var emailpattern = /^[a-z0-9._-]+@[a-z0-9-]+\.([a-z]{1,6}\.)?[a-z]{2,6}$/i;
-            var phonepatern = /^\+\7(\+)?([- _():=+]?\d[- _():=+]?){10,14}$/;
+            var phonepatern = /^\+[7](\+)?([- _():=+]?\d[- _():=+]?){10,14}$/;
             //var phonepatern = /^(\s*)?(\+)?([- _():=+]?\d[- _():=+]?){10,14}(\s*)?$/;
             //$(".phone_mask").mask("+7(999)999-99-99");
             var telPress=0;
