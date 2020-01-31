@@ -1308,9 +1308,7 @@
                 //str2.replaceAt(2, '(');
                 //str2.replaceAt(6, ')');
 
-                var str="+7("+str2.substr(3, 3)+")";
-                alert(str2);
-                alert(str);
+                var str="+7("+str2.substr(3, 3)+")"+str2.substr(7, 7);
                 element.value=str;
                 telPress=ph(element.value);
                 if(telPress==1) element2.disabled = false; else element2.disabled = true;
