@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9f9e97e-c109-4638-ad17-9350d4ce6018" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,7 +63,7 @@
       <workItem from="1579867731681" duration="6000" />
       <workItem from="1580381340966" duration="753000" />
       <workItem from="1580383421918" duration="1124000" />
-      <workItem from="1580452292025" duration="913000" />
+      <workItem from="1580452292025" duration="1079000" />
     </task>
     <task id="LOCAL-00001" summary="Правки лого">
       <created>1579693536666</created>
@@ -143,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580452515285</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Изменил структуру кейсов 2">
+      <created>1580453302175</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1580453302175</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

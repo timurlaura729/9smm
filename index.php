@@ -69,7 +69,7 @@
                                     </div>
                                     <div class="col-md-6">
                                         <div class="control">
-                                            <input type="text" class="control__input" id="contphone2" class="phone_mask" oninput="proverkaPress(document.getElementById('contphone2'), document.getElementById('but2'))" placeholder="Номер телефона">
+                                            <input type="text" class="control__input" id="contphone2" class="phone_mask" oninput="proverkaPress(document.getElementById('contphone2'), document.getElementById('but2'))" placeholder="Номер телефона1">
                                         </div>
                                     </div>
                                     <div class="col-md-6">
