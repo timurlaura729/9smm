@@ -1308,7 +1308,7 @@
                 //str2.replaceAt(2, '(');
                 //str2.replaceAt(6, ')');
 
-                var str=str2.substr(0, 1)+"88888";
+                var str="+7("+str2.substr(3, 3)+")";
                 alert(str2);
                 alert(str);
                 element.value=str;

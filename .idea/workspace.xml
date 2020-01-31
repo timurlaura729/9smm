@@ -63,14 +63,7 @@
       <workItem from="1579867731681" duration="6000" />
       <workItem from="1580381340966" duration="753000" />
       <workItem from="1580383421918" duration="1124000" />
-      <workItem from="1580452292025" duration="9686000" />
-    </task>
-    <task id="LOCAL-00007" summary="fix 4">
-      <created>1579834887305</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1579834887305</updated>
+      <workItem from="1580452292025" duration="9798000" />
     </task>
     <task id="LOCAL-00008" summary="Добавли соц сети в футере">
       <created>1580381675830</created>
@@ -408,7 +401,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580464457402</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="Изменил структуру кейсов 2">
+      <created>1580464543423</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1580464543423</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
