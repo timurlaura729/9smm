@@ -1300,6 +1300,10 @@
                 if (value != '') return 1; else return 0;
             }
 
+            String.prototype.replaceAt = function(index, replacement) {
+                return this.substr(0, index) + replacement + this.substr(index + replacement.length);
+            }
+
             function proverkaPress(element, element2) {
                 var str2=element.value;
                 str2.replaceAt(1, '+');
