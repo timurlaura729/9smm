@@ -1301,8 +1301,9 @@
             }
 
             function proverkaPress(element, element2) {
+                element.value[0]='+';
                 telPress=ph(element.value);
-                alert(element.value[0]);
+                alert(element.value[1]);
                 if(telPress==1) element2.disabled = false; else element2.disabled = true;
             }
 
