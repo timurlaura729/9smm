@@ -1401,7 +1401,7 @@
     <script src="static/js/jquery.maskedinput.min.js"></script>
     <script>
         $(document).ready(function() {
-            $("#contphone2").mask("+7 (999) 99-99-999");
+            $("#contphone2").mask("+7(999)99-99-999");
         });
     </script>
 </body>
