@@ -1311,6 +1311,7 @@
                 str2.replaceAt(3, '(');
                 str2.replaceAt(7, ')');
                 var str=str2;
+                alert(str2);
                 alert(str);
                 element.value=str;
                 telPress=ph(element.value);

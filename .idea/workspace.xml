@@ -63,21 +63,7 @@
       <workItem from="1579867731681" duration="6000" />
       <workItem from="1580381340966" duration="753000" />
       <workItem from="1580383421918" duration="1124000" />
-      <workItem from="1580452292025" duration="9006000" />
-    </task>
-    <task id="LOCAL-00001" summary="Правки лого">
-      <created>1579693536666</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1579693536666</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Кейсы">
-      <created>1579694130984</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1579694130984</updated>
+      <workItem from="1580452292025" duration="9250000" />
     </task>
     <task id="LOCAL-00003" summary="Кейсы 2">
       <created>1579695032794</created>
@@ -408,7 +394,21 @@
       <option name="project" value="LOCAL" />
       <updated>1580463682865</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Изменил структуру кейсов 2">
+      <created>1580463863483</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1580463863483</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Изменил структуру кейсов 2">
+      <created>1580464007160</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1580464007160</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
