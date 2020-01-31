@@ -69,7 +69,7 @@
                                     </div>
                                     <div class="col-md-6">
                                         <div class="control">
-                                            <input type="text" class="control__input phone_mask" id="contphone2" oninput="alert(6565644); proverkaPress(document.getElementById('contphone2'), document.getElementById('but2'))" placeholder="Номер телефона">
+                                            <input type="text" class="control__input phone_mask" id="contphone2" oninput="proverkaPress(document.getElementById('contphone2'), document.getElementById('but2'))" placeholder="Номер телефона">
                                         </div>
                                     </div>
                                     <div class="col-md-6">
@@ -1403,6 +1403,9 @@
     <script>
         $(document).ready(function() {
             $("#contphone2").mask("+7(999)99-99-999");
+            $('#contphone2').change(function() {
+                alert("7777");
+            });
         });
     </script>
 </body>
