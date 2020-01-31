@@ -73,7 +73,7 @@
                                         </div>
                                     </div>
                                     <div class="col-md-6">
-                                        <button type="button" id="but2" onclick="changeMZ('Форма: ПОЛУЧИТЬ КОНСУЛЬТАЦИЮ'); getAjax(document.getElementById('contname2').value, document.getElementById('contphone2').value, mazay)" class="button -default entry__button" data-target="#modal-success" data-toggle="modal" disabled>ПОЛУЧИТЬ КОНСУЛЬТАЦИЮ</button>
+                                        <button type="button" id="but2" onclick="if(proverkaPress(document.getElementById('contphone2'), document.getElementById('but2'))==false)  {changeMZ('Форма: ПОЛУЧИТЬ КОНСУЛЬТАЦИЮ'); getAjax(document.getElementById('contname2').value, document.getElementById('contphone2').value, mazay); }" class="button -default entry__button" data-target="#modal-success" data-toggle="modal" disabled>ПОЛУЧИТЬ КОНСУЛЬТАЦИЮ</button>
                                     </div>
                                 </div>
                             </form>
@@ -1302,8 +1302,17 @@
 
             function proverkaPress(element, element2) {
                 telPress=ph(element.value);
-                alert(element.value);
-                if(telPress==1) element2.disabled = false; else element2.disabled = true;
+                if(telPress==1) {
+                    element2.disabled = false;
+                    return = true;
+                    alert(true);
+                }
+                else {
+                    element2.disabled = true;
+                    return = false;
+                    alert(false);
+                }
+                }
             }
 
             function getAjax(name, phone, formax, idform="#form1") {
@@ -1403,9 +1412,6 @@
     <script>
         $(document).ready(function() {
             $("#contphone2").mask("+7(999)99-99-999");
-            $('#contphone2').input(function() {
-                alert("7777");
-            });
         });
     </script>
 </body>
