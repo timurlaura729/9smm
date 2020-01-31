@@ -1403,7 +1403,7 @@
     <script>
         $(document).ready(function() {
             $("#contphone2").mask("+7(999)99-99-999");
-            $('#contphone2').change(function() {
+            $('#contphone2').input(function() {
                 alert("7777");
             });
         });
