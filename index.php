@@ -1301,7 +1301,6 @@
             }
 
             function proverkaPress(element, element2) {
-                element.value="________________";
                 element.value[0]='+';
                 element.value[1]='7';
                 element.value[2]='(';
