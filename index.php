@@ -73,7 +73,7 @@
                                         </div>
                                     </div>
                                     <div class="col-md-6">
-                                        <button type="button" id="but2" onclick="if(proverkaPress(document.getElementById('contphone2'), document.getElementById('but2'))==false)  {changeMZ('Форма: ПОЛУЧИТЬ КОНСУЛЬТАЦИЮ'); getAjax(document.getElementById('contname2').value, document.getElementById('contphone2').value, mazay); }" class="button -default entry__button" data-target="#modal-success" data-toggle="modal" disabled>ПОЛУЧИТЬ КОНСУЛЬТАЦИЮ</button>
+                                        <button type="button" id="but2" onclick="changeMZ('Форма: ПОЛУЧИТЬ КОНСУЛЬТАЦИЮ'); getAjax(document.getElementById('contname2').value, document.getElementById('contphone2').value, mazay);" class="button -default entry__button" data-target="#modal-success" data-toggle="modal">ПОЛУЧИТЬ КОНСУЛЬТАЦИЮ</button>
                                     </div>
                                 </div>
                             </form>
