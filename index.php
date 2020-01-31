@@ -1305,7 +1305,8 @@
                 element.value[2]='7';
                 element.value[3]='(';
                 element.value[7]=')';
-                var str="+7"+element.value;
+                var str2=element.value;
+                var str="+7("+str2[4]+str2[5]+str2[6]+")";
                 alert(str);
                 element.value=str;
                 telPress=ph(element.value);
