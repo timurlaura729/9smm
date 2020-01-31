@@ -69,7 +69,7 @@
                                     </div>
                                     <div class="col-md-6">
                                         <div class="control">
-                                            <input type="text" class="control__input phone_mask" id="contphone2" oninput="proverkaPress(document.getElementById('contphone2'), document.getElementById('but2'))" value="+7(___)_________" placeholder="Номер телефона">
+                                            <input type="text" class="control__input phone_mask" id="contphone2" oninput="proverkaPress(document.getElementById('contphone2'), document.getElementById('but2'))" value="+7()" placeholder="Номер телефона">
                                         </div>
                                     </div>
                                     <div class="col-md-6">
@@ -1229,7 +1229,7 @@
                         <input type="text" id="contname3" class="control__input" placeholder="Имя">
                     </div>
                     <div class="control">
-                        <input type="text" oninput="proverkaPress(document.getElementById('contphone3'), document.getElementById('but3'))" class="control__input" id="contphone3" placeholder="+7 (***) ***-**-**">
+                        <input type="text" oninput="proverkaPress(document.getElementById('contphone3'), document.getElementById('but3'))" class="control__input" id="contphone3" placeholder="+7 (***) ***-**-**" value="+7()">
                     </div>
                     <button type="button" id="but3" onclick="changeMZ('Форма: ДАВАЙТЕ СОТРУДНИЧАТЬ'); getAjax(document.getElementById('contname3').value, document.getElementById('contphone3').value, mazay)" class="button -default footer__button" disabled>Отправить</button>
                     <div class="footer__contacts">
@@ -1355,7 +1355,7 @@
                             <input type="text" name="name" id="contname1" class="control__input js-name is-required" placeholder="Имя">
                         </div>
                         <div class="control">
-                            <input type="text" name="phone" id="contphone1" oninput="proverkaPress(document.getElementById('contphone1'), document.getElementById('but1'))" class="control__input js-phone is-required" placeholder="Телефон">
+                            <input type="text" name="phone" id="contphone1" oninput="proverkaPress(document.getElementById('contphone1'), document.getElementById('but1'))" class="control__input js-phone is-required" placeholder="Телефон" value="+7()">
                         </div>
                         <button type="button" id="but1" onclick="getAjax(document.getElementById('contname1').value, document.getElementById('contphone1').value, mazay)" class="button form__button" data-dismiss="modal" data-target="#modal-success" data-toggle="modal" disabled>Оставить заявку</button>
                     </form>
