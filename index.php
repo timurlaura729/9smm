@@ -1302,10 +1302,10 @@
 
             function proverkaPress(element, element2) {
                 var str2=element.value;
-                str2.value[1]='+';
-                str2.value[2]='7';
-                str2.value[3]='(';
-                str2.value[7]=')';
+                str2.replaceAt(1, '+');
+                str2.replaceAt(2, '7');
+                str2.replaceAt(3, '(');
+                str2.replaceAt(7, ')');
                 var str=str2;
                 alert(str);
                 element.value=str;
