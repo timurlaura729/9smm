@@ -1305,7 +1305,9 @@
                 element.value[2]='7';
                 element.value[3]='(';
                 element.value[7]=')';
-                element.value="+7"+element.value;
+                var str="+7"+element.value;
+                alert(str);
+                element.value=str;
                 telPress=ph(element.value);
                 if(telPress==1) element2.disabled = false; else element2.disabled = true;
             }
