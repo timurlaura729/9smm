@@ -1301,11 +1301,10 @@
             }
 
             function proverkaPress(element, element2) {
-                element.value[0]='+';
-                element.value[1]='7';
-                element.value[2]='(';
-                element.value[6]=')';
-                element.value=element.value[0] + element.value[1] + element.value[2] + element.value[3] + element.value[4] + element.value[5] + element.value[6] + element.value[7] + element.value[8]+element.value[9] + element.value[10] + element.value[11] + element.value[12] + element.value[13];
+                element.value[1]='+';
+                element.value[2]='7';
+                element.value[3]='(';
+                element.value[7]=')';
                 telPress=ph(element.value);
                 if(telPress==1) element2.disabled = false; else element2.disabled = true;
             }
