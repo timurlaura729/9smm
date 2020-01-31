@@ -69,7 +69,7 @@
                                     </div>
                                     <div class="col-md-6">
                                         <div class="control">
-                                            <input type="text" class="control__input" id="contphone2" oninput="proverkaPress(document.getElementById('contphone2'), document.getElementById('but2'))" placeholder="Номер телефона">
+                                            <input type="text" class="control__input" id="contphone2" class="phone_mask" oninput="proverkaPress(document.getElementById('contphone2'), document.getElementById('but2'))" placeholder="Номер телефона">
                                         </div>
                                     </div>
                                     <div class="col-md-6">
@@ -1276,8 +1276,8 @@
     <noindex>
         <script>var mazay="Форма: Оставить заявку";
             var emailpattern = /^[a-z0-9._-]+@[a-z0-9-]+\.([a-z]{1,6}\.)?[a-z]{2,6}$/i;
-            var phonepatern = /^(\+)?([- _():=+]?\d[- _():=+]?){10,14}(\s*)?$/;
-            //var phonepatern = /^(\s*)?(\+)?([- _():=+]?\d[- _():=+]?){10,14}(\s*)?$/;
+            var phonepatern = /^(\s*)?(\+)?([- _():=+]?\d[- _():=+]?){10,14}(\s*)?$/;
+            $(".phone_mask").mask("+7(999)999-99-99");
             var telPress=0;
 
             function ff(value) {
