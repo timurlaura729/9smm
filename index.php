@@ -1322,7 +1322,12 @@
                 var v10=trash(str2.substr(13, 1));
 
                 if (vx!=")") v4=vx;
-                var str="+7("+v1+v2+v3+")"+v4+v5+v6+v7+v8+v9+v10;
+                var vscop=")";
+                if (v1="") vscop="";
+                if (v2="") vscop="";
+                if (v3="") vscop="";
+
+                var str="+7("+v1+v2+v3+vscop+v4+v5+v6+v7+v8+v9+v10;
                 element.value=str;
                 telPress=ph(element.value);
                 if(telPress==1) element2.disabled = false; else element2.disabled = true;
