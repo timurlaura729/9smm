@@ -1306,7 +1306,7 @@
             }
 
             function proverkaPress(element, element2) {
-                var str2=element.value;
+                var str2=element.value.replace(" ", "");
                 var v1=trash(str2.substr(3, 1));
                 var v2=trash(str2.substr(4, 1));
                 var v3=trash(str2.substr(5, 1));
