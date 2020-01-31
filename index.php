@@ -1303,12 +1303,10 @@
 
             function proverkaPress(element, element2) {
                 var str2=element.value;
-                //str2.replaceAt(0, '+');
-                //str2.replaceAt(1, '7');
-                //str2.replaceAt(2, '(');
-                //str2.replaceAt(6, ')');
-
-                var str="+7("+str2.substr(3, 3)+")"+str2.substr(7, 7);
+                var v1=str2.substr(3, 1);
+                var v2=str2.substr(4, 1);
+                var v3=str2.substr(5, 1);
+                var str="+7("+v1+v2+v3+")"+str2.substr(7, 7);
                 element.value=str;
                 telPress=ph(element.value);
                 if(telPress==1) element2.disabled = false; else element2.disabled = true;
