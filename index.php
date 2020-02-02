@@ -663,7 +663,7 @@
 													</div>
 												</div>
 												<div class="col-6">	
-												    <img src="static/img/content/client4-insta.png" class="why__iphone">
+												    <img src="static/img/content/sneakerzzz_cut.png" class="why__iphone">
 												</div>
 											</div>                                   
                                         </div>
@@ -706,7 +706,7 @@
 													</div>
 												</div>
 												<div class="col-6">
-												     <img src="static/img/content/client5-insta.png" class="why__iphone">
+												     <img src="static/img/content/smarttour_cut.png" class="why__iphone">
 												</div>
 										    </div>
                                         </div>
@@ -754,7 +754,7 @@
 													</div>
 												</div>
 												<div class="col-6">
-												    <img src="static/img/content/client8-insta.png" class="why__iphone">
+												    <img src="static/img/content/novec_cut.png" class="why__iphone">
 												</div>
 											</div>
                                         </div>
@@ -788,7 +788,7 @@
 													</div>
 												</div>
 												<div class="col-6">
-												    <img src="static/img/content/client1-insta.png" class="why__iphone">
+												    <img src="static/img/content/parfume_cut.png" class="why__iphone">
 												</div>
 											</div>
                                         </div>
@@ -821,7 +821,7 @@
 													</div>
 												</div>
 												<div class="col-6">
-												    <img src="static/img/content/client6-insta.png" class="why__iphone">
+												    <img src="static/img/content/kromatrans_cut.png" class="why__iphone">
 												</div>
 											</div>
                                         </div>
@@ -863,7 +863,7 @@
 													</div>
 												</div>
 												<div class="col-6">
-												    <img src="static/img/content/client2-insta.png" class="why__iphone">
+												    <img src="static/img/content/next_step_cut.png" class="why__iphone">
 												</div>
 											</div>
                                         </div>
@@ -906,7 +906,7 @@
 													</div>
 												</div>										
 												<div class="col-6">
-												    <img src="static/img/content/client7-insta.png" class="why__iphone">
+												    <img src="static/img/content/baby_dress_cut.png" class="why__iphone">
 												</div>
 											</div>
                                         </div>
@@ -949,7 +949,7 @@
 													</div>
 												</div>
 												<div class="col-6">
-												    <img src="static/img/content/client10-insta.png" class="why__iphone">
+												    <img src="static/img/content/hype_cut.png" class="why__iphone">
 												</div>
 											</div>
                                         </div>
@@ -983,7 +983,7 @@
 													</div>
 												</div>
 												<div class="col-6">
-												    <img src="static/img/content/client9-insta.png" class="why__iphone">
+												    <img src="static/img/content/youniq_cut.png" class="why__iphone">
 												</div>
 											</div>
                                         </div>
@@ -1025,7 +1025,7 @@
 													</div>
 												</div>
 												<div class="col-6">
-												    <img src="static/img/content/client3-insta.png" class="why__iphone">
+												    <img src="static/img/content/petshop_cut.png" class="why__iphone">
 												</div>
 											</div>
                                         </div>
