@@ -3,9 +3,9 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>SMM продвижение в социальных сетях / 9 O'WEB</title>
-    <meta content="" name="description">
-    <meta content="" name="keywords">
+    <title>SMM продвижение в социальных сетях | Агентство 9 O'WEB</title>
+    <meta content="SMM продвижение бизнеса. Привлечем клиентов. Создадим вовлекающий контент. Оставьте заявку на бесплатную консультацию. Реализуем под ключ. Комплексный подход. Отвечаем за результат." name="description">
+    <meta content="SMM,социальные сети,instagram,facebook,telegram,twitter,продвижение" name="keywords">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="format-detection" content="telephone=no">
 
@@ -20,7 +20,7 @@
     <script src="https://www.google.com/recaptcha/api.js?render=6Lf-z88UAAAAACDiIGK3avEuacChA06-h1xRrNCY"></script>
 
     <!-- Favicons -->
-    <link rel="icon" type="image/png" href="image_2020-01-30_17-17-26.png">
+    <link rel="icon" type="image/png" href="favicon.png">
 
     <script>
         (function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)
@@ -69,7 +69,7 @@
                                     </div>
                                     <div class="col-md-6">
                                         <div class="control">
-                                            <input type="text" class="control__input" id="contphone2" oninput="proverkaPress(document.getElementById('contphone2'), document.getElementById('but2'))" placeholder="Номер телефона">
+                                            <input type="text" class="control__input phone_mask" id="contphone2" oninput="proverkaPress(document.getElementById('contphone2'), document.getElementById('but2'))" value="" placeholder="Номер телефона">
                                         </div>
                                     </div>
                                     <div class="col-md-6">
@@ -321,11 +321,11 @@
 										</div>
 										<div class="why__stats-item">
 											<div class="why__stats-title">683 035</div>
-											<div class="why__stats-text">показ</div>
+											<div class="why__stats-text">показов</div>
 										</div>
 										<div class="why__stats-item">
 											<div class="why__stats-title">20 903</div>
-											<div class="why__stats-text">Кликов</div>
+											<div class="why__stats-text">кликов</div>
 										</div>
 									</div>
 									<img src="static/img/content/client4-insta.png" class="why__iphone">
@@ -352,11 +352,11 @@
 									<div class="why__stats">
 										<h5>Результат</h5>
 										<div class="why__stats-item">
-											<div class="why__stats-title">6000</div>
-											<div class="why__stats-text">органической аудитории в месяцц</div>
+											<div class="why__stats-title">+6 000</div>
+											<div class="why__stats-text">органической аудитории</div>
 										</div>
 										<div class="why__stats-item">
-											<div class="why__stats-title">2076</div>
+											<div class="why__stats-title">2 076</div>
 											<div class="why__stats-text">заявок</div>
 										</div>
 										<div class="why__stats-item">
@@ -388,18 +388,18 @@
 										<h5>Результат</h5>
 										<div class="why__stats-item">
 											<div class="why__stats-title">559 332</div>
-											<div class="why__stats-text">Охват</div>
+											<div class="why__stats-text">охват</div>
 										</div>
 										<div class="why__stats-item">
 											<div class="why__stats-title">783 056</div>
-											<div class="why__stats-text">показ</div>
+											<div class="why__stats-text">показов</div>
 										</div>
 										<div class="why__stats-item">
 											<div class="why__stats-title">23 903</div>
 											<div class="why__stats-text">кликов</div>
 										</div>
 										<div class="why__stats-item">
-											<div class="why__stats-title">2,4 руб= 11 тг</div>
+											<div class="why__stats-title">11</div>
 											<div class="why__stats-text">тг/клик</div>
 										</div>										
 									</div>
@@ -476,7 +476,7 @@
 										</div>
 										<div class="why__stats-item">
 											<div class="why__stats-title">229</div>
-											<div class="why__stats-text">Заявок в Директ</div>
+											<div class="why__stats-text">заявок в Директ</div>
 										</div>
 										<div class="why__stats-item">
 											<div class="why__stats-title">360 000</div>
@@ -507,12 +507,12 @@
 									<div class="why__stats">
 										<h5>Результат</h5>
 										<div class="why__stats-item">
-											<div class="why__stats-title">2000</div>
+											<div class="why__stats-title">+2 000</div>
 											<div class="why__stats-text">подписчиков за месяц</div>
 										</div>
 										<div class="why__stats-item">
-											<div class="why__stats-title">113%</div>
-											<div class="why__stats-text">сохранении публикации</div>
+											<div class="why__stats-title">+113%</div>
+											<div class="why__stats-text">сохранений публикаций</div>
 										</div>
 										<div class="why__stats-item">
 											<div class="why__stats-title">в 2 раза</div>
@@ -543,16 +543,16 @@
 									<div class="why__stats">
 										<h5>Результат</h5>
 										<div class="why__stats-item">
-											<div class="why__stats-title">80.000</div>
+											<div class="why__stats-title">80 000</div>
 											<div class="why__stats-text">охват</div>
 										</div>
 										<div class="why__stats-item">
-											<div class="why__stats-title">2500</div>
-											<div class="why__stats-text">Посетило</div>
+											<div class="why__stats-title">2523</div>
+											<div class="why__stats-text">гостей фестиваля</div>
 										</div>
 										<div class="why__stats-item">
 											<div class="why__stats-title">304 261</div>
-											<div class="why__stats-text">Показы рекламы</div>
+											<div class="why__stats-text">показов рекламы</div>
 										</div>
 									</div>
 									<img src="static/img/content/client10-insta.png" class="why__iphone">
@@ -561,7 +561,7 @@
 							<div class="swiper-slide">
 								<div class="why__desktop-item">
 									<div class="why__text">
-										<h2>Продвижение магазина брендовых джинсовых курток “youniq”</h2>
+										<h2>Продвижение магазина брендовых джинсовых курток “Youniq”</h2>
 										<h5>Цель</h5>
 										<p>Увеличение трафика и заявок в сезонный период продаж</p>
 										<br>
@@ -605,11 +605,11 @@
 										</div>
 										<div class="why__stats-item">
 											<div class="why__stats-title">583 035</div>
-											<div class="why__stats-text">Показы</div>
+											<div class="why__stats-text">показов</div>
 										</div>
 										<div class="why__stats-item">
 											<div class="why__stats-title">20 903</div>
-											<div class="why__stats-text">Кликов</div>
+											<div class="why__stats-text">кликов</div>
 										</div>
 									</div>
 									<img src="static/img/content/client3-insta.png" class="why__iphone">
@@ -654,7 +654,7 @@
 														</p>
 														<p>
 															<strong style="color: #D46575">683 035</strong>
-															<br>показ
+															<br>показов
 														</p>
 														<p>
 															<strong style="color: #D46575">20 903</strong>
@@ -692,11 +692,11 @@
 														</ul>
 														<h3>Результат:</h3>
 														<p>
-															<strong style="color: #D46575">6 000</strong>
+															<strong style="color: #D46575">+6 000</strong>
 															<br> органической аудитории в месяц
 														</p>
 														<p>
-															<strong style="color: #D46575">2076</strong>
+															<strong style="color: #D46575">2 076</strong>
 															<br>заявок
 														</p>
 														<p>
@@ -736,20 +736,20 @@
 														</ul>
 														<h3>Результат:</h3>
 														<p>
-															<strong style="color: #D46575"> 559 332</strong>
+															<strong style="color: #D46575">559 332</strong>
 															<br>охват
 														</p>
 														<p>
-															<strong style="color: #D46575"> 783 056</strong>
-															<br>показ
+															<strong style="color: #D46575">783 056</strong>
+															<br>показов
 														</p>
 														<p>
 															<strong style="color: #D46575">23 903</strong>
 															<br>кликов
 														</p>
 														<p>
-															<strong style="color: #D46575"> 2,4 руб= 11 тг </strong>
-															<br>тг/ клик
+															<strong style="color: #D46575">11 тг</strong>
+															<br>тг/клик
 														</p>
 													</div>
 												</div>
@@ -853,8 +853,8 @@
 															<br>активной аудитории
 														</p>
 														<p>
-															<strong style="color: #D46575"> 229</strong>
-															<br>Заявок в Директ
+															<strong style="color: #D46575">229</strong>
+															<br>заявок в Директ
 														</p>
 														<p>
 															<strong style="color: #D46575">360 000</strong>
@@ -892,11 +892,11 @@
 														</ul>
 														<h3>Результат:</h3>
 														<p>
-															<strong style="color: #D46575">2000</strong>
+															<strong style="color: #D46575">+2 000</strong>
 															<br>подписчиков за месяц
 														</p>
 														<p>
-															<strong style="color: #D46575"> 113% </strong>
+															<strong style="color: #D46575">+113% </strong>
 															<br> сохранении публикации
 														</p>
 														<p>
@@ -935,16 +935,16 @@
 														</ul>
 														<h3>Результат:</h3>
 														<p>
-															<strong style="color: #D46575">80.000</strong>
+															<strong style="color: #D46575">80 000</strong>
 															<br>охват
 														</p>
 														<p>
-															<strong style="color: #D46575">2500</strong>
-															<br>Посетило
+															<strong style="color: #D46575">2 500</strong>
+															<br>посетитетей
 														</p>
 														<p>
 															<strong style="color: #D46575">304 261</strong>
-															<br>Показы рекламы
+															<br>показов рекламы
 														</p>
 													</div>
 												</div>
@@ -961,7 +961,7 @@
                                         <img src="static/img/content/client9.png" alt="">
                                     </a>
                                     <div class="why__content">
-                                        <h2>Продвижение магазина брендовых джинсовых курток “youniq” </h2>
+                                        <h2>Продвижение магазина брендовых джинсовых курток “Youniq” </h2>
                                         <h3>Цель:</h3>
 										<p>Увеличение трафика и заявок в сезонный период продаж</p>
                                         <div class="why__text">
@@ -1161,8 +1161,12 @@
     <!-- Audit Begin -->
     <section class="audit" style="background-image: url('static/img/content/audit-bg.jpg')">
         <div class="container">
-            <div class="audit__title">Также, у нас есть персонально предложение для тех, кто хочет развивать личный бренд</div>
-            <a href="#" onclick="changeMZ('Форма: ПОЛУЧИТЬ ПРЕДЛОЖЕНИЕ')" data-target="#modal-cta" data-toggle="modal" class="button -default audit__button">ПОЛУЧИТЬ ПРЕДЛОЖЕНИЕ</a>
+            <div class="audit__title">С нами вы можете развивать свой личный бренд</div>
+             <div class="audit__text">
+                Мы помогли десяткам профессионалов и собственников бизнеса.представлять себя в сети.
+                <br>Проконсультируем. Расскажем и покажем как.
+            </div>
+            <a href="#" onclick="changeMZ('Форма: ПОЛУЧИТЬ ПРЕДЛОЖЕНИЕ')" data-target="#modal-cta" data-toggle="modal" class="button -default audit__button">ХОЧУ КОНСУЛЬТАЦИЮ</a>
         </div>
     </section><!--/. Audit End -->
 
@@ -1225,7 +1229,7 @@
                         <input type="text" id="contname3" class="control__input" placeholder="Имя">
                     </div>
                     <div class="control">
-                        <input type="text" oninput="proverkaPress(document.getElementById('contphone3'), document.getElementById('but3'))" class="control__input" id="contphone3" placeholder="+7 (***) ***-**-**">
+                        <input type="text" oninput="proverkaPress(document.getElementById('contphone3'), document.getElementById('but3'))" class="control__input" id="contphone3" placeholder="+7(***)*******" value="">
                     </div>
                     <button type="button" id="but3" onclick="changeMZ('Форма: ДАВАЙТЕ СОТРУДНИЧАТЬ'); getAjax(document.getElementById('contname3').value, document.getElementById('contphone3').value, mazay)" class="button -default footer__button" disabled>Отправить</button>
                     <div class="footer__contacts">
@@ -1272,7 +1276,9 @@
     <noindex>
         <script>var mazay="Форма: Оставить заявку";
             var emailpattern = /^[a-z0-9._-]+@[a-z0-9-]+\.([a-z]{1,6}\.)?[a-z]{2,6}$/i;
-            var phonepatern = /^(\s*)?(\+)?([- _():=+]?\d[- _():=+]?){10,14}(\s*)?$/;
+            var phonepatern = /^\+[7](\+)?([- _():=+]?\d[- _():=+]?){10,14}$/;
+            //var phonepatern = /^(\s*)?(\+)?([- _():=+]?\d[- _():=+]?){10,14}(\s*)?$/;
+            //$(".phone_mask").mask("+7(999)9999999");
             var telPress=0;
 
             function ff(value) {
@@ -1294,7 +1300,39 @@
                 if (value != '') return 1; else return 0;
             }
 
+            function trash(x) {
+                if (x==")") return "";
+                else return x;
+            }
+
             function proverkaPress(element, element2) {
+                var str2=element.value.replace(" ", "");
+                str2=str2.replace('-', '');
+                str2=str2.replace('-', '');
+                str2=str2.replace('-', '');
+                str2=str2.replace('-', '');
+                var v1=trash(str2.substr(3, 1));
+                var v2=trash(str2.substr(4, 1));
+                var v3=trash(str2.substr(5, 1));
+
+                var vx=str2.substr(6, 1);
+
+                var v4=trash(str2.substr(7, 1));
+                var v5=trash(str2.substr(8, 1));
+                var v6=trash(str2.substr(9, 1));
+                var v7=trash(str2.substr(10, 1));
+                var v8=trash(str2.substr(11, 1));
+                var v9=trash(str2.substr(12, 1));
+                var v10=trash(str2.substr(13, 1));
+
+                if (vx!=")") v4=vx;
+                var vscop=")";
+                if (v1=="") vscop="";
+                if (v2=="") vscop="";
+                if (v3=="") vscop="";
+
+                var str="+7("+v1+v2+v3+vscop+v4+v5+v6+v7+v8+v9+v10;
+                element.value=str;
                 telPress=ph(element.value);
                 if(telPress==1) element2.disabled = false; else element2.disabled = true;
             }
@@ -1326,13 +1364,14 @@
                     </button>
                     <form class="form" id="form1">
                         <h2 class="form__title">ОСТАВЬТЕ ЗАЯВКУ</h2>
+                        <p>и получите бесплатный аудит <br>ваших аккаунтов в соц сетях</p> 
                         <div class="control">
                             <input type="text" name="name" id="contname1" class="control__input js-name is-required" placeholder="Имя">
                         </div>
                         <div class="control">
-                            <input type="text" name="phone" id="contphone1" oninput="proverkaPress(document.getElementById('contphone1'), document.getElementById('but1'))" class="control__input js-phone is-required" placeholder="Телефон">
+                            <input type="text" name="phone" id="contphone1" oninput="proverkaPress(document.getElementById('contphone1'), document.getElementById('but1'))" class="control__input js-phone is-required" placeholder="Телефон" value="">
                         </div>
-                        <button type="button" id="but1" onclick="getAjax(document.getElementById('contname1').value, document.getElementById('contphone1').value, mazay)" class="button form__button" data-dismiss="modal" data-target="#modal-success" data-toggle="modal" disabled>Оставить заявку</button>
+                        <button type="button" id="but1" onclick="getAjax(document.getElementById('contname1').value, document.getElementById('contphone1').value, mazay)" class="button -default entry__button" data-dismiss="modal" data-target="#modal-success" data-toggle="modal" disabled>Оставить заявку</button>
                     </form>
                 </div>
             </div>
