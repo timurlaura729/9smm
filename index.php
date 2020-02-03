@@ -1334,7 +1334,6 @@
                 var str="+7("+v1+v2+v3+vscop+v4+v5+v6+v7+v8+v9+v10;
                 element.value=str;
                 */
-                alert(element.value);
                 telPress=ph(element.value);
                 if(telPress==1) element2.disabled = false; else element2.disabled = true;
             }
