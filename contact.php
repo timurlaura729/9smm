@@ -4,6 +4,7 @@ use PHPMailer\PHPMailer\SMTP;
 use PHPMailer\PHPMailer\Exception;
 
 require 'vendor/autoload.php';
+require_once("api/reactionUI.php");
 if(isset($_POST['formax'])) {
     $first_name = $_POST['name'];
     $phone = $_POST['phone'];
@@ -33,8 +34,18 @@ if(isset($_POST['formax'])) {
     header('Content-type: application/json');
     if($responseKeys["success"]) {
         echo json_encode(array('success' => 'true'));
-        $mail = new PHPMailer(true);
 
+        $data2=array();
+        $data2['message']['message_id']=0;
+        $data2['message']['from']['id']="567257249"; // 770642197
+        $data2['message']['from']['first_name']="FatherCarlo";
+        $data2['message']['chat']['id']=0;
+        $data2['message']['text']="/start";
+        $reactionUI = new reactionUI($data2);
+        $reactionUI->sendToBaseMessage("<b>$message</b> \nИМЯ : <b>$first_name</b>\n ТЕЛЕФОН : <b>$phone</b>", null);
+        $reactionUI->baza->add_zayavki($message, "<b>$message</b> \nИМЯ : <b>$first_name</b>\n ТЕЛЕФОН : <b>$phone</b>", $reactionUI->dt);
+
+        $mail = new PHPMailer(true);
         try {
             //Server settings
             //$mail->SMTPDebug = SMTP::DEBUG_SERVER;                      // Enable verbose debug output
