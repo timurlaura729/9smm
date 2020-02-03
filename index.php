@@ -1232,10 +1232,10 @@
                     <div class="control">
                         <input type="text" oninput="proverkaPress(document.getElementById('contphone3'), document.getElementById('but3'))" class="control__input" id="contphone3" placeholder="+7(***)*******" value="">
                     </div>
-                    <button type="button" id="but3" onclick="changeMZ('Форма: ДАВАЙТЕ СОТРУДНИЧАТЬ'); getAjax(document.getElementById('contname3').value, document.getElementById('contphone3').value, mazay)" class="button -default footer__button" disabled>Отправить</button>
+                    <button type="button" id="but3" onclick="changeMZ('Форма: ДАВАЙТЕ СОТРУДНИЧАТЬ'); getAjax(document.getElementById('contname3').value, document.getElementById('contphone3').value, mazay)" class="button -default footer__button" data-target="#modal-cta" data-toggle="modal" disabled>Отправить</button>
                     <div class="footer__contacts">
                         г. Алматы, улица
-                        <br>+7 (727) 2222222
+                        <br>+7 (708) 103-74-85
                         <br>info@9oweb.kz
                     </div>
                     <div class="footer__social">
