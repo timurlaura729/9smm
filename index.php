@@ -1433,7 +1433,7 @@
     <script src="static/js/separate-js/scripts.js"></script>
     <script>
         $(document).ready(function(){
-            $("#contphone2").mask("+7(999) 999-99-99",{completed:function(){alert('Поле заполнено!')}});
+            $("#contphone2").mask("+7(999) 999-99-99",{completed:function(){ proverkaPress(document.getElementById('contphone2'), document.getElementById('but2')); }});
         })
     </script>
 
