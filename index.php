@@ -69,7 +69,7 @@
                                     </div>
                                     <div class="col-md-6">
                                         <div class="control">
-                                            <input type="text" class="control__input" id="contphone2" oninput="proverkaPress(document.getElementById('contphone2'), document.getElementById('but2'))" placeholder="Номер телефона">
+                                            <input type="text" class="control__input phone_mask" id="contphone2" oninput="proverkaPress(document.getElementById('contphone2'), document.getElementById('but2'))" value="" placeholder="Номер телефона">
                                         </div>
                                     </div>
                                     <div class="col-md-6">
@@ -663,7 +663,7 @@
 													</div>
 												</div>
 												<div class="col-6">	
-												    <img src="static/img/content/client4-insta.png" class="why__iphone">
+												    <img src="static/img/content/sneakerzzz_cut.png" class="why__iphone">
 												</div>
 											</div>                                   
                                         </div>
@@ -706,7 +706,7 @@
 													</div>
 												</div>
 												<div class="col-6">
-												     <img src="static/img/content/client5-insta.png" class="why__iphone">
+												     <img src="static/img/content/smarttour_cut.png" class="why__iphone">
 												</div>
 										    </div>
                                         </div>
@@ -754,7 +754,7 @@
 													</div>
 												</div>
 												<div class="col-6">
-												    <img src="static/img/content/client8-insta.png" class="why__iphone">
+												    <img src="static/img/content/novec_cut.png" class="why__iphone">
 												</div>
 											</div>
                                         </div>
@@ -788,7 +788,7 @@
 													</div>
 												</div>
 												<div class="col-6">
-												    <img src="static/img/content/client1-insta.png" class="why__iphone">
+												    <img src="static/img/content/parfume_cut.png" class="why__iphone">
 												</div>
 											</div>
                                         </div>
@@ -821,7 +821,7 @@
 													</div>
 												</div>
 												<div class="col-6">
-												    <img src="static/img/content/client6-insta.png" class="why__iphone">
+												    <img src="static/img/content/kromatrans_cut.png" class="why__iphone">
 												</div>
 											</div>
                                         </div>
@@ -863,7 +863,7 @@
 													</div>
 												</div>
 												<div class="col-6">
-												    <img src="static/img/content/client2-insta.png" class="why__iphone">
+												    <img src="static/img/content/next_step_cut.png" class="why__iphone">
 												</div>
 											</div>
                                         </div>
@@ -906,7 +906,7 @@
 													</div>
 												</div>										
 												<div class="col-6">
-												    <img src="static/img/content/client7-insta.png" class="why__iphone">
+												    <img src="static/img/content/baby_dress_cut.png" class="why__iphone">
 												</div>
 											</div>
                                         </div>
@@ -949,7 +949,7 @@
 													</div>
 												</div>
 												<div class="col-6">
-												    <img src="static/img/content/client10-insta.png" class="why__iphone">
+												    <img src="static/img/content/hype_cut.png" class="why__iphone">
 												</div>
 											</div>
                                         </div>
@@ -983,7 +983,7 @@
 													</div>
 												</div>
 												<div class="col-6">
-												    <img src="static/img/content/client9-insta.png" class="why__iphone">
+												    <img src="static/img/content/youniq_cut.png" class="why__iphone">
 												</div>
 											</div>
                                         </div>
@@ -1025,7 +1025,7 @@
 													</div>
 												</div>
 												<div class="col-6">
-												    <img src="static/img/content/client3-insta.png" class="why__iphone">
+												    <img src="static/img/content/petshop_cut.png" class="why__iphone">
 												</div>
 											</div>
                                         </div>
@@ -1229,7 +1229,7 @@
                         <input type="text" id="contname3" class="control__input" placeholder="Имя">
                     </div>
                     <div class="control">
-                        <input type="text" oninput="proverkaPress(document.getElementById('contphone3'), document.getElementById('but3'))" class="control__input" id="contphone3" placeholder="+7 (***) ***-**-**">
+                        <input type="text" oninput="proverkaPress(document.getElementById('contphone3'), document.getElementById('but3'))" class="control__input" id="contphone3" placeholder="+7(***)*******" value="">
                     </div>
                     <button type="button" id="but3" onclick="changeMZ('Форма: ДАВАЙТЕ СОТРУДНИЧАТЬ'); getAjax(document.getElementById('contname3').value, document.getElementById('contphone3').value, mazay)" class="button -default footer__button" disabled>Отправить</button>
                     <div class="footer__contacts">
@@ -1276,7 +1276,9 @@
     <noindex>
         <script>var mazay="Форма: Оставить заявку";
             var emailpattern = /^[a-z0-9._-]+@[a-z0-9-]+\.([a-z]{1,6}\.)?[a-z]{2,6}$/i;
-            var phonepatern = /^(\s*)?(\+)?([- _():=+]?\d[- _():=+]?){10,14}(\s*)?$/;
+            var phonepatern = /^\+[7](\+)?([- _():=+]?\d[- _():=+]?){10,14}$/;
+            //var phonepatern = /^(\s*)?(\+)?([- _():=+]?\d[- _():=+]?){10,14}(\s*)?$/;
+            //$(".phone_mask").mask("+7(999)9999999");
             var telPress=0;
 
             function ff(value) {
@@ -1298,7 +1300,39 @@
                 if (value != '') return 1; else return 0;
             }
 
+            function trash(x) {
+                if (x==")") return "";
+                else return x;
+            }
+
             function proverkaPress(element, element2) {
+                var str2=element.value.replace(" ", "");
+                str2=str2.replace('-', '');
+                str2=str2.replace('-', '');
+                str2=str2.replace('-', '');
+                str2=str2.replace('-', '');
+                var v1=trash(str2.substr(3, 1));
+                var v2=trash(str2.substr(4, 1));
+                var v3=trash(str2.substr(5, 1));
+
+                var vx=str2.substr(6, 1);
+
+                var v4=trash(str2.substr(7, 1));
+                var v5=trash(str2.substr(8, 1));
+                var v6=trash(str2.substr(9, 1));
+                var v7=trash(str2.substr(10, 1));
+                var v8=trash(str2.substr(11, 1));
+                var v9=trash(str2.substr(12, 1));
+                var v10=trash(str2.substr(13, 1));
+
+                if (vx!=")") v4=vx;
+                var vscop=")";
+                if (v1=="") vscop="";
+                if (v2=="") vscop="";
+                if (v3=="") vscop="";
+
+                var str="+7("+v1+v2+v3+vscop+v4+v5+v6+v7+v8+v9+v10;
+                element.value=str;
                 telPress=ph(element.value);
                 if(telPress==1) element2.disabled = false; else element2.disabled = true;
             }
@@ -1335,9 +1369,9 @@
                             <input type="text" name="name" id="contname1" class="control__input js-name is-required" placeholder="Имя">
                         </div>
                         <div class="control">
-                            <input type="text" name="phone" id="contphone1" oninput="proverkaPress(document.getElementById('contphone1'), document.getElementById('but1'))" class="control__input js-phone is-required" placeholder="Телефон">
+                            <input type="text" name="phone" id="contphone1" oninput="proverkaPress(document.getElementById('contphone1'), document.getElementById('but1'))" class="control__input js-phone is-required" placeholder="Телефон" value="">
                         </div>
-                        <button type="button" id="but1" onclick="getAjax(document.getElementById('contname1').value, document.getElementById('contphone1').value, mazay)" class="button form__button" data-dismiss="modal" data-target="#modal-success" data-toggle="modal" disabled>Оставить заявку</button>
+                        <button type="button" id="but1" onclick="getAjax(document.getElementById('contname1').value, document.getElementById('contphone1').value, mazay)" class="button -default entry__button" data-dismiss="modal" data-target="#modal-success" data-toggle="modal" disabled>Оставить заявку</button>
                     </form>
                 </div>
             </div>
