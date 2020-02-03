@@ -1435,8 +1435,8 @@
             $("#contphone1").mask("+7(999) 999-99-99",{completed:function(){ proverkaPress(document.getElementById('contphone1'), document.getElementById('but1')) }});
             $("#contphone2").mask("+7(999) 999-99-99",{completed:function(){ proverkaPress(document.getElementById('contphone2'), document.getElementById('but2')); }});
             $("#contphone3").mask("+7(999) 999-99-99",{completed:function(){ proverkaPress(document.getElementById('contphone3'), document.getElementById('but3')) }});
-            $("#contphone2").bind("input change", function() {
-                alert("change happend");
+            $("#contphone2").keydown(function(){
+                alert($("#textarea").val());
             });
         })
     </script>
