@@ -1430,6 +1430,11 @@
     <!-- Main scripts. You can replace it, but I recommend you to leave it here -->
     <script src="static/js/main.js"></script>
     <script src="static/js/separate-js/scripts.js"></script>
+    <script>
+        $(document).ready(function(){
+            $("#contphone2").mask("+7(999) 999-99-99",{completed:function(){alert('Поле заполнено!')}});
+        })
+    </script>
 
 </body>
 </html>
