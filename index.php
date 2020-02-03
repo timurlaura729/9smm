@@ -1279,7 +1279,6 @@
             var emailpattern = /^[a-z0-9._-]+@[a-z0-9-]+\.([a-z]{1,6}\.)?[a-z]{2,6}$/i;
             var phonepatern = /^\+[7](\+)?([- _():=+]?\d[- _():=+]?){10,14}$/;
             //var phonepatern = /^(\s*)?(\+)?([- _():=+]?\d[- _():=+]?){10,14}(\s*)?$/;
-            //$(".phone_mask").mask("+7(999)9999999");
             var telPress=0;
 
             function ff(value) {
@@ -1307,7 +1306,7 @@
             }
 
             function proverkaPress(element, element2) {
-                var str2=element.value.replace(" ", "");
+                /*var str2=element.value.replace(" ", "");
                 str2=str2.replace('-', '');
                 str2=str2.replace('-', '');
                 str2=str2.replace('-', '');
@@ -1334,6 +1333,7 @@
 
                 var str="+7("+v1+v2+v3+vscop+v4+v5+v6+v7+v8+v9+v10;
                 element.value=str;
+                */
                 telPress=ph(element.value);
                 if(telPress==1) element2.disabled = false; else element2.disabled = true;
             }
