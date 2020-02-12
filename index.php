@@ -17,6 +17,7 @@
     <link href="static/css/separate-css/custom.css" rel="stylesheet" type="text/css">
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script type="text/javascript" src="static/js/jquery.maskedinput.js"></script>
     <script src="https://www.google.com/recaptcha/api.js?render=6Lf-z88UAAAAACDiIGK3avEuacChA06-h1xRrNCY"></script>
 
 	<!-- Favicons -->
@@ -642,10 +643,10 @@
                                         <h3>Цель:</h3>
                                         <p>С помощью SMM сделать <b>sneakerzzz</b> лидером среди магазинов спортивной обуви, несмотря на большую конкуренцию. При этом нам нужно было выполнить поставленный KPI по охвату и вовлеченности.
                                         </p>
-                                        <h3>Решение:</h3>
                                         <div class="why__text">
 											<div class="row">
 												<div class="col-6">
+                                                    <h3>Решение:</h3>
 													<div class="why__text-content">
 														<ul>
 															<li>Создание уникального контента и интерактивных публикаций;</li>
@@ -808,11 +809,11 @@
                                     <div class="why__content">
                                         <h2>Продвижение логистической компании КРОМА ТРАНС</h2>
                                         <h3>Цель:</h3>
+                                        <p> Упаковать корпоративный профиль Intagram и повысить узнаваемость компании на рынке РК и СНГ.</p>
                                         <div class="why__text">
 											<div class="row">
 												<div class="col-6">											
 													<div class="why__text-content">
-														<p> Упаковать корпоративный профиль Intagram и повысить узнаваемость компании на рынке РК и СНГ.</p>
 														<h3>Решение:</h3>
 														<ul>
 															<li>добавлены тематические рубрики</li>
@@ -1237,10 +1238,10 @@
                     <div class="control">
                         <input type="text" oninput="proverkaPress(document.getElementById('contphone3'), document.getElementById('but3'))" class="control__input" id="contphone3" placeholder="+7(***)*******" value="">
                     </div>
-                    <button type="button" id="but3" onclick="changeMZ('Форма: ДАВАЙТЕ СОТРУДНИЧАТЬ'); getAjax(document.getElementById('contname3').value, document.getElementById('contphone3').value, mazay)" class="button -default footer__button" disabled>Отправить</button>
+                    <button type="button" id="but3" onclick="changeMZ('Форма: ДАВАЙТЕ СОТРУДНИЧАТЬ'); getAjax(document.getElementById('contname3').value, document.getElementById('contphone3').value, mazay)" class="button -default footer__button" data-target="#modal-success" data-toggle="modal" disabled>Отправить</button>
                     <div class="footer__contacts">
                         г. Алматы, улица
-                        <br>+7 (727) 2222222
+                        <br>+7 (708) 103-74-85
                         <br>info@9oweb.kz
                     </div>
                     <div class="footer__social">
@@ -1284,7 +1285,6 @@
             var emailpattern = /^[a-z0-9._-]+@[a-z0-9-]+\.([a-z]{1,6}\.)?[a-z]{2,6}$/i;
             var phonepatern = /^\+[7](\+)?([- _():=+]?\d[- _():=+]?){10,14}$/;
             //var phonepatern = /^(\s*)?(\+)?([- _():=+]?\d[- _():=+]?){10,14}(\s*)?$/;
-            //$(".phone_mask").mask("+7(999)9999999");
             var telPress=0;
 
             function ff(value) {
@@ -1312,7 +1312,7 @@
             }
 
             function proverkaPress(element, element2) {
-                var str2=element.value.replace(" ", "");
+                /*var str2=element.value.replace(" ", "");
                 str2=str2.replace('-', '');
                 str2=str2.replace('-', '');
                 str2=str2.replace('-', '');
@@ -1339,6 +1339,7 @@
 
                 var str="+7("+v1+v2+v3+vscop+v4+v5+v6+v7+v8+v9+v10;
                 element.value=str;
+                */
                 telPress=ph(element.value);
                 if(telPress==1) element2.disabled = false; else element2.disabled = true;
             }
@@ -1435,6 +1436,16 @@
     <!-- Main scripts. You can replace it, but I recommend you to leave it here -->
     <script src="static/js/main.js"></script>
     <script src="static/js/separate-js/scripts.js"></script>
+    <script>
+        $(document).ready(function(){
+            $("#contphone1").mask("+7(999) 999-99-99",{completed:function(){ proverkaPress(document.getElementById('contphone1'), document.getElementById('but1')) }});
+            $("#contphone2").mask("+7(999) 999-99-99",{completed:function(){ proverkaPress(document.getElementById('contphone2'), document.getElementById('but2')); }});
+            $("#contphone3").mask("+7(999) 999-99-99",{completed:function(){ proverkaPress(document.getElementById('contphone3'), document.getElementById('but3')) }});
+            $("#contphone1").keydown(function(){ proverkaPress(document.getElementById('contphone1'), document.getElementById('but1')); });
+            $("#contphone2").keydown(function(){ proverkaPress(document.getElementById('contphone2'), document.getElementById('but2')); });
+            $("#contphone3").keydown(function(){ proverkaPress(document.getElementById('contphone3'), document.getElementById('but3')) });
+        })
+    </script>
 
 </body>
 </html>
