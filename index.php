@@ -13,15 +13,21 @@
     <meta name="HandheldFriendly" content="true">
 
     <!-- Stylesheet -->
-    <link href="static/css/main.css" rel="stylesheet" type="text/css">
+    <link href="static/css/main.min.css" rel="stylesheet" type="text/css">
     <link href="static/css/separate-css/custom.css" rel="stylesheet" type="text/css">
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://www.google.com/recaptcha/api.js?render=6Lf-z88UAAAAACDiIGK3avEuacChA06-h1xRrNCY"></script>
 
-    <!-- Favicons -->
-    <link rel="icon" type="image/png" href="favicon.png">
-
+	<!-- Favicons -->
+	<link rel="icon" type="image/x-icon" href="/favicon-32.png">
+	<link rel="shortcut icon" type="image/x-icon" href="/favicon-32.png">
+	<link rel="apple-touch-icon" href="/favicon-1024.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/favicon-76.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/favicon-120.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/favicon-152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="/favicon-180.png">
+	
     <script>
         (function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)
     </script>
@@ -223,12 +229,12 @@
     </section><!--/. Features End -->
 
     <!-- Audit Begin -->
-    <section class="audit" style="background-image: url('static/img/content/audit-bg.jpg')">
+    <section class="audit" style="background-image: url('static/img/content/entry-bg.jpg')">
         <div class="container">
             <div class="audit__title">Получите бесплатный аудит ваших аккаунтов в социальных сетях</div>
             <div class="audit__text">
                 Социальные сети – один из самых быстрорастущих и перспективных каналов.
-                <br>И если делать все правильно, то из них можно успешно генерировать поток клиентов
+                <br>И если делать все правильно, то из них можно успешно генерировать поток клиентов.
             </div>
             <a href="#" onclick="changeMZ('Форма: ПОЛУЧИТЬ БЕСПЛАТНЫЙ АУДИТ')" data-target="#modal-cta" data-toggle="modal" class="button -default audit__button">ПОЛУЧИТЬ БЕСПЛАТНЫЙ АУДИТ</a>
         </div>
@@ -277,7 +283,7 @@
                             <img src="static/img/general/ic-checkbox.svg" alt="">
                         </div>
                         <div class="smm__text">
-                            Мы боремся за пустые лайки, а за лояльную и отзывчивую аудиторию. Делаем не просто красиво, но и с умом.
+                            Мы боремся не за пустые лайки, а за лояльную и отзывчивую аудиторию. Делаем не просто красиво, но и с умом.
                         </div>
                     </div>
                 </div>
@@ -1163,7 +1169,7 @@
         <div class="container">
             <div class="audit__title">С нами вы можете развивать свой личный бренд</div>
              <div class="audit__text">
-                Мы помогли десяткам профессионалов и собственников бизнеса.представлять себя в сети.
+                Мы помогли десяткам профессионалов и собственников бизнеса. Представлять себя в сети.
                 <br>Проконсультируем. Расскажем и покажем как.
             </div>
             <a href="#" onclick="changeMZ('Форма: ПОЛУЧИТЬ ПРЕДЛОЖЕНИЕ')" data-target="#modal-cta" data-toggle="modal" class="button -default audit__button">ХОЧУ КОНСУЛЬТАЦИЮ</a>
