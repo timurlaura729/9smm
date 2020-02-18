@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>11SMM продвижение в социальных сетях | Агентство 9 O'WEB</title>
+    <title>SMM продвижение в социальных сетях | Агентство 9 O'WEB</title>
     <meta content="SMM продвижение бизнеса. Привлечем клиентов. Создадим вовлекающий контент. Оставьте заявку на бесплатную консультацию. Реализуем под ключ. Комплексный подход. Отвечаем за результат." name="description">
     <meta content="SMM,социальные сети,instagram,facebook,telegram,twitter,продвижение" name="keywords">
     <meta name="viewport" content="width=device-width, initial-scale=1">
