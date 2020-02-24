@@ -1425,7 +1425,7 @@
 					<form class="modal-subscribe__form">
 						<h2 class="modal-subscribe__form-title">Оставь заявку и зарезервируй за собой предложение.</h2>
 						<div class="modal-subscribe__row">
-							<input type="text" id="contphone4" name="phone" oninput="proverkaPress(document.getElementById('contphone4'), document.getElementById('but4'))" class="modal-subscribe__input js-masked-phone" placeholder="Номер телефона">
+							<input type="text" name="phone" class="modal-subscribe__input js-masked-phone" placeholder="Номер телефона">
 							<button type="submit" class="button modal-subscribe__button">Хочу месяц бесплатно</button>
                             <button type="button" id="but4" onclick="getAjax(document.getElementById('contname4').value, document.getElementById('contphone4').value, mazay)" class="button -default entry__button" data-dismiss="modal" data-target="#modal-success" data-toggle="modal" disabled>Оставить заявку</button>
                         </div>
