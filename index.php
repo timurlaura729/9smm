@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>SMM продвижение в социальных сетях | Агентство 9 O'WEB</title>
+    <title>2SMM продвижение в социальных сетях | Агентство 9 O'WEB</title>
     <meta content="SMM продвижение бизнеса. Привлечем клиентов. Создадим вовлекающий контент. Оставьте заявку на бесплатную консультацию. Реализуем под ключ. Комплексный подход. Отвечаем за результат." name="description">
     <meta content="SMM,социальные сети,instagram,facebook,telegram,twitter,продвижение" name="keywords">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -1426,8 +1426,8 @@
 						<h2 class="modal-subscribe__form-title">Оставь заявку и зарезервируй за собой предложение.</h2>
 						<div class="modal-subscribe__row">
 							<input type="text" name="phone" id="contphone4" oninput="proverkaPress(document.getElementById('contphone4'), document.getElementById('but4'))" class="modal-subscribe__input js-masked-phone" placeholder="Номер телефона">
-							<button id="but4" onclick="getAjax(document.getElementById('contname4').value, document.getElementById('contphone4').value, mazay)" class="button modal-subscribe__button" data-dismiss="modal" data-target="#modal-success" data-toggle="modal" disabled>Хочу месяц бесплатно</button>
-						</div>
+							<button id="but4" onclick="changeMZ('Форма: Хочу месяц бесплатно'); getAjax(document.getElementById('contname4').value, document.getElementById('contphone4').value, mazay)" class="button modal-subscribe__button" data-dismiss="modal" data-target="#modal-success" data-toggle="modal" disabled>Хочу месяц бесплатно</button>
+                        </div>
 					</form>
 					<div class="modal-subscribe__hint">Специальное предложение действует только до конца февраля при условии заключения договора минимум на 3 месяца.</div>
 				</div>
