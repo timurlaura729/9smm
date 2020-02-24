@@ -1052,7 +1052,7 @@
     </section><!--/. Why End -->
 
     <!-- Plans Begin -->
-    <section class="plans">
+    <section id="plans" class="plans">
         <div class="container">
             <div class="section-header">
                 <div class="section-header__title">МЫ ПОДБЕРЕМ ОПТИМАЛЬНОЕ РЕШЕНИЕ ДЛЯ ВАШЕГО БИЗНЕСА В ЗАВИСИМОСТИ ОТ НИШИ</div>
