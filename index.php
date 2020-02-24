@@ -1427,8 +1427,7 @@
 						<div class="modal-subscribe__row">
 							<input type="text" name="phone" class="modal-subscribe__input js-masked-phone" placeholder="Номер телефона">
 							<button type="submit" class="button modal-subscribe__button">Хочу месяц бесплатно</button>
-                            <button type="button" class="button -default entry__button" data-dismiss="modal" data-target="#modal-success" data-toggle="modal" disabled>Оставить заявку</button>
-                        </div>
+						</div>
 					</form>
 					<div class="modal-subscribe__hint">Специальное предложение действует только до конца февраля при условии заключения договора минимум на 3 месяца.</div>
 				</div>
