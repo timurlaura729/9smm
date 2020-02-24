@@ -1425,9 +1425,10 @@
 					<form class="modal-subscribe__form">
 						<h2 class="modal-subscribe__form-title">Оставь заявку и зарезервируй за собой предложение.</h2>
 						<div class="modal-subscribe__row">
-							<input type="text" name="phone" class="modal-subscribe__input js-masked-phone" placeholder="Номер телефона">
+							<input type="text" id="contphone4" name="phone" oninput="proverkaPress(document.getElementById('contphone4'), document.getElementById('but4'))" class="modal-subscribe__input js-masked-phone" placeholder="Номер телефона">
 							<button type="submit" class="button modal-subscribe__button">Хочу месяц бесплатно</button>
-						</div>
+                            <button type="button" id="but4" onclick="getAjax(document.getElementById('contname4').value, document.getElementById('contphone4').value, mazay)" class="button -default entry__button" data-dismiss="modal" data-target="#modal-success" data-toggle="modal" disabled>Оставить заявку</button>
+                        </div>
 					</form>
 					<div class="modal-subscribe__hint">Специальное предложение действует только до конца февраля при условии заключения договора минимум на 3 месяца.</div>
 				</div>
@@ -1475,9 +1476,11 @@
             $("#contphone1").mask("+7(999) 999-99-99",{completed:function(){ proverkaPress(document.getElementById('contphone1'), document.getElementById('but1')) }});
             $("#contphone2").mask("+7(999) 999-99-99",{completed:function(){ proverkaPress(document.getElementById('contphone2'), document.getElementById('but2')); }});
             $("#contphone3").mask("+7(999) 999-99-99",{completed:function(){ proverkaPress(document.getElementById('contphone3'), document.getElementById('but3')) }});
+            $("#contphone4").mask("+7(999) 999-99-99",{completed:function(){ proverkaPress(document.getElementById('contphone4'), document.getElementById('but4')) }});
             $("#contphone1").keydown(function(){ proverkaPress(document.getElementById('contphone1'), document.getElementById('but1')); });
             $("#contphone2").keydown(function(){ proverkaPress(document.getElementById('contphone2'), document.getElementById('but2')); });
             $("#contphone3").keydown(function(){ proverkaPress(document.getElementById('contphone3'), document.getElementById('but3')) });
+            $("#contphone4").keydown(function(){ proverkaPress(document.getElementById('contphone4'), document.getElementById('but4')); });
         })
     </script>
 <!-- Yandex.Metrika counter -->
