@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>1SMM продвижение в социальных сетях | Агентство 9 O'WEB</title>
+    <title>SMM продвижение в социальных сетях | Агентство 9 O'WEB</title>
     <meta content="SMM продвижение бизнеса. Привлечем клиентов. Создадим вовлекающий контент. Оставьте заявку на бесплатную консультацию. Реализуем под ключ. Комплексный подход. Отвечаем за результат." name="description">
     <meta content="SMM,социальные сети,instagram,facebook,telegram,twitter,продвижение" name="keywords">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -1475,9 +1475,11 @@
             $("#contphone1").mask("+7(999) 999-99-99",{completed:function(){ proverkaPress(document.getElementById('contphone1'), document.getElementById('but1')) }});
             $("#contphone2").mask("+7(999) 999-99-99",{completed:function(){ proverkaPress(document.getElementById('contphone2'), document.getElementById('but2')); }});
             $("#contphone3").mask("+7(999) 999-99-99",{completed:function(){ proverkaPress(document.getElementById('contphone3'), document.getElementById('but3')) }});
+            $("#contphone4").mask("+7(999) 999-99-99",{completed:function(){ proverkaPress(document.getElementById('contphone4'), document.getElementById('but4')) }});
             $("#contphone1").keydown(function(){ proverkaPress(document.getElementById('contphone1'), document.getElementById('but1')); });
             $("#contphone2").keydown(function(){ proverkaPress(document.getElementById('contphone2'), document.getElementById('but2')); });
             $("#contphone3").keydown(function(){ proverkaPress(document.getElementById('contphone3'), document.getElementById('but3')) });
+            $("#contphone4").keydown(function(){ proverkaPress(document.getElementById('contphone4'), document.getElementById('but4')); });
         })
     </script>
 <!-- Yandex.Metrika counter -->
