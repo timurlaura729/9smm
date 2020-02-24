@@ -4,6 +4,40 @@ $(function() {
 
     /*
     |--------------------------------------------------------------------------
+    | Masked Phone
+    |--------------------------------------------------------------------------
+    */
+    $(".js-masked-phone").mask("+7(999)999-99-99",{placeholder:" "});
+
+    /*
+    |--------------------------------------------------------------------------
+    | Subscribe Modal
+    |--------------------------------------------------------------------------
+    */
+
+    var is_shown_modal = false;
+
+    // Call Function in 1000 sec
+    let timerId = setTimeout(function(){
+        if(is_shown_modal == false){
+            $('#modal-subscribe').modal('show');
+            is_shown_modal = true;
+        }
+    }, 14000);
+
+    $(window).scroll(function() {
+        if(is_shown_modal == false){
+            var oTop = $('#plans').offset().top - window.innerHeight;
+            if ($(window).scrollTop() > oTop) {
+                $('#modal-subscribe').modal('show');
+                is_shown_modal = true;
+                clearTimeout(timerId);
+            }
+        }
+    });
+
+    /*
+    |--------------------------------------------------------------------------
     | Mobile menu
     |--------------------------------------------------------------------------
     */

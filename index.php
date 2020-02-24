@@ -17,7 +17,6 @@
     <link href="static/css/separate-css/custom.css" rel="stylesheet" type="text/css">
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script type="text/javascript" src="static/js/jquery.maskedinput.js"></script>
     <script src="https://www.google.com/recaptcha/api.js?render=6Lf-z88UAAAAACDiIGK3avEuacChA06-h1xRrNCY"></script>
 
 	<!-- Favicons -->
@@ -1362,6 +1361,7 @@
                 });
             }
         </script>
+		
         <!-- Modal Cta Begin -->
         <div id="modal-cta" class="modal fade" tabindex="-1" role="dialog">
             <div class="modal-dialog" role="document">
@@ -1400,6 +1400,40 @@
             </div>
         </div>
         <!--/. Modal Success End -->
+		
+		<!-- Modal Subscribe Begin -->
+		<div id="modal-subscribe" class="modal modal-subscribe fade" tabindex="-1" role="dialog">
+			<div class="modal-dialog" role="document">
+				<div class="modal-content">
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+						<span aria-hidden="true">&#10005;</span>
+					</button>
+					<div id="js-parallax" class="modal-subscribe__parallax">
+						<div class="layer modal-subscribe__parallax-layer" data-depth="-0.15">
+							<img src="static/img/general/plane-1.png" alt="">
+						</div>
+						<div class="layer modal-subscribe__parallax-layer" data-depth="0.30">
+							<img src="static/img/general/plane-2.png" alt="">
+						</div>
+						<div class="layer modal-subscribe__parallax-layer" data-depth="-0.20">
+							<img src="static/img/general/plane-3.png" alt="">
+						</div>
+					</div>
+					<div class="modal-subscribe__header">Бесплатно месяц продвижения вашего бизнеса в соц сетях.</div>
+					<div class="modal-subscribe__title">Это реально?</div>
+					<div class="modal-subscribe__subtitle">Еще как!</div>
+					<form class="modal-subscribe__form">
+						<h2 class="modal-subscribe__form-title">Оставь заявку и зарезервируй за собой предложение.</h2>
+						<div class="modal-subscribe__row">
+							<input type="text" name="phone" class="modal-subscribe__input js-masked-phone" placeholder="Номер телефона">
+							<button type="submit" class="button modal-subscribe__button">Хочу месяц бесплатно</button>
+						</div>
+					</form>
+					<div class="modal-subscribe__hint">Специальное предложение действует только до конца февраля при условии заключения договора минимум на 3 месяца.</div>
+				</div>
+			</div>
+		</div>
+		<!--/. Modal Subscribe End -->	
 
         <!-- Video Bodal Begin -->
         <div class="video-modal">

@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="a9f9e97e-c109-4638-ad17-9350d4ce6018" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/jquery.maskedinput.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/jquery.maskedinput.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/separate-js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/separate-js/scripts.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +60,8 @@
       <workItem from="1579867731681" duration="6000" />
       <workItem from="1580381340966" duration="753000" />
       <workItem from="1580383421918" duration="1747000" />
+      <workItem from="1581579192231" duration="19000" />
+      <workItem from="1582537970702" duration="68000" />
     </task>
     <task id="LOCAL-00001" summary="Правки лого">
       <created>1579693536666</created>
@@ -158,10 +164,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Изменил структуру кейсов 3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="649" y="152" key="CommitChangelistDialog2" timestamp="1580384654638">
+    <state x="649" y="152" key="CommitChangelistDialog2" timestamp="1582538065187">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="649" y="152" key="CommitChangelistDialog2/0.0.2048.1112@0.0.2048.1112" timestamp="1580384654638" />
+    <state x="649" y="152" key="CommitChangelistDialog2/0.0.2048.1112@0.0.2048.1112" timestamp="1582538065187" />
     <state x="805" y="312" key="FileChooserDialogImpl" timestamp="1580388851155">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -170,9 +176,9 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="533" y="200" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1579617531352" />
-    <state x="617" y="290" key="Vcs.Push.Dialog.v2" timestamp="1580384656980">
+    <state x="617" y="290" key="Vcs.Push.Dialog.v2" timestamp="1581504650724">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="617" y="290" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1580384656980" />
+    <state x="617" y="290" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1581504650724" />
   </component>
 </project>
