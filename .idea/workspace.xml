@@ -164,10 +164,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Изменил структуру кейсов 3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="649" y="152" key="CommitChangelistDialog2" timestamp="1582538065187">
+    <state x="649" y="152" key="CommitChangelistDialog2" timestamp="1582538120634">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="649" y="152" key="CommitChangelistDialog2/0.0.2048.1112@0.0.2048.1112" timestamp="1582538065187" />
+    <state x="649" y="152" key="CommitChangelistDialog2/0.0.2048.1112@0.0.2048.1112" timestamp="1582538120634" />
     <state x="805" y="312" key="FileChooserDialogImpl" timestamp="1580388851155">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -176,9 +176,9 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="533" y="200" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1579617531352" />
-    <state x="617" y="290" key="Vcs.Push.Dialog.v2" timestamp="1581504650724">
+    <state x="617" y="290" key="Vcs.Push.Dialog.v2" timestamp="1582538122842">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="617" y="290" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1581504650724" />
+    <state x="617" y="290" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1582538122842" />
   </component>
 </project>
