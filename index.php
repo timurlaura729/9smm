@@ -1426,7 +1426,7 @@
 						<h2 class="modal-subscribe__form-title">Оставь заявку и зарезервируй за собой предложение.</h2>
 						<div class="modal-subscribe__row">
 							<input type="text" name="phone" id="contphone4" oninput="proverkaPress(document.getElementById('contphone4'), document.getElementById('but4'))" class="modal-subscribe__input js-masked-phone" placeholder="Номер телефона">
-							<button type="button" id="but4" onclick="changeMZ('Форма: Хочу месяц бесплатно'); getAjax(document.getElementById('contname4').value, document.getElementById('contphone4').value, mazay)" class="button modal-subscribe__button" data-dismiss="modal" data-target="#modal-success" data-toggle="modal" disabled>Хочу месяц бесплатно</button>
+							<button type="button" id="but4" onclick="changeMZ('Форма: Хочу месяц бесплатно'); getAjax('попап', document.getElementById('contphone4').value, mazay)" class="button modal-subscribe__button" data-dismiss="modal" data-target="#modal-success" data-toggle="modal" disabled>Хочу месяц бесплатно</button>
                         </div>
 					</form>
 					<div class="modal-subscribe__hint">Специальное предложение действует только до конца февраля при условии заключения договора минимум на 3 месяца.</div>
