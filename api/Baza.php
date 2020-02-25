@@ -80,7 +80,7 @@ class Baza extends PDO
     function add_zayavki($formname, $message)
     {
         $dt=date("d.m.Y H:i");
-        $sql = "INSERT INTO zayavki (formname, message, date) VALUES ('$formname', '$message', '$dt')";
+        $sql = "INSERT INTO zayavki(formname, message, date) VALUES ('$formname', '$message', '$dt')";
         $query = $this->prepare($sql);
         $query->execute();
     }

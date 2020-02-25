@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9f9e97e-c109-4638-ad17-9350d4ce6018" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/api/Baza.php" beforeDir="false" afterPath="$PROJECT_DIR$/api/Baza.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/contact.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,7 +67,7 @@
       <workItem from="1581579192231" duration="19000" />
       <workItem from="1582537970702" duration="367000" />
       <workItem from="1582541553936" duration="3045000" />
-      <workItem from="1582607944072" duration="187000" />
+      <workItem from="1582607944072" duration="391000" />
     </task>
     <task id="LOCAL-00001" summary="Правки лого">
       <created>1579693536666</created>
