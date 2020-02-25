@@ -43,7 +43,6 @@ if(isset($_POST['formax'])) {
         $data2['message']['text']="/start";
         $reactionUI = new reactionUI($data2);
         $reactionUI->sendToBaseMessage("<b>$message</b> \nИМЯ : <b>$first_name</b>\n 777ТЕЛЕФОН : <b>$phone</b>", null);
-        $reactionUI->baza->add_zayavki("test", "xxxx");
         $reactionUI->baza->add_zayavki($message, "<b>$message</b> \nИМЯ : <b>$first_name</b>\n ТЕЛЕФОН : <b>$phone</b>");
 
         $mail = new PHPMailer(true);
