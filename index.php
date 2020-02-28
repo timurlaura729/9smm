@@ -80,7 +80,7 @@
                             <div class="entry__title">SMM-ПРОДВИЖЕНИЕ
                                 <br><span>для Вашего бизнеса</span>
                             </div>
-                            <div class="entry__subtitle">Получайте лояльных клиентов и подписчиков из социальных сетей Facebook, Instagram, Вконтакте, Telegram</div>
+                            <div class="entry__subtitle">Получайте лояльных клиентов и подписчиков из социальных сетей Facebook, Instagram, Вконтакте, Telegram.</div>
                             <form class="entry__form">
                                 <div class="row" data-gutter="15">
                                     <div class="col-md-6">
@@ -135,7 +135,7 @@
                             <div class="features__item">
                                 <img src="static/img/general/ic-features-1.svg" alt="">
                                 <div class="features__text">
-                                    Мы определяем <span>smm-стратегию</span>, формируем концепцию продвижения. В этом случае мы точно знаем, что и для кого публикуем. Откуда стартуем и куда направляемся
+                                    Мы определяем <span>smm-стратегию</span>, формируем концепцию продвижения. В этом случае мы точно знаем, что и для кого публикуем. Откуда стартуем и куда направляемся.
                                 </div>
                             </div>
                         </div>
@@ -143,7 +143,7 @@
                             <div class="features__item">
                                 <img src="static/img/general/ic-features-2.svg" alt="">
                                 <div class="features__text">
-                                    Создаем действительно <span>правильный контент</span>. А также генерируем идеи акций, конкурсов, мероприятий, опросов. Даем аудитории то, что ей интересно
+                                    Создаем действительно <span>правильный контент</span>. А также генерируем идеи акций, конкурсов, мероприятий, опросов. Даем аудитории то, что ей интересно.
                                 </div>
                             </div>
                         </div>
@@ -205,7 +205,7 @@
                             <img src="static/img/general/ic-checkbox.svg" alt="">
                         </div>
                         <div class="smm__text">
-                            Это - <span>интерактивно</span>. SMM дает возможность не просто информировать клиентов, а общаться с ними, оперативно реагировать на запросы и отзывы
+                            Это - <span>интерактивно</span>. SMM дает возможность не просто информировать клиентов, а общаться с ними, оперативно реагировать на запросы и отзывы.
                         </div>
                     </div>
                 </div>
@@ -246,7 +246,7 @@
     <!-- Audit Begin -->
     <section class="audit" style="background-image: url('static/img/content/entry-bg.jpg')">
         <div class="container">
-            <div class="audit__title">Получите бесплатный аудит ваших аккаунтов в социальных сетях</div>
+            <div class="audit__title">Получите бесплатный аудит ваших аккаунтов в социальных сетях!</div>
             <div class="audit__text">
                 Социальные сети – один из самых быстрорастущих и перспективных каналов.
                 <br>И если делать все правильно, то из них можно успешно генерировать поток клиентов.
@@ -259,7 +259,7 @@
     <section class="smm">
         <div class="container">
             <div class="section-header">
-                <div class="section-header__title">4 ПРИЧИНЫ, ПО КОТОРЫМ МЫ УВЕЛИЧИВАЕМ ПОТОК КЛИЕНТОВ И ГЕНЕРИРУЕМ ЛОЯЛЬНУЮ АУДИТОРИЮ</div>
+                <div class="section-header__title">4 ПРИЧИНЫ, ПО КОТОРЫМ МЫ УВЕЛИЧИВАЕМ ПОТОК КЛИЕНТОВ И ГЕНЕРИРУЕМ ЛОЯЛЬНУЮ АУДИТОРИЮ.</div>
             </div>
             <div class="row" vertical-gutter="30">
                 <div class="col-md-6">
@@ -310,7 +310,7 @@
     <section class="why" style="background-image: url('static/img/content/why-bg.jpg')">
         <div class="container">
             <div class="section-header">
-                <div class="section-header__title">Лучшее доказательство - успех наших работ</div>
+                <div class="section-header__title">Лучшее доказательство - успех наших работ.</div>
             </div>
             <div class="why__card">
                 <div class="why__desktop">
@@ -663,10 +663,10 @@
                                                     <h3>Решение:</h3>
 													<div class="why__text-content">
 														<ul>
-															<li>Создание уникального контента и интерактивных публикаций;</li>
-															<li>Разработка графических вижуалов/обработка фото;</li>
-															<li>Съемка видео роликов и написание сценариев к ним;</li>
-															<li>Постоянно взаимодействие с подписчиками.</li>
+															<li>Создание уникального контента и интерактивных публикаций</li>
+															<li>Разработка графических вижуалов/обработка фото</li>
+															<li>Съемка видео роликов и написание сценариев к ним</li>
+															<li>Постоянно взаимодействие с подписчиками</li>
 														</ul>
 														<h3>Результат:</h3>
 														<p>
@@ -1070,7 +1070,7 @@
     <section id="plans" class="plans">
         <div class="container">
             <div class="section-header">
-                <div class="section-header__title">МЫ ПОДБЕРЕМ ОПТИМАЛЬНОЕ РЕШЕНИЕ ДЛЯ ВАШЕГО БИЗНЕСА В ЗАВИСИМОСТИ ОТ НИШИ</div>
+                <div class="section-header__title">МЫ ПОДБЕРЕМ ОПТИМАЛЬНОЕ РЕШЕНИЕ ДЛЯ ВАШЕГО БИЗНЕСА В ЗАВИСИМОСТИ ОТ НИШИ!</div>
             </div>
             <div class="row" vertical-gutter="30">
                 <div class="col-lg-4">
@@ -1182,7 +1182,7 @@
     <!-- Audit Begin -->
     <section class="audit" style="background-image: url('static/img/content/audit-bg.jpg')">
         <div class="container">
-            <div class="audit__title">С нами вы можете развивать свой личный бренд</div>
+            <div class="audit__title">С нами вы можете развивать свой личный бренд!</div>
              <div class="audit__text">
                 Мы помогли десяткам профессионалов и собственников бизнеса. Представлять себя в сети.
                 <br>Проконсультируем. Расскажем и покажем как.
@@ -1386,7 +1386,7 @@
                     </button>
                     <form class="form" id="form1">
                         <h2 class="form__title">ОСТАВЬТЕ ЗАЯВКУ</h2>
-                        <p>и получите бесплатный аудит <br>ваших аккаунтов в соц сетях</p> 
+                        <p>и получите бесплатный аудит <br>ваших аккаунтов в соц сетях!</p> 
                         <div class="control">
                             <input type="text" name="name" id="contname1" class="control__input js-name is-required" placeholder="Имя">
                         </div>
