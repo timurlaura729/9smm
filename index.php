@@ -1282,7 +1282,7 @@
                 DG.then(function () {
                     map = DG.map('map', {
                         center: [43.240533, 76.890699],
-						boxZoom: false,
+						scrollWheelZoom: false,
                         zoom: 14
                     });
 
