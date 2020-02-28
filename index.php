@@ -126,7 +126,7 @@
     <section class="features">
         <div class="container">
             <div class="section-header">
-                <div class="section-header__title">SMM-ПРОДВИЖЕНИЕ, КОТОРОЕ РАБОТАЕТ</div>
+                <div class="section-header__title">SMM-ПРОДВИЖЕНИЕ, КОТОРОЕ РАБОТАЕТ!</div>
             </div>
             <div class="features__slider">
                 <div class="swiper-container jsFeaturesSlider">
