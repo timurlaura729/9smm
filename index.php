@@ -249,7 +249,7 @@
             <div class="audit__title">Получите бесплатный аудит ваших аккаунтов в социальных сетях!</div>
             <div class="audit__text">
                 Социальные сети – один из самых быстрорастущих и перспективных каналов.
-                <br>И если делать все правильно, то из них можно успешно генерировать поток клиентов.
+                <br>И, если делать все правильно, то из них можно успешно генерировать поток клиентов.
             </div>
             <a href="#" onclick="changeMZ('Форма: ПОЛУЧИТЬ БЕСПЛАТНЫЙ АУДИТ')" data-target="#modal-cta" data-toggle="modal" class="button -default audit__button">ПОЛУЧИТЬ БЕСПЛАТНЫЙ АУДИТ</a>
         </div>
@@ -259,7 +259,7 @@
     <section class="smm">
         <div class="container">
             <div class="section-header">
-                <div class="section-header__title">4 ПРИЧИНЫ, ПО КОТОРЫМ МЫ УВЕЛИЧИВАЕМ ПОТОК КЛИЕНТОВ И ГЕНЕРИРУЕМ ЛОЯЛЬНУЮ АУДИТОРИЮ.</div>
+                <div class="section-header__title">4 ПРИЧИНЫ, ПО КОТОРЫМ МЫ УВЕЛИЧИВАЕМ ПОТОК КЛИЕНТОВ И ГЕНЕРИРУЕМ ЛОЯЛЬНУЮ АУДИТОРИЮ</div>
             </div>
             <div class="row" vertical-gutter="30">
                 <div class="col-md-6">
@@ -310,7 +310,7 @@
     <section class="why" style="background-image: url('static/img/content/why-bg.jpg')">
         <div class="container">
             <div class="section-header">
-                <div class="section-header__title">Лучшее доказательство - успех наших работ.</div>
+                <div class="section-header__title">Лучшее доказательство - успех наших работ</div>
             </div>
             <div class="why__card">
                 <div class="why__desktop">
@@ -355,7 +355,7 @@
 							<div class="swiper-slide">
 								<div class="why__desktop-item">
 									<div class="why__text">
-										<h2>Продвижение туристической компании “Smart tour”</h2>
+										<h2>Продвижение туристической компании “Smart Tour”</h2>
 										<h5>Цель</h5>
 										<p>С помощью Instagram донести до конечного потребителя мысль о том, что компания не только реализует горящие туры, но и предоставляет максимальный уровень сервиса для клиентов.</p>
 										<br>
@@ -510,7 +510,7 @@
 							<div class="swiper-slide">
 								<div class="why__desktop-item">
 									<div class="why__text">
-										<h2>Продвижение магазина авторской детской одежды “baby.dress.ala” в Instagram</h2>
+										<h2>Продвижение магазина авторской детской одежды “Baby Dress” в Instagram</h2>
 										<h5>Цель</h5>
 										<p>Увеличить продажи и привлечь живую аудиторию, рассказать про ассортимент магазина и вовлечь в наш контент.</p>
 										<br>
@@ -546,7 +546,7 @@
 							<div class="swiper-slide">
 								<div class="why__desktop-item">
 									<div class="why__text">
-										<h2>Продвижение фестиваля электронной музыки “Hype DJ fest”</h2>
+										<h2>Продвижение фестиваля электронной музыки “Hype DJ Fest”</h2>
 										<h5>Описание</h5>
 										<p>Продвижение мероприятия на площадке Instagram, привлечение заинтересованных пользователь с целью приобрести билет на концерт.</p>
 										<br>
@@ -655,7 +655,7 @@
                                     <div class="why__content">
                                         <h2>Продвижение магазина спортивной обуви</h2>
                                         <h3>Цель:</h3>
-                                        <p>С помощью SMM сделать <b>sneakerzzz</b> лидером среди магазинов спортивной обуви, несмотря на большую конкуренцию. При этом нам нужно было выполнить поставленный KPI по охвату и вовлеченности.
+                                        <p>С помощью SMM сделать <b>Sneakerzzz</b> лидером среди магазинов спортивной обуви, несмотря на большую конкуренцию. При этом нам нужно было выполнить поставленный KPI по охвату и вовлеченности.
                                         </p>
                                         <div class="why__text">
 											<div class="row">
@@ -696,7 +696,7 @@
                                         <img src="static/img/content/client5.png" alt="">
                                     </a>
                                     <div class="why__content">
-                                        <h2>Продвижение туристической компании “Smart tour”</h2>
+                                        <h2>Продвижение туристической компании “Smart Tour”</h2>
                                         <h3>Цель:</h3>
                                         <p>С помощью Instagram донести до конечного потребителя мысль о том, что компания не только реализует горящие туры,  но и предоставляет максимальный уровень сервиса для клиентов.</p>										
                                         <div class="why__text">
@@ -854,7 +854,7 @@
                                         <img src="static/img/content/client2.png" alt="">
                                     </a>
                                     <div class="why__content">
-                                        <h2>Продвижение танцевальной студии “Next step”</h2>
+                                        <h2>Продвижение танцевальной студии “Next Step”</h2>
                                         <h3>Цель:</h3>
 										<p>Увеличить количество подписчиков, привлечь потенциальных клиентов на уроки танцев в студию.</p>
                                         <div class="why__text">
@@ -896,7 +896,7 @@
                                         <img src="static/img/content/client7.png" alt="">
                                     </a>
                                     <div class="why__content">
-                                        <h2>Продвижение магазина авторской детской одежды “baby.dress.ala” в Instagram</h2>
+                                        <h2>Продвижение магазина авторской детской одежды “Baby Dress” в Instagram</h2>
                                         <h3>Цель:</h3>
 										<p>Увеличить продажи и привлечь живую аудиторию, рассказать про ассортимент магазина и вовлечь в наш контент.</p>										
                                         <div class="why__text">
@@ -939,7 +939,7 @@
                                         <img src="static/img/content/client10.png" alt="">
                                     </a>
                                     <div class="why__content">
-                                        <h2>Продвижение фестиваля электронной музыки “Hype DJ fest”</h2>
+                                        <h2>Продвижение фестиваля электронной музыки “Hype DJ Fest”</h2>
                                         <h3>Цель:</h3>
                                         <p>Продвижение мероприятия на площадке Instagram, привлечение заинтересованных пользователь с целью приобрести билет на концерт.</p>									
                                         <div class="why__text">
@@ -1445,7 +1445,7 @@
 							<button type="button" id="but4" onclick="changeMZ('Форма: Хочу месяц бесплатно'); getAjax('попап', document.getElementById('contphone4').value, mazay)" class="button modal-subscribe__button" data-dismiss="modal" data-target="#modal-success" data-toggle="modal" disabled>Хочу месяц бесплатно</button>
                         </div>
 					</form>
-					<div class="modal-subscribe__hint">Специальное предложение действует только до конца февраля при условии заключения договора минимум на 3 месяца.</div>
+					<div class="modal-subscribe__hint">Специальное предложение действует только до конца марта при условии заключения договора минимум на 3 месяца.</div>
 				</div>
 			</div>
 		</div>
