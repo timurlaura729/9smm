@@ -1327,34 +1327,6 @@
             }
 
             function proverkaPress(element, element2) {
-                /*var str2=element.value.replace(" ", "");
-                str2=str2.replace('-', '');
-                str2=str2.replace('-', '');
-                str2=str2.replace('-', '');
-                str2=str2.replace('-', '');
-                var v1=trash(str2.substr(3, 1));
-                var v2=trash(str2.substr(4, 1));
-                var v3=trash(str2.substr(5, 1));
-
-                var vx=str2.substr(6, 1);
-
-                var v4=trash(str2.substr(7, 1));
-                var v5=trash(str2.substr(8, 1));
-                var v6=trash(str2.substr(9, 1));
-                var v7=trash(str2.substr(10, 1));
-                var v8=trash(str2.substr(11, 1));
-                var v9=trash(str2.substr(12, 1));
-                var v10=trash(str2.substr(13, 1));
-
-                if (vx!=")") v4=vx;
-                var vscop=")";
-                if (v1=="") vscop="";
-                if (v2=="") vscop="";
-                if (v3=="") vscop="";
-
-                var str="+7("+v1+v2+v3+vscop+v4+v5+v6+v7+v8+v9+v10;
-                element.value=str;
-                */
                 telPress=ph(element.value);
                 if(telPress==1) element2.disabled = false; else element2.disabled = true;
             }
@@ -1445,7 +1417,7 @@
 							<button type="button" id="but4" onclick="changeMZ('Форма: Хочу месяц бесплатно'); getAjax('попап', document.getElementById('contphone4').value, mazay)" class="button modal-subscribe__button" data-dismiss="modal" data-target="#modal-success" data-toggle="modal" disabled>Хочу месяц бесплатно</button>
                         </div>
 					</form>
-					<div class="modal-subscribe__hint">Специальное предложение действует только до конца февраля при условии заключения договора минимум на 3 месяца.</div>
+					<div class="modal-subscribe__hint">Специальное предложение действует только до конца марта при условии заключения договора минимум на 3 месяца.</div>
 				</div>
 			</div>
 		</div>
